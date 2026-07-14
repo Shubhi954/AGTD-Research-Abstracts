@@ -1,0 +1,1164 @@
+venue,era,year,title,doi,dblp_key,canonical_source
+ICLR,pre_gpt,2013,"1st International Conference on Learning Representations, ICLR 2013, Scottsdale, Arizona, USA, May 2-4, 2013, Conference Track Proceedings",,conf/iclr/2013,DBLP
+ICLR,pre_gpt,2013,"1st International Conference on Learning Representations, ICLR 2013, Scottsdale, Arizona, USA, May 2-4, 2013, Workshop Track Proceedings",,conf/iclr/2013w,DBLP
+ICLR,pre_gpt,2013,A Nested HDP for Hierarchical Topic Models,,journals/corr/abs-1301-3570,DBLP
+ICLR,pre_gpt,2013,A Semantic Matching Energy Function for Learning with Multi-relational Data,,journals/corr/abs-1301-3485,DBLP
+ICLR,pre_gpt,2013,"Adaptive learning rates and parallelization for stochastic, sparse, non-smooth gradients",,journals/corr/abs-1301-3764,DBLP
+ICLR,pre_gpt,2013,Affinity Weighted Embedding,,journals/corr/abs-1301-4171,DBLP
+ICLR,pre_gpt,2013,Auto-pooling: Learning to Improve Invariance of Image Features from Image Sequences,,journals/corr/abs-1301-3323,DBLP
+ICLR,pre_gpt,2013,Barnes-Hut-SNE,,journals/corr/abs-1301-3342,DBLP
+ICLR,pre_gpt,2013,Big Neural Networks Waste Capacity,,journals/corr/abs-1301-3583,DBLP
+ICLR,pre_gpt,2013,Block Coordinate Descent for Sparse NMF,,journals/corr/abs-1301-3527,DBLP
+ICLR,pre_gpt,2013,Boltzmann Machines and Denoising Autoencoders for Image Denoising,,journals/corr/abs-1301-3468,DBLP
+ICLR,pre_gpt,2013,Clustering Learning for Robotic Vision,,journals/corr/abs-1301-2820,DBLP
+ICLR,pre_gpt,2013,Complexity of Representation and Inference in Compositional Models with Part Sharing,,journals/corr/abs-1301-3560,DBLP
+ICLR,pre_gpt,2013,Cutting Recursive Autoencoder Trees,,journals/corr/abs-1301-2811,DBLP
+ICLR,pre_gpt,2013,Deep Learning for Detecting Robotic Grasps,,journals/corr/abs-1301-3592,DBLP
+ICLR,pre_gpt,2013,Deep Predictive Coding Networks,,journals/corr/abs-1301-3541,DBLP
+ICLR,pre_gpt,2013,Discrete Restricted Boltzmann Machines,,journals/corr/abs-1301-3529,DBLP
+ICLR,pre_gpt,2013,Discriminative Recurrent Sparse Auto-Encoders,,journals/corr/abs-1301-3775,DBLP
+ICLR,pre_gpt,2013,Efficient Estimation of Word Representations in Vector Space,,journals/corr/abs-1301-3781,DBLP
+ICLR,pre_gpt,2013,Efficient Learning of Domain-invariant Image Representations,,journals/corr/abs-1301-3224,DBLP
+ICLR,pre_gpt,2013,Factorized Topic Models,,journals/corr/abs-1301-3461,DBLP
+ICLR,pre_gpt,2013,Feature Learning in Deep Neural Networks - A Study on Speech Recognition Tasks,,journals/corr/abs-1301-3605,DBLP
+ICLR,pre_gpt,2013,Feature grouping from spatially constrained multiplicative interaction,,journals/corr/abs-1301-3391,DBLP
+ICLR,pre_gpt,2013,Gradient Driven Learning for Pooling in Visual Pipeline Feature Extraction Models,,journals/corr/abs-1301-3755,DBLP
+ICLR,pre_gpt,2013,Herded Gibbs Sampling,,journals/corr/abs-1301-4168,DBLP
+ICLR,pre_gpt,2013,Hierarchical Data Representation Model - Multi-layer NMF,,journals/corr/abs-1301-6316,DBLP
+ICLR,pre_gpt,2013,Indoor Semantic Segmentation using depth information,,journals/corr/abs-1301-3572,DBLP
+ICLR,pre_gpt,2013,Information Theoretic Learning with Infinitely Divisible Kernels,,journals/corr/abs-1301-3551,DBLP
+ICLR,pre_gpt,2013,Jitter-Adaptive Dictionary Learning - Application to Multi-Trial Neuroelectric Signals,,journals/corr/abs-1301-3611,DBLP
+ICLR,pre_gpt,2013,Joint Training Deep Boltzmann Machines for Classification,,journals/corr/abs-1301-3568,DBLP
+ICLR,pre_gpt,2013,Knowledge Matters: Importance of Prior Information for Optimization,,journals/corr/abs-1301-4083,DBLP
+ICLR,pre_gpt,2013,Latent Relation Representations for Universal Schemas,,journals/corr/abs-1301-4293,DBLP
+ICLR,pre_gpt,2013,Learnable Pooling Regions for Image Classification,,journals/corr/abs-1301-3516,DBLP
+ICLR,pre_gpt,2013,Learning Features with Structure-Adapting Multi-view Exponential Family Harmoniums,,journals/corr/abs-1301-3539,DBLP
+ICLR,pre_gpt,2013,Learning New Facts From Knowledge Bases With Neural Tensor Networks and Semantic Word Vectors,,journals/corr/abs-1301-3618,DBLP
+ICLR,pre_gpt,2013,Learning Stable Group Invariant Representations with Convolutional Networks,,journals/corr/abs-1301-3537,DBLP
+ICLR,pre_gpt,2013,Linear-Nonlinear-Poisson Neurons Can Do Inference On Deep Boltzmann Machines,,journals/corr/abs-1210-8442,DBLP
+ICLR,pre_gpt,2013,Local Component Analysis,,journals/corr/abs-1109-0093,DBLP
+ICLR,pre_gpt,2013,Matrix Approximation under Local Low-Rank Assumption,,journals/corr/abs-1301-3192,DBLP
+ICLR,pre_gpt,2013,Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines,,journals/corr/abs-1301-3545,DBLP
+ICLR,pre_gpt,2013,Natural Gradient Revisited,,journals/corr/abs-1301-3584v4,DBLP
+ICLR,pre_gpt,2013,Pushing Stochastic Gradient towards Second-Order Methods -- Backpropagation Learning with Transformations in Nonlinearities,,journals/corr/abs-1301-3476,DBLP
+ICLR,pre_gpt,2013,Regularized Auto-Encoders Estimate Local Statistics,,journals/corr/abs-1211-4246,DBLP
+ICLR,pre_gpt,2013,Regularized Discriminant Embedding for Visual Descriptor Learning,,journals/corr/abs-1301-3644,DBLP
+ICLR,pre_gpt,2013,Saturating Auto-Encoder,,journals/corr/abs-1301-3577,DBLP
+ICLR,pre_gpt,2013,Stochastic Pooling for Regularization of Deep Convolutional Neural Networks,,journals/corr/abs-1301-3557,DBLP
+ICLR,pre_gpt,2013,The Diagonalized Newton Algorithm for Nonnegative Matrix Factorization,,journals/corr/abs-1301-3389,DBLP
+ICLR,pre_gpt,2013,The Manifold of Human Emotions,,journals/corr/abs-1301-3214,DBLP
+ICLR,pre_gpt,2013,The Neural Representation Benchmark and its Evaluation on Brain and Machine,,journals/corr/abs-1301-3530,DBLP
+ICLR,pre_gpt,2013,Training Neural Networks with Stochastic Hessian-Free Optimization,,journals/corr/abs-1301-3641,DBLP
+ICLR,pre_gpt,2013,Tree structured sparse coding on cubes,,journals/corr/abs-1301-3590,DBLP
+ICLR,pre_gpt,2013,Two SVDs produce more focal deep learning representations,,journals/corr/abs-1301-3627,DBLP
+ICLR,pre_gpt,2013,Unsupervised Feature Learning for low-level Local Image Descriptors,,journals/corr/abs-1301-2840,DBLP
+ICLR,pre_gpt,2013,Visual Objects Classification with Sliding Spatial Pyramid Matching,,journals/corr/abs-1212-3767,DBLP
+ICLR,pre_gpt,2013,When Does a Mixture of Products Contain a Product of Mixtures?,,journals/corr/abs-1206-0387,DBLP
+ICLR,pre_gpt,2013,Why Size Matters: Feature Coding as Nystrom Sampling,,journals/corr/abs-1301-5348,DBLP
+ICLR,pre_gpt,2013,Zero-Shot Learning Through Cross-Modal Transfer,,journals/corr/abs-1301-3666,DBLP
+ICLR,pre_gpt,2014,"2nd International Conference on Learning Representations, ICLR 2014, Banff, AB, Canada, April 14-16, 2014, Conference Track Proceedings",,conf/iclr/2014,DBLP
+ICLR,pre_gpt,2014,"2nd International Conference on Learning Representations, ICLR 2014, Banff, AB, Canada, April 14-16, 2014, Workshop Track Proceedings",,conf/iclr/2014w,DBLP
+ICLR,pre_gpt,2014,A Generative Product-of-Filters Model of Audio,,journals/corr/LiangHM13,DBLP
+ICLR,pre_gpt,2014,A New Method for Learning Deep Recurrent Neural Networks,,journals/corr/ChenD13,DBLP
+ICLR,pre_gpt,2014,A Simple Model for Learning Multilingual Compositional Semantics,,journals/corr/HermannB13,DBLP
+ICLR,pre_gpt,2014,An Architecture for Distinguishing between Predictors and Inhibitors in Reinforcement Learning,,journals/corr/ConnorT13,DBLP
+ICLR,pre_gpt,2014,An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks,,journals/corr/GoodfellowMDCB13,DBLP
+ICLR,pre_gpt,2014,An empirical analysis of dropout in piecewise linear networks,,journals/corr/Warde-FarleyGCB13,DBLP
+ICLR,pre_gpt,2014,Approximated Infomax Early Stopping: Revisiting Gaussian RBMs on Natural Images,,journals/corr/KiwakiMA13,DBLP
+ICLR,pre_gpt,2014,Auto-Encoding Variational Bayes,,journals/corr/KingmaW13,DBLP
+ICLR,pre_gpt,2014,Bounding the Test Log-Likelihood of Generative Models,,journals/corr/BengioY13,DBLP
+ICLR,pre_gpt,2014,Can recursive neural tensor networks learn logical reasoning?,,journals/corr/Bowman13,DBLP
+ICLR,pre_gpt,2014,Continuous Learning: Engineering Super Features With Feature Algebras,,journals/corr/Tetelman13,DBLP
+ICLR,pre_gpt,2014,Correlation-based construction of neighborhood and edge features,,journals/corr/Kegl13a,DBLP
+ICLR,pre_gpt,2014,Deep Belief Networks for Image Denoising,,journals/corr/KeyvanradPH13,DBLP
+ICLR,pre_gpt,2014,Deep Convolutional Ranking for Multilabel Image Annotation,,journals/corr/GongJLTI13,DBLP
+ICLR,pre_gpt,2014,Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps,,journals/corr/SimonyanVZ13,DBLP
+ICLR,pre_gpt,2014,Deep Learning Embeddings for Discontinuous Linguistic Units,,journals/corr/YinS13,DBLP
+ICLR,pre_gpt,2014,Deep and Wide Multiscale Recursive Networks for Robust Image Labeling,,journals/corr/HuangJ13,DBLP
+ICLR,pre_gpt,2014,Deep learning for class-generic object detection,,journals/corr/HuvalCN13,DBLP
+ICLR,pre_gpt,2014,Deep learning for neuroimaging: a validation study,,journals/corr/PlisHSC13,DBLP
+ICLR,pre_gpt,2014,Distributional Models and Deep Learning Embeddings: Combining the Best of Both Worlds,,journals/corr/SergienyaS13,DBLP
+ICLR,pre_gpt,2014,EXMOVES: Classifier-based Features for Scalable Action Recognition,,journals/corr/TranT13,DBLP
+ICLR,pre_gpt,2014,Efficient Visual Coding: From Retina To V2,,journals/corr/ShanC13,DBLP
+ICLR,pre_gpt,2014,End-to-End Text Recognition with Hybrid HMM Maxout Models,,journals/corr/AlsharifP13,DBLP
+ICLR,pre_gpt,2014,Exact solutions to the nonlinear dynamics of learning in deep linear neural networks,,journals/corr/SaxeMG13,DBLP
+ICLR,pre_gpt,2014,Factorial Hidden Markov Models for Learning Representations of Natural Language,,journals/corr/NepalY13,DBLP
+ICLR,pre_gpt,2014,Fast Training of Convolutional Networks through FFTs,,journals/corr/MathieuHL13,DBLP
+ICLR,pre_gpt,2014,GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training,,journals/corr/PaineJYLH13,DBLP
+ICLR,pre_gpt,2014,Generic Deep Networks with Wavelet Scattering,,journals/corr/OyallonMS13,DBLP
+ICLR,pre_gpt,2014,Group-sparse Embeddings in Collective Matrix Factorization,,journals/corr/KlamiBT13,DBLP
+ICLR,pre_gpt,2014,How to Construct Deep Recurrent Neural Networks,,journals/corr/PascanuGCB13,DBLP
+ICLR,pre_gpt,2014,Image Representation Learning Using Graph Regularized Auto-Encoders,,journals/corr/LiaoWL13,DBLP
+ICLR,pre_gpt,2014,Improving Deep Neural Networks with Probabilistic Maxout Units,,journals/corr/SpringenbergR13,DBLP
+ICLR,pre_gpt,2014,Intriguing properties of neural networks,,journals/corr/SzegedyZSBEGF13,DBLP
+ICLR,pre_gpt,2014,Learned versus Hand-Designed Feature Representations for 3d Agglomeration,,journals/corr/BogovicHJ13,DBLP
+ICLR,pre_gpt,2014,Learning Factored Representations in a Deep Mixture of Experts,,journals/corr/EigenRS13,DBLP
+ICLR,pre_gpt,2014,Learning High-level Image Representation for Image Retrieval via Multi-Task DNN using Clickthrough Data,,journals/corr/BaiYYMZ13,DBLP
+ICLR,pre_gpt,2014,Learning Human Pose Estimation Features with Convolutional Networks,,journals/corr/JainTATB13,DBLP
+ICLR,pre_gpt,2014,Learning Information Spread in Content Networks,,journals/corr/LagnierBLDG13,DBLP
+ICLR,pre_gpt,2014,"Learning Non-Linear Feature Maps, With An Application To Representation Learning",,journals/corr/AthanasakisSF13a,DBLP
+ICLR,pre_gpt,2014,Learning Semantic Script Knowledge with Event Embeddings,,journals/corr/ModiT13,DBLP
+ICLR,pre_gpt,2014,Learning States Representations in POMDP,,journals/corr/ContardoDAG13,DBLP
+ICLR,pre_gpt,2014,Learning Transformations for Classification Forests,,journals/corr/QiuS13b,DBLP
+ICLR,pre_gpt,2014,Low-Rank Approximations for Conditional Feedforward Computation in Deep Neural Networks,,journals/corr/DavisA13,DBLP
+ICLR,pre_gpt,2014,Modeling correlations in spontaneous activity of visual cortex with centered Gaussian-binary deep Boltzmann machines,,journals/corr/WangWJ13,DBLP
+ICLR,pre_gpt,2014,Multi-GPU Training of ConvNets,,journals/corr/YadanATR13,DBLP
+ICLR,pre_gpt,2014,Multi-View Priors for Learning Detectors from Sparse Viewpoint Data,,journals/corr/PepikSGS13,DBLP
+ICLR,pre_gpt,2014,Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks,,journals/corr/GoodfellowBIAS13,DBLP
+ICLR,pre_gpt,2014,Multimodal Transitions for Generative Stochastic Networks,,journals/corr/OzairYB13,DBLP
+ICLR,pre_gpt,2014,Network In Network,,journals/corr/LinCY13,DBLP
+ICLR,pre_gpt,2014,Neuronal Synchrony in Complex-Valued Deep Networks,,journals/corr/ReichertS13,DBLP
+ICLR,pre_gpt,2014,On Fast Dropout and its Applicability to Recurrent Networks,,journals/corr/BayerOCUS13,DBLP
+ICLR,pre_gpt,2014,On the number of inference regions of deep feed forward networks with piece-wise linear activations,,journals/corr/PascanuMB13,DBLP
+ICLR,pre_gpt,2014,One-Shot Adaptation of Supervised Deep Convolutional Models,,journals/corr/HoffmanTDJSD13,DBLP
+ICLR,pre_gpt,2014,"OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",,journals/corr/SermanetEZMFL13,DBLP
+ICLR,pre_gpt,2014,Rate-Distortion Auto-Encoders,,journals/corr/GiraldoP13,DBLP
+ICLR,pre_gpt,2014,Relaxations for inference in restricted Boltzmann machines,,journals/corr/WangFLM13,DBLP
+ICLR,pre_gpt,2014,Revisiting Natural Gradient for Deep Networks,,journals/corr/abs-1301-3584,DBLP
+ICLR,pre_gpt,2014,Semistochastic Quadratic Bound Methods for Convex and Nonconvex Learning Problems,,journals/corr/AravkinCKJ13,DBLP
+ICLR,pre_gpt,2014,Sequentially Generated Instance-Dependent Image Representations for Classification,,journals/corr/Dulac-ArnoldDTCG13,DBLP
+ICLR,pre_gpt,2014,Some Improvements on Deep Convolutional Neural Network Based Image Classification,,journals/corr/Howard13,DBLP
+ICLR,pre_gpt,2014,Sparse similarity-preserving hashing,,journals/corr/MasciBBSS13,DBLP
+ICLR,pre_gpt,2014,Spectral Networks and Locally Connected Networks on Graphs,,journals/corr/BrunaZSL13,DBLP
+ICLR,pre_gpt,2014,Stochastic Gradient Estimate Variance in Contrastive Divergence and Persistent Contrastive Divergence,,journals/corr/BerglundR13,DBLP
+ICLR,pre_gpt,2014,Stopping Criteria in Contrastive Divergence: Alternatives to the Reconstruction Error,,journals/corr/BuchacaRMD13,DBLP
+ICLR,pre_gpt,2014,The return of AdaBoost.MH: multi-class Hamming trees,,journals/corr/Kegl13,DBLP
+ICLR,pre_gpt,2014,The role of spatio-temporal synchrony in the encoding of motion,,journals/corr/KondaMM13,DBLP
+ICLR,pre_gpt,2014,Understanding Deep Architectures using a Recursive Convolutional Network,,journals/corr/EigenRFL13,DBLP
+ICLR,pre_gpt,2014,Unit Tests for Stochastic Optimization,,journals/corr/SchaulAS13,DBLP
+ICLR,pre_gpt,2014,Unsupervised Feature Learning by Deep Sparse Coding,,journals/corr/HeKWSQ13,DBLP
+ICLR,pre_gpt,2014,Unsupervised feature learning by augmenting single images,,journals/corr/DosovitskiySB13,DBLP
+ICLR,pre_gpt,2014,Zero-Shot Learning and Clustering for Semantic Utterance Classification,,journals/corr/DauphinTHH14,DBLP
+ICLR,pre_gpt,2014,Zero-Shot Learning by Convex Combination of Semantic Embeddings,,journals/corr/NorouziMBSSFCD13,DBLP
+ICLR,pre_gpt,2014,k-Sparse Autoencoders,,journals/corr/MakhzaniF13,DBLP
+ICLR,pre_gpt,2015,"3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9, 2015, Conference Track Proceedings",,conf/iclr/2015,DBLP
+ICLR,pre_gpt,2015,"3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9, 2015, Workshop Track Proceedings",,conf/iclr/2015w,DBLP
+ICLR,pre_gpt,2015,A Generative Model for Deep Convolutional Learning,,journals/corr/PuYC15,DBLP
+ICLR,pre_gpt,2015,A Group Theoretic Perspective on Unsupervised Deep Learning,,journals/corr/PaulV15,DBLP
+ICLR,pre_gpt,2015,A Unified Perspective on Multi-Domain and Multi-Task Learning,,journals/corr/YangH14a,DBLP
+ICLR,pre_gpt,2015,Adam: A Method for Stochastic Optimization,,journals/corr/KingmaB14,DBLP
+ICLR,pre_gpt,2015,"Algorithmic Robustness for Semi-Supervised (ε, γ, τ)-Good Metric Learning",,journals/corr/NicolaeSHGA14,DBLP
+ICLR,pre_gpt,2015,An Analysis of Unsupervised Pre-training in Light of Recent Advances,,journals/corr/PaineKHH14,DBLP
+ICLR,pre_gpt,2015,Attention for Fine-Grained Categorization,,journals/corr/SermanetFR14,DBLP
+ICLR,pre_gpt,2015,Audio Source Separation with Discriminative Scattering Networks,,journals/corr/SprechmannBL14,DBLP
+ICLR,pre_gpt,2015,Automatic Discovery and Optimization of Parts for Image Classification,,journals/corr/PariziVZF14,DBLP
+ICLR,pre_gpt,2015,Classifier with Hierarchical Topographical Maps as Internal Representation,,journals/corr/HartonoHT14,DBLP
+ICLR,pre_gpt,2015,Compact Part-Based Image Representations: Extremal Competition and Overgeneralization,,journals/corr/GoesslingA14,DBLP
+ICLR,pre_gpt,2015,Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN),,journals/corr/MaoXYWY14a,DBLP
+ICLR,pre_gpt,2015,Deep Gaze I: Boosting Saliency Prediction with Feature Maps Trained on ImageNet,,journals/corr/KummererTB14,DBLP
+ICLR,pre_gpt,2015,Deep Narrow Boltzmann Machines are Universal Approximators,,journals/corr/Montufar14,DBLP
+ICLR,pre_gpt,2015,Deep Networks With Large Output Spaces,,journals/corr/VijayanarasimhanSMY14,DBLP
+ICLR,pre_gpt,2015,Deep Structured Output Learning for Unconstrained Text Recognition,,journals/corr/JaderbergSVZ14b,DBLP
+ICLR,pre_gpt,2015,Deep learning with Elastic Averaging SGD,,journals/corr/ZhangCL14a,DBLP
+ICLR,pre_gpt,2015,Deep metric learning using Triplet network,,journals/corr/HofferA14,DBLP
+ICLR,pre_gpt,2015,Denoising autoencoder with modulated lateral connections learns invariant representations of natural images,,journals/corr/RasmusRV14,DBLP
+ICLR,pre_gpt,2015,Discovering Hidden Factors of Variation in Deep Networks,,journals/corr/CheungLBO14,DBLP
+ICLR,pre_gpt,2015,Diverse Embedding Neural Network Language Models,,journals/corr/AudhkhasiSR14,DBLP
+ICLR,pre_gpt,2015,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets,,journals/corr/Vincent14,DBLP
+ICLR,pre_gpt,2015,Embedding Entities and Relations for Learning and Inference in Knowledge Bases,,journals/corr/YangYHGD14a,DBLP
+ICLR,pre_gpt,2015,Embedding Word Similarity with Neural Machine Translation,,journals/corr/HillCJDB14a,DBLP
+ICLR,pre_gpt,2015,Ensemble of Generative and Discriminative Techniques for Sentiment Analysis of Movie Reviews,,journals/corr/MesnilMRB14,DBLP
+ICLR,pre_gpt,2015,Entity-Augmented Distributional Semantics for Discourse Relations,,journals/corr/JiE14a,DBLP
+ICLR,pre_gpt,2015,Example Selection For Dictionary Learning,,journals/corr/TsuchidaC14,DBLP
+ICLR,pre_gpt,2015,Explaining and Harnessing Adversarial Examples,,journals/corr/GoodfellowSS14,DBLP
+ICLR,pre_gpt,2015,Explorations on high dimensional landscapes,,journals/corr/SagunGL14,DBLP
+ICLR,pre_gpt,2015,Fast Convolutional Nets With fbfft: A GPU Performance Evaluation,,journals/corr/VasilacheJMCPL14,DBLP
+ICLR,pre_gpt,2015,Fast Label Embeddings for Extremely Large Output Spaces,,journals/corr/MineiroK15,DBLP
+ICLR,pre_gpt,2015,FitNets: Hints for Thin Deep Nets,,journals/corr/RomeroBKCGB14,DBLP
+ICLR,pre_gpt,2015,Flattened Convolutional Neural Networks for Feedforward Acceleration,,journals/corr/JinDC14,DBLP
+ICLR,pre_gpt,2015,Fully Convolutional Multi-Class Multiple Instance Learning,,journals/corr/PathakSLD14,DBLP
+ICLR,pre_gpt,2015,Generative Class-conditional Autoencoders,,journals/corr/RudyT14,DBLP
+ICLR,pre_gpt,2015,Generative Modeling of Convolutional Neural Networks,,journals/corr/DaiW14,DBLP
+ICLR,pre_gpt,2015,Gradual Training Method for Denoising Auto Encoders,,journals/corr/KalmanovichC15,DBLP
+ICLR,pre_gpt,2015,Hot Swapping for Online Adaptation of Optimization Hyperparameters,,journals/corr/BacheDS14,DBLP
+ICLR,pre_gpt,2015,Improving zero-shot learning by mitigating the hubness problem,,journals/corr/DinuB14,DBLP
+ICLR,pre_gpt,2015,In Search of the Real Inductive Bias: On the Role of Implicit Regularization in Deep Learning,,journals/corr/NeyshaburTS14,DBLP
+ICLR,pre_gpt,2015,Incorporating Both Distributional and Relational Semantics in Word Representations,,journals/corr/FriedD14a,DBLP
+ICLR,pre_gpt,2015,Inducing Semantic Representation from Text by Jointly Predicting and Factorizing Relations,,journals/corr/TitovK14a,DBLP
+ICLR,pre_gpt,2015,Joint RNN-Based Greedy Parsing and Word Composition,,journals/corr/LegrandC14,DBLP
+ICLR,pre_gpt,2015,Learning Activation Functions to Improve Deep Neural Networks,,journals/corr/AgostinelliHSB14,DBLP
+ICLR,pre_gpt,2015,Learning Compact Convolutional Neural Networks with Nested Dropout,,journals/corr/FinnHD14,DBLP
+ICLR,pre_gpt,2015,Learning Deep Structured Models,,journals/corr/ChenSYU14,DBLP
+ICLR,pre_gpt,2015,Learning Longer Memory in Recurrent Neural Networks,,journals/corr/MikolovJCMR14,DBLP
+ICLR,pre_gpt,2015,Learning Non-deterministic Representations with Energy-based Ensembles,,journals/corr/Al-ShedivatNC14,DBLP
+ICLR,pre_gpt,2015,Learning from Noisy Labels with Deep Neural Networks,,journals/corr/SukhbaatarF14,DBLP
+ICLR,pre_gpt,2015,Learning linearly separable features for speech recognition using convolutional neural networks,,journals/corr/PalazMC14,DBLP
+ICLR,pre_gpt,2015,Leveraging Monolingual Data for Crosslingual Compositional Word Representations,,journals/corr/SoyerSA14,DBLP
+ICLR,pre_gpt,2015,Low precision arithmetic for deep learning,,journals/corr/CourbariauxBD14,DBLP
+ICLR,pre_gpt,2015,Memory Networks,,journals/corr/WestonCB14,DBLP
+ICLR,pre_gpt,2015,Modeling Compositionality with Multiplicative Recurrent Neural Networks,,journals/corr/IrsoyC14,DBLP
+ICLR,pre_gpt,2015,Move Evaluation in Go Using Deep Convolutional Neural Networks,,journals/corr/MaddisonHSS14,DBLP
+ICLR,pre_gpt,2015,Multiple Object Recognition with Visual Attention,,journals/corr/BaMK14,DBLP
+ICLR,pre_gpt,2015,N-gram-Based Low-Dimensional Representation for Document Classification,,journals/corr/LebretC14a,DBLP
+ICLR,pre_gpt,2015,NICE: Non-linear Independent Components Estimation,,journals/corr/DinhKB14,DBLP
+ICLR,pre_gpt,2015,Neural Machine Translation by Jointly Learning to Align and Translate,,journals/corr/BahdanauCB14,DBLP
+ICLR,pre_gpt,2015,Object Detectors Emerge in Deep Scene CNNs,,journals/corr/ZhouKLOT14,DBLP
+ICLR,pre_gpt,2015,On distinguishability criteria for estimating generative models,,journals/corr/Goodfellow14,DBLP
+ICLR,pre_gpt,2015,On the Importance of a Hierarchy for Learning Continuous Vector Representations of a Label Space,,journals/corr/NamF14,DBLP
+ICLR,pre_gpt,2015,On the Stability of Deep Networks,,journals/corr/GiryesSB14,DBLP
+ICLR,pre_gpt,2015,Parallel training of Deep Neural Networks with Natural Gradient and Parameter Averaging,,journals/corr/PoveyZK14,DBLP
+ICLR,pre_gpt,2015,Permutohedral Lattice CNNs,,journals/corr/KiefelJG14,DBLP
+ICLR,pre_gpt,2015,Pixel-wise Deep Learning for Contour Detection,,journals/corr/HwangL15,DBLP
+ICLR,pre_gpt,2015,"Predictive Encoding of Contextual Relationships for Perceptual Inference, Interpolation and Prediction",,journals/corr/ZhaoZWL14,DBLP
+ICLR,pre_gpt,2015,Provable Methods for Training Neural Networks with Sparse Connectivity,,journals/corr/SedghiA14,DBLP
+ICLR,pre_gpt,2015,Purine: A bi-graph based deep learning framework,,journals/corr/LinLLY14,DBLP
+ICLR,pre_gpt,2015,Qualitatively characterizing neural network optimization problems,,journals/corr/GoodfellowV14,DBLP
+ICLR,pre_gpt,2015,Random Forests Can Hash,,journals/corr/QiuSB14,DBLP
+ICLR,pre_gpt,2015,Real-World Font Recognition Using Deep Network and Domain Adaptation,,journals/corr/WangYJSABH15,DBLP
+ICLR,pre_gpt,2015,Representation Learning for cold-start recommendation,,journals/corr/ContardoDA14,DBLP
+ICLR,pre_gpt,2015,Representation using the Weyl Transform,,journals/corr/QiuTCS14,DBLP
+ICLR,pre_gpt,2015,Restricted Boltzmann Machine for Classification with Hierarchical Correlated Prior,,journals/corr/ChenS14,DBLP
+ICLR,pre_gpt,2015,Reweighted Wake-Sleep,,journals/corr/BornscheinB14,DBLP
+ICLR,pre_gpt,2015,Scheduled denoising autoencoders,,journals/corr/GerasS14,DBLP
+ICLR,pre_gpt,2015,Score Function Features for Discriminative Learning,,journals/corr/JanzaminSA14a,DBLP
+ICLR,pre_gpt,2015,Self-informed neural network structure learning,,journals/corr/Warde-FarleyRA14,DBLP
+ICLR,pre_gpt,2015,Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs,,journals/corr/ChenPKMY14,DBLP
+ICLR,pre_gpt,2015,Simple Image Description Generator via a Linear Phrase-Based Approach,,journals/corr/LebretPC14,DBLP
+ICLR,pre_gpt,2015,Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition,,journals/corr/LebedevGROL14,DBLP
+ICLR,pre_gpt,2015,Striving for Simplicity: The All Convolutional Net,,journals/corr/SpringenbergDBR14,DBLP
+ICLR,pre_gpt,2015,Tailoring Word Embeddings for Bilexical Predictions: An Experimental Comparison,,journals/corr/MadhyasthaCQ14,DBLP
+ICLR,pre_gpt,2015,Target Propagation,,journals/corr/LeeZBB14,DBLP
+ICLR,pre_gpt,2015,Techniques for Learning Binary Stochastic Feedforward Neural Networks,,journals/corr/RaikoBAD14,DBLP
+ICLR,pre_gpt,2015,The local low-dimensionality of natural images,,journals/corr/HenaffBRS14,DBLP
+ICLR,pre_gpt,2015,Theano-based Large-Scale Visual Recognition with Multiple GPUs,,journals/corr/DingWMT14,DBLP
+ICLR,pre_gpt,2015,Towards Deep Neural Network Architectures Robust to Adversarial Examples,,journals/corr/GuR14,DBLP
+ICLR,pre_gpt,2015,Training Deep Neural Networks on Noisy Labels with Bootstrapping,,journals/corr/ReedLASER14,DBLP
+ICLR,pre_gpt,2015,Transformation Properties of Learned Visual Representations,,journals/corr/CohenW14a,DBLP
+ICLR,pre_gpt,2015,Understanding Locally Competitive Networks,,journals/corr/SrivastavaMGS14,DBLP
+ICLR,pre_gpt,2015,Understanding Minimum Probability Flow for RBMs Under Various Kinds of Dynamics,,journals/corr/ImBT14,DBLP
+ICLR,pre_gpt,2015,Unsupervised Domain Adaptation with Feature Embeddings,,journals/corr/YangE14,DBLP
+ICLR,pre_gpt,2015,Unsupervised Feature Learning from Temporal Data,,journals/corr/GoroshinBTEL15,DBLP
+ICLR,pre_gpt,2015,Variational Recurrent Auto-Encoders,,journals/corr/FabiusAK14,DBLP
+ICLR,pre_gpt,2015,Very Deep Convolutional Networks for Large-Scale Image Recognition,,journals/corr/SimonyanZ14a,DBLP
+ICLR,pre_gpt,2015,Visual Instance Retrieval with Deep Convolutional Networks,,journals/corr/RazavianSMC14,DBLP
+ICLR,pre_gpt,2015,Visual Scene Representations: Scaling and Occlusion in Convolutional Architectures,,journals/corr/SoattoDK14,DBLP
+ICLR,pre_gpt,2015,"Visual Scene Representations: Sufficiency, Minimality, Invariance and Deep Approximations",,journals/corr/Soatto14a,DBLP
+ICLR,pre_gpt,2015,Weakly Supervised Multi-Embeddings Learning of Acoustic Models,,journals/corr/SynnaeveD14,DBLP
+ICLR,pre_gpt,2015,What Do Deep CNNs Learn About Objects?,,journals/corr/PengSAS15,DBLP
+ICLR,pre_gpt,2015,Word Representations via Gaussian Embedding,,journals/corr/VilnisM14,DBLP
+ICLR,pre_gpt,2015,Zero-bias autoencoders and the benefits of co-adapting features,,journals/corr/MemisevicKK14,DBLP
+ICLR,pre_gpt,2016,"4th International Conference on Learning Representations, ICLR 2016, San Juan, Puerto Rico, May 2-4, 2016, Conference Track Proceedings",,conf/iclr/2016,DBLP
+ICLR,pre_gpt,2016,8-Bit Approximations for Parallelism in Deep Learning,,journals/corr/Dettmers15,DBLP
+ICLR,pre_gpt,2016,A Test of Relative Similarity For Model Selection in Generative Models,,journals/corr/BounliphoneBBAG15,DBLP
+ICLR,pre_gpt,2016,A note on the evaluation of generative models,,journals/corr/TheisOB15,DBLP
+ICLR,pre_gpt,2016,ACDC: A Structured Efficient Linear Layer,,journals/corr/MoczulskiDAF15,DBLP
+ICLR,pre_gpt,2016,Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning,,journals/corr/ParisottoBS15,DBLP
+ICLR,pre_gpt,2016,Adversarial Manipulation of Deep Representations,,journals/corr/SabourCFF15,DBLP
+ICLR,pre_gpt,2016,All you need is a good init,,journals/corr/MishkinM15,DBLP
+ICLR,pre_gpt,2016,An Exploration of Softmax Alternatives Belonging to the Spherical Loss Family,,journals/corr/BrebissonV15,DBLP
+ICLR,pre_gpt,2016,Auxiliary Image Regularization for Deep CNNs with Noisy Labels,,journals/corr/AzadiFJD15,DBLP
+ICLR,pre_gpt,2016,Better Computer Go Player with Neural Network and Long-term Prediction,,journals/corr/TianZ15,DBLP
+ICLR,pre_gpt,2016,BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies,,journals/corr/JiVSAD15,DBLP
+ICLR,pre_gpt,2016,Censoring Representations with an Adversary,,journals/corr/EdwardsS15,DBLP
+ICLR,pre_gpt,2016,Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications,,journals/corr/KimPYCYS15,DBLP
+ICLR,pre_gpt,2016,Continuous control with deep reinforcement learning,,journals/corr/LillicrapHPHETS15,DBLP
+ICLR,pre_gpt,2016,Convergent Learning: Do different neural networks learn the same representations?,,journals/corr/LiYCLH15,DBLP
+ICLR,pre_gpt,2016,Convolutional neural networks with low-rank regularization,,journals/corr/TaiXWE15,DBLP
+ICLR,pre_gpt,2016,Data Representation and Compression Using Linear-Programming Approximations,,journals/corr/PaskovMH15,DBLP
+ICLR,pre_gpt,2016,Data-Dependent Path Normalization in Neural Networks,,journals/corr/NeyshaburTSS15,DBLP
+ICLR,pre_gpt,2016,Data-dependent Initializations of Convolutional Neural Networks,,journals/corr/KrahenbuhlDDD15,DBLP
+ICLR,pre_gpt,2016,"Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding",,journals/corr/HanMD15,DBLP
+ICLR,pre_gpt,2016,Deep Linear Discriminant Analysis,,journals/corr/DorferKW15,DBLP
+ICLR,pre_gpt,2016,Deep Reinforcement Learning in Parameterized Action Space,,journals/corr/HausknechtS15a,DBLP
+ICLR,pre_gpt,2016,Deep multi-scale video prediction beyond mean square error,,journals/corr/MathieuCL15,DBLP
+ICLR,pre_gpt,2016,Delving Deeper into Convolutional Networks for Learning Video Representations,,journals/corr/BallasYPC15,DBLP
+ICLR,pre_gpt,2016,Density Modeling of Images using a Generalized Normalization Transformation,,journals/corr/BalleLS15,DBLP
+ICLR,pre_gpt,2016,Digging Deep into the Layers of CNNs: In Search of How CNNs Achieve View Invariance,,journals/corr/BakryEEE15,DBLP
+ICLR,pre_gpt,2016,Distributional Smoothing by Virtual Adversarial Examples,,journals/corr/MiyatoMKNI15,DBLP
+ICLR,pre_gpt,2016,Diversity Networks,,journals/corr/MarietS15a,DBLP
+ICLR,pre_gpt,2016,Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems,,journals/corr/DodgeGZBCMSW15,DBLP
+ICLR,pre_gpt,2016,Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs),,journals/corr/ClevertUH15,DBLP
+ICLR,pre_gpt,2016,Gated Graph Sequence Neural Networks,,journals/corr/LiTBZ15,DBLP
+ICLR,pre_gpt,2016,Generating Images from Captions with Attention,,journals/corr/MansimovPBS15,DBLP
+ICLR,pre_gpt,2016,Geodesics of learned representations,,journals/corr/HenaffS15,DBLP
+ICLR,pre_gpt,2016,Grid Long Short-Term Memory,,journals/corr/KalchbrennerDG15,DBLP
+ICLR,pre_gpt,2016,High-Dimensional Continuous Control Using Generalized Advantage Estimation,,journals/corr/SchulmanMLJA15,DBLP
+ICLR,pre_gpt,2016,Importance Weighted Autoencoders,,journals/corr/BurdaGS15,DBLP
+ICLR,pre_gpt,2016,Large-Scale Approximate Kernel Canonical Correlation Analysis,,journals/corr/WangL15h,DBLP
+ICLR,pre_gpt,2016,Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks,,journals/corr/BashivanRYC15,DBLP
+ICLR,pre_gpt,2016,Learning Visual Predictive Models of Physics for Playing Billiards,,journals/corr/FragkiadakiALM15,DBLP
+ICLR,pre_gpt,2016,Learning to Diagnose with LSTM Recurrent Neural Networks,,journals/corr/LiptonKEW15,DBLP
+ICLR,pre_gpt,2016,Metric Learning with Adaptive Density Discrimination,,journals/corr/RippelPDB15,DBLP
+ICLR,pre_gpt,2016,Modeling Visual Representations: Defining Properties and Deep Approximations,,journals/corr/Soatto14,DBLP
+ICLR,pre_gpt,2016,MuProp: Unbiased Backpropagation for Stochastic Neural Networks,,journals/corr/GuLSM15,DBLP
+ICLR,pre_gpt,2016,Multi-Scale Context Aggregation by Dilated Convolutions,,journals/corr/YuK15,DBLP
+ICLR,pre_gpt,2016,Multi-task Sequence to Sequence Learning,,journals/corr/LuongLSVK15,DBLP
+ICLR,pre_gpt,2016,Net2Net: Accelerating Learning via Knowledge Transfer,,journals/corr/ChenGS15,DBLP
+ICLR,pre_gpt,2016,Neural GPUs Learn Algorithms,,journals/corr/KaiserS15,DBLP
+ICLR,pre_gpt,2016,Neural Networks with Few Multiplications,,journals/corr/LinCMB15,DBLP
+ICLR,pre_gpt,2016,Neural Programmer-Interpreters,,journals/corr/ReedF15,DBLP
+ICLR,pre_gpt,2016,Neural Programmer: Inducing Latent Programs with Gradient Descent,,journals/corr/NeelakantanLS15,DBLP
+ICLR,pre_gpt,2016,Neural Random-Access Machines,,journals/corr/KurachAS15,DBLP
+ICLR,pre_gpt,2016,Order Matters: Sequence to sequence for sets,,journals/corr/VinyalsBK15,DBLP
+ICLR,pre_gpt,2016,Order-Embeddings of Images and Language,,journals/corr/VendrovKFU15,DBLP
+ICLR,pre_gpt,2016,Particular object retrieval with integral max-pooling of CNN activations,,journals/corr/ToliasSJ15,DBLP
+ICLR,pre_gpt,2016,Policy Distillation,,journals/corr/RusuCGDKPMKH15,DBLP
+ICLR,pre_gpt,2016,Predicting distributions with Linearizing Belief Networks,,journals/corr/DauphinG15,DBLP
+ICLR,pre_gpt,2016,Prioritized Experience Replay,,journals/corr/SchaulQAS15,DBLP
+ICLR,pre_gpt,2016,Reasoning about Entailment with Neural Attention,,journals/corr/RocktaschelGHKB15,DBLP
+ICLR,pre_gpt,2016,Reasoning in Vector Space: An Exploratory Study of Question Answering,,journals/corr/LeeHYGDS15,DBLP
+ICLR,pre_gpt,2016,Recurrent Gaussian Processes,,journals/corr/MattosDDFBL15,DBLP
+ICLR,pre_gpt,2016,Reducing Overfitting in Deep Networks by Decorrelating Representations,,journals/corr/CogswellAGZB15,DBLP
+ICLR,pre_gpt,2016,Regularizing RNNs by Stabilizing Activations,,journals/corr/KruegerM15,DBLP
+ICLR,pre_gpt,2016,Segmental Recurrent Neural Networks,,journals/corr/KongDS15,DBLP
+ICLR,pre_gpt,2016,Sequence Level Training with Recurrent Neural Networks,,journals/corr/RanzatoCAZ15,DBLP
+ICLR,pre_gpt,2016,Session-based Recommendations with Recurrent Neural Networks,,journals/corr/HidasiKBT15,DBLP
+ICLR,pre_gpt,2016,SparkNet: Training Deep Networks in Spark,,journals/corr/MoritzNSJ15,DBLP
+ICLR,pre_gpt,2016,Super-Resolution with Deep Convolutional Sufficient Statistics,,journals/corr/BrunaSL15,DBLP
+ICLR,pre_gpt,2016,Surpassing Humans in Boundary Detection using Deep Learning,,journals/corr/Kokkinos15,DBLP
+ICLR,pre_gpt,2016,The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations,,journals/corr/HillBCW15,DBLP
+ICLR,pre_gpt,2016,The Variational Fair Autoencoder,,journals/corr/LouizosSLWZ15,DBLP
+ICLR,pre_gpt,2016,Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks,,journals/corr/WestonBCM15,DBLP
+ICLR,pre_gpt,2016,Towards Universal Paraphrastic Sentence Embeddings,,journals/corr/WietingBGL15a,DBLP
+ICLR,pre_gpt,2016,Training CNNs with Low-Rank Filters for Efficient Image Classification,,journals/corr/IoannouRSCC15,DBLP
+ICLR,pre_gpt,2016,Unifying distillation and privileged information,,journals/corr/Lopez-PazBSV15,DBLP
+ICLR,pre_gpt,2016,Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,,journals/corr/RadfordMC15,DBLP
+ICLR,pre_gpt,2016,Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks,,journals/corr/Springenberg15,DBLP
+ICLR,pre_gpt,2016,Variable Rate Image Compression with Recurrent Neural Networks,,journals/corr/TodericiOHVMBCS15,DBLP
+ICLR,pre_gpt,2016,Variational Auto-encoded Deep Gaussian Processes,,journals/corr/DaiDGL15,DBLP
+ICLR,pre_gpt,2016,Variational Gaussian Process,,journals/corr/TranRB15,DBLP
+ICLR,pre_gpt,2016,When crowds hold privileges: Bayesian unsupervised representation learning with oracle constraints,,journals/corr/KaraletsosBR15,DBLP
+ICLR,pre_gpt,2017,"5th International Conference on Learning Representations, ICLR 2017, Toulon, France, April 24-26, 2017, Conference Track Proceedings",,conf/iclr/2017,DBLP
+ICLR,pre_gpt,2017,"5th International Conference on Learning Representations, ICLR 2017, Toulon, France, April 24-26, 2017, Workshop Track Proceedings",,conf/iclr/2017w,DBLP
+ICLR,pre_gpt,2017,A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks,,conf/iclr/HendrycksG17,DBLP
+ICLR,pre_gpt,2017,A Compare-Aggregate Model for Matching Text Sequences,,conf/iclr/Wang017,DBLP
+ICLR,pre_gpt,2017,A Compositional Object-Based Approach to Learning Physical Dynamics,,conf/iclr/0003U0T17,DBLP
+ICLR,pre_gpt,2017,A Differentiable Physics Engine for Deep Learning in Robotics,,conf/iclr/DegraveHDW17,DBLP
+ICLR,pre_gpt,2017,A Learned Representation For Artistic Style,,conf/iclr/DumoulinSK17,DBLP
+ICLR,pre_gpt,2017,A Simple but Tough-to-Beat Baseline for Sentence Embeddings,,conf/iclr/AroraLM17,DBLP
+ICLR,pre_gpt,2017,A Smooth Optimisation Perspective on Training Feedforward Neural Networks,,conf/iclr/Shen17,DBLP
+ICLR,pre_gpt,2017,A Structured Self-Attentive Sentence Embedding,,conf/iclr/LinFSYXZB17,DBLP
+ICLR,pre_gpt,2017,A Theoretical Framework for Robustness of (Deep) Classifiers against Adversarial Samples,,conf/iclr/WangGQ17,DBLP
+ICLR,pre_gpt,2017,A recurrent neural network without chaos,,conf/iclr/0001B17,DBLP
+ICLR,pre_gpt,2017,Accelerating Eulerian Fluid Simulation With Convolutional Networks,,conf/iclr/TompsonSSP17,DBLP
+ICLR,pre_gpt,2017,Accelerating SGD for Distributed Deep-Learning Using an Approximted Hessian Matrix,,conf/iclr/ArnoldW17,DBLP
+ICLR,pre_gpt,2017,Adaptive Feature Abstraction for Translating Video to Language,,conf/iclr/PuMGC17,DBLP
+ICLR,pre_gpt,2017,Adversarial Attacks on Neural Network Policies,,conf/iclr/HuangPGDA17,DBLP
+ICLR,pre_gpt,2017,Adversarial Discriminative Domain Adaptation (workshop extended abstract),,conf/iclr/TzengHSD17,DBLP
+ICLR,pre_gpt,2017,Adversarial Examples for Semantic Image Segmentation,,conf/iclr/FischerKMB17,DBLP
+ICLR,pre_gpt,2017,Adversarial Feature Learning,,conf/iclr/DonahueKD17,DBLP
+ICLR,pre_gpt,2017,Adversarial Machine Learning at Scale,,conf/iclr/KurakinGB17,DBLP
+ICLR,pre_gpt,2017,Adversarial Training Methods for Semi-Supervised Text Classification,,conf/iclr/MiyatoDG17,DBLP
+ICLR,pre_gpt,2017,Adversarial examples in the physical world,,conf/iclr/KurakinGB17a,DBLP
+ICLR,pre_gpt,2017,Adversarially Learned Inference,,conf/iclr/DumoulinBPLAMC17,DBLP
+ICLR,pre_gpt,2017,Amortised MAP Inference for Image Super-resolution,,conf/iclr/SonderbyCTSH17,DBLP
+ICLR,pre_gpt,2017,An Actor-Critic Algorithm for Sequence Prediction,,conf/iclr/BahdanauBXGLPCB17,DBLP
+ICLR,pre_gpt,2017,An Information-Theoretic Framework for Fast and Robust Unsupervised Learning via Neural Population Infomax,,conf/iclr/HuangZ17,DBLP
+ICLR,pre_gpt,2017,Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization,,conf/iclr/HuangB17,DBLP
+ICLR,pre_gpt,2017,"Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain",,conf/iclr/RajendranLKPR17,DBLP
+ICLR,pre_gpt,2017,Audio Super-Resolution using Neural Networks,,conf/iclr/KuleshovEE17,DBLP
+ICLR,pre_gpt,2017,Autoencoding Variational Inference For Topic Models,,conf/iclr/SrivastavaS17,DBLP
+ICLR,pre_gpt,2017,Automated Generation of Multilingual Clusters for the Evaluation of Distributed Representations,,conf/iclr/BlairMB17,DBLP
+ICLR,pre_gpt,2017,Automatic Rule Extraction from Long Short Term Memory Networks,,conf/iclr/MurdochS17,DBLP
+ICLR,pre_gpt,2017,Batch Policy Gradient Methods for Improving Neural Conversation Models,,conf/iclr/KandasamyBTTC17,DBLP
+ICLR,pre_gpt,2017,Bidirectional Attention Flow for Machine Comprehension,,conf/iclr/SeoKFH17,DBLP
+ICLR,pre_gpt,2017,Bit-Pragmatic Deep Neural Network Computing,,conf/iclr/AlbericioJDSM17,DBLP
+ICLR,pre_gpt,2017,Calibrating Energy-based Generative Adversarial Networks,,conf/iclr/DaiABHC17,DBLP
+ICLR,pre_gpt,2017,Capacity and Trainability in Recurrent Neural Networks,,conf/iclr/CollinsSS17,DBLP
+ICLR,pre_gpt,2017,Categorical Reparameterization with Gumbel-Softmax,,conf/iclr/JangGP17,DBLP
+ICLR,pre_gpt,2017,Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning,,conf/iclr/ZellingerGLNS17,DBLP
+ICLR,pre_gpt,2017,Changing Model Behavior at Test-time Using Reinforcement Learning,,conf/iclr/OdenaLO17,DBLP
+ICLR,pre_gpt,2017,Char2Wav: End-to-End Speech Synthesis,,conf/iclr/SoteloMKSKCB17,DBLP
+ICLR,pre_gpt,2017,Charged Point Normalization: An Efficient Solution to the Saddle Point Problem,,conf/iclr/Aghajanyan17,DBLP
+ICLR,pre_gpt,2017,Combining policy gradient and Q-learning,,conf/iclr/ODonoghueMKM17,DBLP
+ICLR,pre_gpt,2017,CommAI: Evaluating the first steps towards a useful general AI,,conf/iclr/BaroniJJKLSM17,DBLP
+ICLR,pre_gpt,2017,Compact Embedding of Binary-coded Inputs and Outputs using Bloom Filters,,conf/iclr/SerraK17,DBLP
+ICLR,pre_gpt,2017,Compositional Kernel Machines,,conf/iclr/GensD17,DBLP
+ICLR,pre_gpt,2017,Coupling Distributed and Symbolic Execution for Natural Language Queries,,conf/iclr/MouL0J17,DBLP
+ICLR,pre_gpt,2017,DSD: Dense-Sparse-Dense Training for Deep Neural Networks,,conf/iclr/HanPNMGTEVPTCD17,DBLP
+ICLR,pre_gpt,2017,Dance Dance Convolution,,conf/iclr/DonahueLM17,DBLP
+ICLR,pre_gpt,2017,Data Noising as Smoothing in Neural Network Language Models,,conf/iclr/XieWLLNJN17,DBLP
+ICLR,pre_gpt,2017,Dataset Augmentation in Feature Space,,conf/iclr/DeVriesT17,DBLP
+ICLR,pre_gpt,2017,De novo drug design with deep generative models : an empirical study,,conf/iclr/ChertiKK17,DBLP
+ICLR,pre_gpt,2017,Decomposing Motion and Content for Natural Video Sequence Prediction,,conf/iclr/VillegasYHLL17,DBLP
+ICLR,pre_gpt,2017,Deep Biaffine Attention for Neural Dependency Parsing,,conf/iclr/DozatM17,DBLP
+ICLR,pre_gpt,2017,Deep Information Propagation,,conf/iclr/SchoenholzGGS17,DBLP
+ICLR,pre_gpt,2017,Deep Kernel Machines via the Kernel Reparametrization Trick,,conf/iclr/MitrovicST17,DBLP
+ICLR,pre_gpt,2017,Deep Learning with Dynamic Computation Graphs,,conf/iclr/LooksHHN17,DBLP
+ICLR,pre_gpt,2017,Deep Learning with Sets and Point Clouds,,conf/iclr/RavanbakhshSP17,DBLP
+ICLR,pre_gpt,2017,Deep Multi-task Representation Learning: A Tensor Factorisation Approach,,conf/iclr/YangH17,DBLP
+ICLR,pre_gpt,2017,Deep Nets Don't Learn via Memorization,,conf/iclr/KruegerBJAKMBFC17,DBLP
+ICLR,pre_gpt,2017,Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning,,conf/iclr/LotterKC17,DBLP
+ICLR,pre_gpt,2017,Deep Probabilistic Programming,,conf/iclr/TranHSB0B17,DBLP
+ICLR,pre_gpt,2017,Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data,,conf/iclr/KarlSBS17,DBLP
+ICLR,pre_gpt,2017,Deep Variational Information Bottleneck,,conf/iclr/AlemiFD017,DBLP
+ICLR,pre_gpt,2017,DeepCloak: Masking Deep Neural Network Models for Robustness Against Adversarial Samples,,conf/iclr/GaoWLXQ17,DBLP
+ICLR,pre_gpt,2017,DeepCoder: Learning to Write Programs,,conf/iclr/BalogGBNT17,DBLP
+ICLR,pre_gpt,2017,DeepDSL: A Compilation-based Domain-Specific Language for Deep Learning,,conf/iclr/ZhaoHC17,DBLP
+ICLR,pre_gpt,2017,Delving into Transferable Adversarial Examples and Black-box Attacks,,conf/iclr/LiuCLS17,DBLP
+ICLR,pre_gpt,2017,Delving into adversarial attacks on deep policies,,conf/iclr/KosS17,DBLP
+ICLR,pre_gpt,2017,Density estimation using Real NVP,,conf/iclr/DinhSB17,DBLP
+ICLR,pre_gpt,2017,Designing Neural Network Architectures using Reinforcement Learning,,conf/iclr/BakerGNR17,DBLP
+ICLR,pre_gpt,2017,Development of JavaScript-based deep learning platform and application to distributed training,,conf/iclr/HidakaMH17,DBLP
+ICLR,pre_gpt,2017,Dialogue Learning With Human-in-the-Loop,,conf/iclr/LiMCRW17,DBLP
+ICLR,pre_gpt,2017,Diet Networks: Thin Parameters for Fat Genomics,,conf/iclr/RomeroCESADLDHB17,DBLP
+ICLR,pre_gpt,2017,Discovering objects and their relations from entangled scene representations,,conf/iclr/RaposoSBPLB17,DBLP
+ICLR,pre_gpt,2017,Discrete Variational Autoencoders,,conf/iclr/Rolfe17,DBLP
+ICLR,pre_gpt,2017,Distributed Second-Order Optimization using Kronecker-Factored Approximations,,conf/iclr/BaGM17,DBLP
+ICLR,pre_gpt,2017,Do Deep Convolutional Nets Really Need to be Deep and Convolutional?,,conf/iclr/UrbanGKAWMPRC17,DBLP
+ICLR,pre_gpt,2017,Dropout with Expectation-linear Regularization,,conf/iclr/MaGHYDH17,DBLP
+ICLR,pre_gpt,2017,Dynamic Coattention Networks For Question Answering,,conf/iclr/XiongZS17,DBLP
+ICLR,pre_gpt,2017,EPOpt: Learning Robust Neural Network Policies Using Model Ensembles,,conf/iclr/RajeswaranGRL17,DBLP
+ICLR,pre_gpt,2017,Early Methods for Detecting Adversarial Images,,conf/iclr/HendrycksG17a,DBLP
+ICLR,pre_gpt,2017,Efficient Representation of Low-Dimensional Manifolds using Deep Networks,,conf/iclr/BasriJ17,DBLP
+ICLR,pre_gpt,2017,Efficient Sparse-Winograd Convolutional Neural Networks,,conf/iclr/LiuHMD17,DBLP
+ICLR,pre_gpt,2017,Efficient Vector Representation for Documents through Corruption,,conf/iclr/Chen17,DBLP
+ICLR,pre_gpt,2017,Efficient variational Bayesian neural network ensembles for outlier detection,,conf/iclr/PawlowskiJG17,DBLP
+ICLR,pre_gpt,2017,Embracing Data Abundance,,conf/iclr/BajgarKK17,DBLP
+ICLR,pre_gpt,2017,Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols,,conf/iclr/HavrylovT17,DBLP
+ICLR,pre_gpt,2017,Emergence of foveal image sampling from learning to attend in visual scenes,,conf/iclr/CheungWO17,DBLP
+ICLR,pre_gpt,2017,Encoding and Decoding Representations with Sum- and Max-Product Networks,,conf/iclr/VergariPME17,DBLP
+ICLR,pre_gpt,2017,End-to-end Optimized Image Compression,,conf/iclr/BalleLS17,DBLP
+ICLR,pre_gpt,2017,Energy-based Generative Adversarial Networks,,conf/iclr/ZhaoML17,DBLP
+ICLR,pre_gpt,2017,Entropy-SGD: Biasing Gradient Descent Into Wide Valleys,,conf/iclr/ChaudhariCSLBBC17,DBLP
+ICLR,pre_gpt,2017,Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement,,conf/iclr/UsunierSLC17,DBLP
+ICLR,pre_gpt,2017,Explaining the Learning Dynamics of Direct Feedback Alignment,,conf/iclr/GilmerRSRS17,DBLP
+ICLR,pre_gpt,2017,Exploring Sparsity in Recurrent Neural Networks,,conf/iclr/NarangDSE17,DBLP
+ICLR,pre_gpt,2017,Exponential Machines,,conf/iclr/NovikovTO17,DBLP
+ICLR,pre_gpt,2017,Extrapolation and learning equations,,conf/iclr/MartiusL17,DBLP
+ICLR,pre_gpt,2017,Factorization tricks for LSTM networks,,conf/iclr/KuchaievG17,DBLP
+ICLR,pre_gpt,2017,Fast Adaptation in Generative Models with Generative Matching Networks,,conf/iclr/BartunovV17,DBLP
+ICLR,pre_gpt,2017,Fast Chirplet Transform Injects Priors in Deep Learning of Animal Calls and Speech,,conf/iclr/GlotinRB17,DBLP
+ICLR,pre_gpt,2017,Fast Generation for Convolutional Autoregressive Models,,conf/iclr/RamachandranPKB17,DBLP
+ICLR,pre_gpt,2017,Faster CNNs with Direct Sparse Convolutions and Guided Pruning,,conf/iclr/ParkLWT0CD17,DBLP
+ICLR,pre_gpt,2017,Filter shaping for Convolutional Neural Networks,,conf/iclr/LiLFR17,DBLP
+ICLR,pre_gpt,2017,Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks,,conf/iclr/AdiKBLG17,DBLP
+ICLR,pre_gpt,2017,Forced to Learn: Discovering Disentangled Representations Without Exhaustive Labels,,conf/iclr/RomanovR17,DBLP
+ICLR,pre_gpt,2017,FractalNet: Ultra-Deep Neural Networks without Residuals,,conf/iclr/LarssonMS17,DBLP
+ICLR,pre_gpt,2017,Frustratingly Short Attention Spans in Neural Language Modeling,,conf/iclr/DanilukRW017,DBLP
+ICLR,pre_gpt,2017,Gated Multimodal Units for Information Fusion,,conf/iclr/OvalleSMG17,DBLP
+ICLR,pre_gpt,2017,Generalizable Features From Unsupervised Learning,,conf/iclr/MirzaCB17,DBLP
+ICLR,pre_gpt,2017,Generalizing Skills with Semi-Supervised Reinforcement Learning,,conf/iclr/FinnYFAL17,DBLP
+ICLR,pre_gpt,2017,Generative Adversarial Learning of Markov Chains,,conf/iclr/SongZE17,DBLP
+ICLR,pre_gpt,2017,Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy,,conf/iclr/SutherlandTSDRS17,DBLP
+ICLR,pre_gpt,2017,Generative Multi-Adversarial Networks,,conf/iclr/DurugkarGM17,DBLP
+ICLR,pre_gpt,2017,Geometry of Polysemy,,conf/iclr/MuBV17,DBLP
+ICLR,pre_gpt,2017,Hadamard Product for Low-rank Bilinear Pooling,,conf/iclr/KimOLKHZ17,DBLP
+ICLR,pre_gpt,2017,Hierarchical Multiscale Recurrent Neural Networks,,conf/iclr/ChungAB17,DBLP
+ICLR,pre_gpt,2017,Highway and Residual Networks learn Unrolled Iterative Estimation,,conf/iclr/GreffSS17,DBLP
+ICLR,pre_gpt,2017,HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving,,conf/iclr/KaliszykCS17,DBLP
+ICLR,pre_gpt,2017,HyperNetworks,,conf/iclr/HaDL17,DBLP
+ICLR,pre_gpt,2017,Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization,,conf/iclr/LiJDRT17,DBLP
+ICLR,pre_gpt,2017,Identity Matters in Deep Learning,,conf/iclr/HardtM17,DBLP
+ICLR,pre_gpt,2017,Improving Generative Adversarial Networks with Denoising Feature Matching,,conf/iclr/Warde-FarleyB17,DBLP
+ICLR,pre_gpt,2017,Improving Neural Language Models with a Continuous Cache,,conf/iclr/GraveJU17,DBLP
+ICLR,pre_gpt,2017,Improving Policy Gradient by Exploring Under-appreciated Rewards,,conf/iclr/Nachum0S17,DBLP
+ICLR,pre_gpt,2017,Incorporating long-range consistency in CNN-based texture generation,,conf/iclr/BergerM17,DBLP
+ICLR,pre_gpt,2017,Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights,,conf/iclr/ZhouYGXC17,DBLP
+ICLR,pre_gpt,2017,Inductive Bias of Deep Convolutional Networks through Pooling Geometry,,conf/iclr/CohenS17,DBLP
+ICLR,pre_gpt,2017,Intelligent synapses for multi-task and transfer learning,,conf/iclr/PooleZG17,DBLP
+ICLR,pre_gpt,2017,Introspection: Accelerating Neural Network Training By Learning Weight Evolution,,conf/iclr/SinhaMSK17,DBLP
+ICLR,pre_gpt,2017,Joint Embeddings of Scene Graphs and Images,,conf/iclr/BelilovskyBKUZ17,DBLP
+ICLR,pre_gpt,2017,Joint Multimodal Learning with Deep Generative Models,,conf/iclr/SuzukiNM17,DBLP
+ICLR,pre_gpt,2017,Joint Training of Ratings and Reviews with Recurrent Recommender Networks,,conf/iclr/WuABS17,DBLP
+ICLR,pre_gpt,2017,LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation,,conf/iclr/YangKBP17,DBLP
+ICLR,pre_gpt,2017,Latent Sequence Decompositions,,conf/iclr/ChanZLJ17,DBLP
+ICLR,pre_gpt,2017,Learning Algorithms for Active Learning,,conf/iclr/BachmanST17,DBLP
+ICLR,pre_gpt,2017,Learning Curve Prediction with Bayesian Neural Networks,,conf/iclr/KleinFSH17,DBLP
+ICLR,pre_gpt,2017,Learning End-to-End Goal-Oriented Dialog,,conf/iclr/BordesBW17,DBLP
+ICLR,pre_gpt,2017,Learning Features of Music From Scratch,,conf/iclr/ThickstunHK17,DBLP
+ICLR,pre_gpt,2017,Learning Graphical State Transitions,,conf/iclr/Johnson17,DBLP
+ICLR,pre_gpt,2017,Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning,,conf/iclr/0004DLAL17,DBLP
+ICLR,pre_gpt,2017,Learning Invariant Representations Of Planar Curves,,conf/iclr/PaiWK17,DBLP
+ICLR,pre_gpt,2017,Learning Recurrent Representations for Hierarchical Behavior Modeling,,conf/iclr/EyjolfsdottirBY17,DBLP
+ICLR,pre_gpt,2017,Learning Visual Servoing with Deep Features and Fitted Q-Iteration,,conf/iclr/LeeLA17,DBLP
+ICLR,pre_gpt,2017,Learning a Natural Language Interface with Neural Programmer,,conf/iclr/NeelakantanLAMA17,DBLP
+ICLR,pre_gpt,2017,Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks,,conf/iclr/DepewegHDU17,DBLP
+ICLR,pre_gpt,2017,Learning through Dialogue Interactions by Asking Questions,,conf/iclr/LiMCRW17a,DBLP
+ICLR,pre_gpt,2017,Learning to Act by Predicting the Future,,conf/iclr/DosovitskiyK17,DBLP
+ICLR,pre_gpt,2017,Learning to Compose Words into Sentences with Reinforcement Learning,,conf/iclr/YogatamaBDGL17,DBLP
+ICLR,pre_gpt,2017,Learning to Discover Sparse Graphical Models,,conf/iclr/BelilovskyKVB17,DBLP
+ICLR,pre_gpt,2017,Learning to Generate Samples from Noise through Infusion Training,,conf/iclr/BordesHV17,DBLP
+ICLR,pre_gpt,2017,Learning to Navigate in Complex Environments,,conf/iclr/MirowskiPVSBBDG17,DBLP
+ICLR,pre_gpt,2017,Learning to Optimize,,conf/iclr/LiM17,DBLP
+ICLR,pre_gpt,2017,Learning to Perform Physics Experiments via Deep Reinforcement Learning,,conf/iclr/DenilAKEBF17,DBLP
+ICLR,pre_gpt,2017,Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening,,conf/iclr/He0S017,DBLP
+ICLR,pre_gpt,2017,"Learning to Query, Reason, and Answer Questions On Ambiguous Texts",,conf/iclr/GuoKRBCKTTS17,DBLP
+ICLR,pre_gpt,2017,Learning to Remember Rare Events,,conf/iclr/KaiserNRB17,DBLP
+ICLR,pre_gpt,2017,Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning,,conf/iclr/SharmaLR17,DBLP
+ICLR,pre_gpt,2017,Learning to superoptimize programs,,conf/iclr/BunelDKTK17,DBLP
+ICLR,pre_gpt,2017,Lie-Access Neural Turing Machines,,conf/iclr/YangR17,DBLP
+ICLR,pre_gpt,2017,Lifelong Perceptual Programming By Example,,conf/iclr/GauntBKT17,DBLP
+ICLR,pre_gpt,2017,Loss is its own Reward: Self-Supervision for Reinforcement Learning,,conf/iclr/ShelhamerMAD17,DBLP
+ICLR,pre_gpt,2017,Loss-aware Binarization of Deep Networks,,conf/iclr/HouYK17,DBLP
+ICLR,pre_gpt,2017,Lossy Image Compression with Compressive Autoencoders,,conf/iclr/TheisSCH17,DBLP
+ICLR,pre_gpt,2017,Machine Comprehension Using Match-LSTM and Answer Pointer,,conf/iclr/Wang017a,DBLP
+ICLR,pre_gpt,2017,Making Neural Programming Architectures Generalize via Recursion,,conf/iclr/CaiSS17,DBLP
+ICLR,pre_gpt,2017,Maximum Entropy Flow Networks,,conf/iclr/Loaiza-GanemGC17,DBLP
+ICLR,pre_gpt,2017,Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results,,conf/iclr/TarvainenV17,DBLP
+ICLR,pre_gpt,2017,Memory Matching Networks for Genomic Sequence Classification,,conf/iclr/LanchantinSQ17,DBLP
+ICLR,pre_gpt,2017,Metacontrol for Adaptive Imagination-Based Optimization,,conf/iclr/HamrickBPVHB17,DBLP
+ICLR,pre_gpt,2017,Mode Regularized Generative Adversarial Networks,,conf/iclr/CheLJBL17,DBLP
+ICLR,pre_gpt,2017,Mollifying Networks,,conf/iclr/GulcehreMVB17,DBLP
+ICLR,pre_gpt,2017,Multi-Agent Cooperation and the Emergence of (Natural) Language,,conf/iclr/LazaridouPB17,DBLP
+ICLR,pre_gpt,2017,Multi-view Recurrent Neural Acoustic Word Embeddings,,conf/iclr/HeWL17,DBLP
+ICLR,pre_gpt,2017,Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses,,conf/iclr/BattyMBHSLCP17,DBLP
+ICLR,pre_gpt,2017,Multiplicative LSTM for sequence modelling,,conf/iclr/Krause0RL17,DBLP
+ICLR,pre_gpt,2017,Natural Language Generation in Dialogue using Lexicalized and Delexicalized Data,,conf/iclr/SharmaHSSB17,DBLP
+ICLR,pre_gpt,2017,Neu0,,conf/iclr/RABIB17,DBLP
+ICLR,pre_gpt,2017,Neural Architecture Search with Reinforcement Learning,,conf/iclr/ZophL17,DBLP
+ICLR,pre_gpt,2017,Neural Combinatorial Optimization with Reinforcement Learning,,conf/iclr/BelloPL0B17,DBLP
+ICLR,pre_gpt,2017,Neural Expectation Maximization,,conf/iclr/GreffSS17a,DBLP
+ICLR,pre_gpt,2017,Neural Functional Programming,,conf/iclr/FeserBGT17,DBLP
+ICLR,pre_gpt,2017,Neural Photo Editing with Introspective Adversarial Networks,,conf/iclr/BrockLRW17,DBLP
+ICLR,pre_gpt,2017,Neural Program Lattices,,conf/iclr/LiTGBK17,DBLP
+ICLR,pre_gpt,2017,Neuro-Symbolic Program Synthesis,,conf/iclr/ParisottoMS0ZK17,DBLP
+ICLR,pre_gpt,2017,Neurogenesis-Inspired Dictionary Learning: Online Model Adaption in a Changing World,,conf/iclr/GargRCL17,DBLP
+ICLR,pre_gpt,2017,Nonparametric Neural Networks,,conf/iclr/PhilippC17,DBLP
+ICLR,pre_gpt,2017,Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes,,conf/iclr/RenLUSZ17,DBLP
+ICLR,pre_gpt,2017,"Offline bilingual word vectors, orthogonal transformations and the inverted softmax",,conf/iclr/SmithTHH17,DBLP
+ICLR,pre_gpt,2017,On Detecting Adversarial Perturbations,,conf/iclr/MetzenGFB17,DBLP
+ICLR,pre_gpt,2017,On Hyperparameter Optimization in Learning Systems,,conf/iclr/FranceschiDFP17,DBLP
+ICLR,pre_gpt,2017,On Improving the Numerical Stability of Winograd Convolutions,,conf/iclr/VincentSFGD17,DBLP
+ICLR,pre_gpt,2017,On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima,,conf/iclr/KeskarMNST17,DBLP
+ICLR,pre_gpt,2017,On Robust Concepts and Small Neural Nets,,conf/iclr/0001K17,DBLP
+ICLR,pre_gpt,2017,On the Quantitative Analysis of Decoder-Based Generative Models,,conf/iclr/WuBSG17,DBLP
+ICLR,pre_gpt,2017,Online Bayesian Transfer Learning for Sequential Data Modeling,,conf/iclr/JainiCCLMRSTTP17,DBLP
+ICLR,pre_gpt,2017,Online Multi-Task Learning Using Active Sampling,,conf/iclr/SharmaR17,DBLP
+ICLR,pre_gpt,2017,Online Structure Learning for Sum-Product Networks with Gaussian Leaves,,conf/iclr/HsuKP17,DBLP
+ICLR,pre_gpt,2017,Optimal Binary Autoencoding with Pairwise Correlations,,conf/iclr/Balsubramani17,DBLP
+ICLR,pre_gpt,2017,Optimization as a Model for Few-Shot Learning,,conf/iclr/RaviL17,DBLP
+ICLR,pre_gpt,2017,Out-of-class novelty generation: an experimental foundation,,conf/iclr/ChertiKK17a,DBLP
+ICLR,pre_gpt,2017,Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer,,conf/iclr/ShazeerMMDLHD17,DBLP
+ICLR,pre_gpt,2017,Paleo: A Performance Model for Deep Neural Networks,,conf/iclr/QiST17,DBLP
+ICLR,pre_gpt,2017,Particle Value Functions,,conf/iclr/MaddisonLTHDMT17,DBLP
+ICLR,pre_gpt,2017,Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer,,conf/iclr/ZagoruykoK17,DBLP
+ICLR,pre_gpt,2017,Perception Updating Networks: On architectural constraints for interpretable video generative models,,conf/iclr/SantanaP17,DBLP
+ICLR,pre_gpt,2017,Performance guarantees for transferring representations,,conf/iclr/McNamaraB17,DBLP
+ICLR,pre_gpt,2017,PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications,,conf/iclr/SalimansK0K17,DBLP
+ICLR,pre_gpt,2017,PixelVAE: A Latent Variable Model for Natural Images,,conf/iclr/GulrajaniKATVVC17,DBLP
+ICLR,pre_gpt,2017,Pl@ntNet app in the era of deep learning,,conf/iclr/AffouardGBLJ17,DBLP
+ICLR,pre_gpt,2017,Playing SNES in the Retro Learning Environment,,conf/iclr/BhonkerRH17,DBLP
+ICLR,pre_gpt,2017,Pointer Sentinel Mixture Models,,conf/iclr/MerityX0S17,DBLP
+ICLR,pre_gpt,2017,Precise Recovery of Latent Vectors from Generative Adversarial Networks,,conf/iclr/LiptonT17,DBLP
+ICLR,pre_gpt,2017,Predicting Medications from Diagnostic Codes with Recurrent Neural Networks,,conf/iclr/BajorL17,DBLP
+ICLR,pre_gpt,2017,Program Synthesis for Character Level Language Modeling,,conf/iclr/BielikRV17,DBLP
+ICLR,pre_gpt,2017,Programming With a Differentiable Forth Interpreter,,conf/iclr/BosnjakRN017,DBLP
+ICLR,pre_gpt,2017,Pruning Convolutional Neural Networks for Resource Efficient Inference,,conf/iclr/MolchanovTKAK17,DBLP
+ICLR,pre_gpt,2017,Pruning Filters for Efficient ConvNets,,conf/iclr/0022KDSG17,DBLP
+ICLR,pre_gpt,2017,Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic,,conf/iclr/GuLGTL17,DBLP
+ICLR,pre_gpt,2017,Quasi-Recurrent Neural Networks,,conf/iclr/0002MXS17,DBLP
+ICLR,pre_gpt,2017,Query-Reduction Networks for Question Answering,,conf/iclr/SeoMFH17,DBLP
+ICLR,pre_gpt,2017,"REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models",,conf/iclr/TuckerMMS17,DBLP
+ICLR,pre_gpt,2017,Reasoning with Memory Augmented Neural Networks for Language Comprehension,,conf/iclr/MunkhdalaiY17,DBLP
+ICLR,pre_gpt,2017,Recurrent Batch Normalization,,conf/iclr/CooijmansBLGC17,DBLP
+ICLR,pre_gpt,2017,Recurrent Environment Simulators,,conf/iclr/ChiappaRWM17,DBLP
+ICLR,pre_gpt,2017,Recurrent Hidden Semi-Markov Model,,conf/iclr/DaiDZLS17,DBLP
+ICLR,pre_gpt,2017,Recurrent Mixture Density Network for Spatiotemporal Visual Attention,,conf/iclr/BazzaniLT17,DBLP
+ICLR,pre_gpt,2017,Recurrent Normalization Propagation,,conf/iclr/LaurentBV17,DBLP
+ICLR,pre_gpt,2017,Regularizing CNNs with Locally Constrained Decorrelations,,conf/iclr/Rodriguez0CGR17,DBLP
+ICLR,pre_gpt,2017,Regularizing Neural Networks by Penalizing Confident Output Distributions,,conf/iclr/PereyraTCKH17,DBLP
+ICLR,pre_gpt,2017,Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU,,conf/iclr/BabaeizadehFTCK17,DBLP
+ICLR,pre_gpt,2017,Reinforcement Learning with Unsupervised Auxiliary Tasks,,conf/iclr/JaderbergMCSLSK17,DBLP
+ICLR,pre_gpt,2017,Reinterpreting Importance-Weighted Autoencoders,,conf/iclr/CremerMD17,DBLP
+ICLR,pre_gpt,2017,RenderGAN: Generating Realistic Labeled Data,,conf/iclr/SixtWL17,DBLP
+ICLR,pre_gpt,2017,Restricted Boltzmann Machines provide an accurate metric for retinal responses to visual stimuli,,conf/iclr/GardellaMM17,DBLP
+ICLR,pre_gpt,2017,Revisiting Batch Normalization For Practical Domain Adaptation,,conf/iclr/LiWS0H17,DBLP
+ICLR,pre_gpt,2017,Revisiting Classifier Two-Sample Tests,,conf/iclr/Lopez-PazO17,DBLP
+ICLR,pre_gpt,2017,Robustness to Adversarial Examples through an Ensemble of Specialists,,conf/iclr/AbbasiG17,DBLP
+ICLR,pre_gpt,2017,SGDR: Stochastic Gradient Descent with Warm Restarts,,conf/iclr/LoshchilovH17,DBLP
+ICLR,pre_gpt,2017,Sample Efficient Actor-Critic with Experience Replay,,conf/iclr/0001BHMMKF17,DBLP
+ICLR,pre_gpt,2017,SampleRNN: An Unconditional End-to-End Neural Audio Generation Model,,conf/iclr/MehriKGKJSCB17,DBLP
+ICLR,pre_gpt,2017,Semantic embeddings for program behaviour patterns,,conf/iclr/ChistyakovLKR17,DBLP
+ICLR,pre_gpt,2017,Semi-Supervised Classification with Graph Convolutional Networks,,conf/iclr/KipfW17,DBLP
+ICLR,pre_gpt,2017,Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data,,conf/iclr/PapernotAEGT17,DBLP
+ICLR,pre_gpt,2017,Semi-supervised deep learning by metric embedding,,conf/iclr/HofferA17,DBLP
+ICLR,pre_gpt,2017,Shake-Shake regularization of 3-branch residual networks,,conf/iclr/Gastaldi17,DBLP
+ICLR,pre_gpt,2017,Short and Deep: Sketching and Neural Networks,,conf/iclr/DanielyLST17,DBLP
+ICLR,pre_gpt,2017,Sigma Delta Quantized Networks,,conf/iclr/OConnorW17,DBLP
+ICLR,pre_gpt,2017,"Snapshot Ensembles: Train 1, Get M for Free",,conf/iclr/HuangLP0HW17,DBLP
+ICLR,pre_gpt,2017,Soft Weight-Sharing for Neural Network Compression,,conf/iclr/UllrichMW17,DBLP
+ICLR,pre_gpt,2017,Song From PI: A Musically Plausible Network for Pop Music Generation,,conf/iclr/ChuUF17,DBLP
+ICLR,pre_gpt,2017,Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks,,conf/iclr/ArdakaniCG17,DBLP
+ICLR,pre_gpt,2017,Steerable CNNs,,conf/iclr/CohenW17,DBLP
+ICLR,pre_gpt,2017,Stick-Breaking Variational Autoencoders,,conf/iclr/NalisnickS17,DBLP
+ICLR,pre_gpt,2017,Stochastic Neural Networks for Hierarchical Reinforcement Learning,,conf/iclr/FlorensaDA17,DBLP
+ICLR,pre_gpt,2017,Structured Attention Networks,,conf/iclr/KimDHR17,DBLP
+ICLR,pre_gpt,2017,Support Regularized Sparse Coding and Its Fast Encoder,,conf/iclr/YangYKYH17,DBLP
+ICLR,pre_gpt,2017,Symmetry-Breaking Convergence Analysis of Certain Two-layered Neural Networks with ReLU nonlinearity,,conf/iclr/Tian17,DBLP
+ICLR,pre_gpt,2017,Synthetic Gradient Methods with Virtual Forward-Backward Networks,,conf/iclr/MiyatoOMK17,DBLP
+ICLR,pre_gpt,2017,Tactics of Adversarial Attack on Deep Reinforcement Learning Agents,,conf/iclr/LinHLS0S17,DBLP
+ICLR,pre_gpt,2017,Temporal Ensembling for Semi-Supervised Learning,,conf/iclr/LaineA17,DBLP
+ICLR,pre_gpt,2017,The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables,,conf/iclr/MaddisonMT17,DBLP
+ICLR,pre_gpt,2017,The Effectiveness of Transfer Learning in Electronic Health Records Data,,conf/iclr/DuboisRJSK17,DBLP
+ICLR,pre_gpt,2017,The High-Dimensional Geometry of Binary Neural Networks,,conf/iclr/AndersonB17,DBLP
+ICLR,pre_gpt,2017,The Neural Noisy Channel,,conf/iclr/YuBDGK17,DBLP
+ICLR,pre_gpt,2017,The Preimage of Rectifier Network Activities,,conf/iclr/CarlssonARSS17,DBLP
+ICLR,pre_gpt,2017,Third Person Imitation Learning,,conf/iclr/StadieAS17,DBLP
+ICLR,pre_gpt,2017,Tighter bounds lead to improved classifiers,,conf/iclr/Roux17,DBLP
+ICLR,pre_gpt,2017,TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency,,conf/iclr/Dieng0GP17,DBLP
+ICLR,pre_gpt,2017,Topology and Geometry of Half-Rectified Network Optimization,,conf/iclr/FreemanB17,DBLP
+ICLR,pre_gpt,2017,"Towards ""AlphaChem"": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies",,conf/iclr/SeglerPW17,DBLP
+ICLR,pre_gpt,2017,Towards Deep Interpretability (MUS-ROVER II): Learning Hierarchical Representations of Tonal Music,,conf/iclr/YuV17,DBLP
+ICLR,pre_gpt,2017,Towards Principled Methods for Training Generative Adversarial Networks,,conf/iclr/ArjovskyB17,DBLP
+ICLR,pre_gpt,2017,Towards a Neural Statistician,,conf/iclr/EdwardsS17,DBLP
+ICLR,pre_gpt,2017,Towards an automatic Turing test: Learning to evaluate dialogue responses,,conf/iclr/LoweNSABP17,DBLP
+ICLR,pre_gpt,2017,Towards the Limit of Network Quantization,,conf/iclr/ChoiEL17,DBLP
+ICLR,pre_gpt,2017,Trace Norm Regularised Deep Multi-Task Learning,,conf/iclr/YangH17a,DBLP
+ICLR,pre_gpt,2017,Tracking the World State with Recurrent Entity Networks,,conf/iclr/HenaffWSBL17,DBLP
+ICLR,pre_gpt,2017,Trained Ternary Quantization,,conf/iclr/ZhuHMD17,DBLP
+ICLR,pre_gpt,2017,Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning,,conf/iclr/WuT17,DBLP
+ICLR,pre_gpt,2017,Training Compressed Fully-Connected Networks with a Density-Diversity Penalty,,conf/iclr/WangCBN17,DBLP
+ICLR,pre_gpt,2017,Training Triplet Networks with GAN,,conf/iclr/Zieba017,DBLP
+ICLR,pre_gpt,2017,Training a Subsampling Mechanism in Expectation,,conf/iclr/RaffelL17,DBLP
+ICLR,pre_gpt,2017,Training deep neural-networks using a noise adaptation layer,,conf/iclr/GoldbergerB17,DBLP
+ICLR,pre_gpt,2017,Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks,,conf/iclr/YangSC17,DBLP
+ICLR,pre_gpt,2017,Transfer of View-manifold Learning to Similarity Perception of Novel Objects,,conf/iclr/LinWLZYL17,DBLP
+ICLR,pre_gpt,2017,Transferring Knowledge to Smaller Network with Class-Distance Loss,,conf/iclr/KimK17,DBLP
+ICLR,pre_gpt,2017,Tree-structured decoding with doubly-recurrent neural networks,,conf/iclr/Alvarez-MelisJ17,DBLP
+ICLR,pre_gpt,2017,Trusting SVM for Piecewise Linear CNNs,,conf/iclr/BerradaZK17,DBLP
+ICLR,pre_gpt,2017,Tuning Recurrent Neural Networks with Reinforcement Learning,,conf/iclr/JaquesGTE17,DBLP
+ICLR,pre_gpt,2017,Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling,,conf/iclr/InanKS17,DBLP
+ICLR,pre_gpt,2017,Understanding Trainable Sparse Coding with Matrix Factorization,,conf/iclr/MoreauB17,DBLP
+ICLR,pre_gpt,2017,Understanding deep learning requires rethinking generalization,,conf/iclr/ZhangBHRV17,DBLP
+ICLR,pre_gpt,2017,Understanding intermediate layers using linear classifier probes,,conf/iclr/AlainB17,DBLP
+ICLR,pre_gpt,2017,Unrolled Generative Adversarial Networks,,conf/iclr/MetzPPS17,DBLP
+ICLR,pre_gpt,2017,Unseen Style Transfer Based on a Conditional Fast Style Transfer Network,,conf/iclr/Yanai17,DBLP
+ICLR,pre_gpt,2017,Unsupervised Cross-Domain Image Generation,,conf/iclr/TaigmanPW17,DBLP
+ICLR,pre_gpt,2017,Unsupervised Feature Learning for Audio Analysis,,conf/iclr/0005BT17,DBLP
+ICLR,pre_gpt,2017,Unsupervised Perceptual Rewards for Imitation Learning,,conf/iclr/SermanetXL17,DBLP
+ICLR,pre_gpt,2017,Unsupervised and Scalable Algorithm for Learning Node Representations,,conf/iclr/PimentelVZ17,DBLP
+ICLR,pre_gpt,2017,Variable Computation in Recurrent Neural Networks,,conf/iclr/JerniteGJM17,DBLP
+ICLR,pre_gpt,2017,Variational Intrinsic Control,,conf/iclr/GregorRW17,DBLP
+ICLR,pre_gpt,2017,Variational Lossy Autoencoder,,conf/iclr/0022KSDDSSA17,DBLP
+ICLR,pre_gpt,2017,Variational Recurrent Adversarial Deep Domain Adaptation,,conf/iclr/PurushothamCNL17,DBLP
+ICLR,pre_gpt,2017,Variational Reference Priors,,conf/iclr/NalisnickS17a,DBLP
+ICLR,pre_gpt,2017,Visualizing Deep Neural Network Decisions: Prediction Difference Analysis,,conf/iclr/ZintgrafCAW17,DBLP
+ICLR,pre_gpt,2017,What does it take to generate natural textures?,,conf/iclr/UstyuzhaninovBG17,DBLP
+ICLR,pre_gpt,2017,Why Deep Neural Networks for Function Approximation?,,conf/iclr/LiangS17,DBLP
+ICLR,pre_gpt,2017,Words or Characters? Fine-grained Gating for Reading Comprehension,,conf/iclr/YangDYHCS17,DBLP
+ICLR,pre_gpt,2017,Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations,,conf/iclr/KruegerMKPBKGBC17,DBLP
+ICLR,pre_gpt,2017,beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework,,conf/iclr/HigginsMPBGBML17,DBLP
+ICLR,pre_gpt,2018,3D-FilterMap: A Compact Architecture for Deep Convolutional Neural Networks,,conf/iclr/YangYX0JH18,DBLP
+ICLR,pre_gpt,2018,3D-Scene-GAN: Three-dimensional Scene Reconstruction with Generative Adversarial Networks,,conf/iclr/YuW18,DBLP
+ICLR,pre_gpt,2018,"6th International Conference on Learning Representations, ICLR 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track Proceedings",,conf/iclr/2018,DBLP
+ICLR,pre_gpt,2018,"6th International Conference on Learning Representations, ICLR 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Workshop Track Proceedings",,conf/iclr/2018w,DBLP
+ICLR,pre_gpt,2018,A Bayesian Perspective on Generalization and Stochastic Gradient Descent,,conf/iclr/SmithL18,DBLP
+ICLR,pre_gpt,2018,"A Compressed Sensing View of Unsupervised Text Embeddings, Bag-of-n-Grams, and LSTMs",,conf/iclr/AroraKSV18,DBLP
+ICLR,pre_gpt,2018,A DIRT-T Approach to Unsupervised Domain Adaptation,,conf/iclr/ShuBNE18,DBLP
+ICLR,pre_gpt,2018,A Dataset To Evaluate The Representations Learned By Video Prediction Models,,conf/iclr/SzetoSRC18,DBLP
+ICLR,pre_gpt,2018,A Deep Reinforced Model for Abstractive Summarization,,conf/iclr/PaulusXS18,DBLP
+ICLR,pre_gpt,2018,A Flexible Approach to Automated RNN Architecture Generation,,conf/iclr/SchrimpfM0S18,DBLP
+ICLR,pre_gpt,2018,A Framework for the Quantitative Evaluation of Disentangled Representations,,conf/iclr/EastwoodW18,DBLP
+ICLR,pre_gpt,2018,A Hierarchical Model for Device Placement,,conf/iclr/MirhoseiniGPSLD18,DBLP
+ICLR,pre_gpt,2018,A Language and Compiler View on Differentiable Programming,,conf/iclr/WangR18,DBLP
+ICLR,pre_gpt,2018,A Neural Representation of Sketch Drawings,,conf/iclr/HaE18,DBLP
+ICLR,pre_gpt,2018,A New Method of Region Embedding for Text Classification,,conf/iclr/QiaoHNLD0Y018,DBLP
+ICLR,pre_gpt,2018,A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks,,conf/iclr/NeyshaburBS18,DBLP
+ICLR,pre_gpt,2018,A Proximal Block Coordinate Descent Algorithm for Deep Neural Network Training,,conf/iclr/LauZWY18,DBLP
+ICLR,pre_gpt,2018,A Scalable Laplace Approximation for Neural Networks,,conf/iclr/RitterBB18,DBLP
+ICLR,pre_gpt,2018,A Simple Neural Attentive Meta-Learner,,conf/iclr/MishraR0A18,DBLP
+ICLR,pre_gpt,2018,A differentiable BLEU loss. Analysis and first results,,conf/iclr/CasasFC18,DBLP
+ICLR,pre_gpt,2018,A moth brain learns to read MNIST,,conf/iclr/DelahuntK18,DBLP
+ICLR,pre_gpt,2018,Accelerating Neural Architecture Search using Performance Prediction,,conf/iclr/BakerGRN18,DBLP
+ICLR,pre_gpt,2018,Action-dependent Control Variates for Policy Optimization via Stein Identity,,conf/iclr/LiuFMZ0018,DBLP
+ICLR,pre_gpt,2018,Activation Maximization Generative Adversarial Nets,,conf/iclr/ZhouCRSRZ0018,DBLP
+ICLR,pre_gpt,2018,Active Learning for Convolutional Neural Networks: A Core-Set Approach,,conf/iclr/SenerS18,DBLP
+ICLR,pre_gpt,2018,Active Neural Localization,,conf/iclr/ChaplotPS18,DBLP
+ICLR,pre_gpt,2018,Adapting to Continuously Shifting Domains,,conf/iclr/BobuTHD18,DBLP
+ICLR,pre_gpt,2018,Adaptive Dropout with Rademacher Complexity Regularization,,conf/iclr/ZhaiW18,DBLP
+ICLR,pre_gpt,2018,Adaptive Memory Networks,,conf/iclr/LiK18,DBLP
+ICLR,pre_gpt,2018,Adaptive Path-Integral Approach for Representation Learning and Planning,,conf/iclr/HaPCPC18,DBLP
+ICLR,pre_gpt,2018,Adaptive Quantization of Neural Networks,,conf/iclr/KhoramL18,DBLP
+ICLR,pre_gpt,2018,Additive Margin Softmax for Face Verification,,conf/iclr/0015LDL018,DBLP
+ICLR,pre_gpt,2018,Adversarial Dropout Regularization,,conf/iclr/SaitoUHS18,DBLP
+ICLR,pre_gpt,2018,Adversarial Policy Gradient for Alternating Markov Games,,conf/iclr/Gao0H18,DBLP
+ICLR,pre_gpt,2018,Adversarial Spheres,,conf/iclr/GilmerMFSRWG18,DBLP
+ICLR,pre_gpt,2018,All-but-the-Top: Simple and Effective Postprocessing for Word Representations,,conf/iclr/MuV18,DBLP
+ICLR,pre_gpt,2018,Alternating Multi-bit Quantization for Recurrent Neural Networks,,conf/iclr/XuYLOCWZ18,DBLP
+ICLR,pre_gpt,2018,AmbientGAN: Generative models from lossy measurements,,conf/iclr/BoraPD18,DBLP
+ICLR,pre_gpt,2018,An Evaluation of Fisher Approximations Beyond Kronecker Factorization,,conf/iclr/LaurentGBBV18,DBLP
+ICLR,pre_gpt,2018,An Experimental Study of Neural Networks for Variable Graphs,,conf/iclr/Bresson018,DBLP
+ICLR,pre_gpt,2018,An Online Learning Approach to Generative Adversarial Networks,,conf/iclr/GrnarovaLLH018,DBLP
+ICLR,pre_gpt,2018,An Optimization View on Dynamic Routing Between Capsules,,conf/iclr/Wang018,DBLP
+ICLR,pre_gpt,2018,An efficient framework for learning sentence representations,,conf/iclr/LogeswaranL18,DBLP
+ICLR,pre_gpt,2018,An image representation based convolutional network for DNA classification,,conf/iclr/YinBZSB18,DBLP
+ICLR,pre_gpt,2018,An interpretable LSTM neural network for autoregressive exogenous model,,conf/iclr/GuoLL18,DBLP
+ICLR,pre_gpt,2018,Analysis of Cosmic Microwave Background with Deep Learning,,conf/iclr/HeRH18,DBLP
+ICLR,pre_gpt,2018,Analyzing and Exploiting NARX Recurrent Neural Networks for Long-Term Dependencies,,conf/iclr/DiPietroRNH18,DBLP
+ICLR,pre_gpt,2018,Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy,,conf/iclr/MishraM18,DBLP
+ICLR,pre_gpt,2018,Are Efficient Deep Representations Learnable?,,conf/iclr/NyeS18,DBLP
+ICLR,pre_gpt,2018,Ask the Right Questions: Active Question Reformulation with Reinforcement Learning,,conf/iclr/BuckBCGGHW18,DBLP
+ICLR,pre_gpt,2018,Aspect-based Question Generation,,conf/iclr/HuLM0Y18,DBLP
+ICLR,pre_gpt,2018,Attacking Binarized Neural Networks,,conf/iclr/GallowayTM18,DBLP
+ICLR,pre_gpt,2018,Attacking the Madry Defense Model with $L_1$-based Adversarial Examples,,conf/iclr/SharmaC18,DBLP
+ICLR,pre_gpt,2018,Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis,,conf/iclr/ZhouLXHH018,DBLP
+ICLR,pre_gpt,2018,Auto-Encoding Sequential Monte Carlo,,conf/iclr/LeIRJW18,DBLP
+ICLR,pre_gpt,2018,Automated Design using Neural Networks and Gradient Descent,,conf/iclr/Hennigh18,DBLP
+ICLR,pre_gpt,2018,Automatically Inferring Data Quality for Spatiotemporal Forecasting,,conf/iclr/SeoMBL18,DBLP
+ICLR,pre_gpt,2018,Autoregressive Generative Adversarial Networks,,conf/iclr/YaziciY018,DBLP
+ICLR,pre_gpt,2018,Backpropagation through the Void: Optimizing control variates for black-box gradient estimation,,conf/iclr/GrathwohlCWRD18,DBLP
+ICLR,pre_gpt,2018,Bayesian Incremental Learning for Deep Neural Networks,,conf/iclr/KochurovGPMAV18,DBLP
+ICLR,pre_gpt,2018,Benefits of Depth for Long-Term Memory of Recurrent Networks,,conf/iclr/LevineSS18,DBLP
+ICLR,pre_gpt,2018,Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations,,conf/iclr/LuZLD18,DBLP
+ICLR,pre_gpt,2018,Beyond Shared Hierarchies: Deep Multitask Learning through Soft Layer Ordering,,conf/iclr/MeyersonM18,DBLP
+ICLR,pre_gpt,2018,Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs,,conf/iclr/MurdochLY18,DBLP
+ICLR,pre_gpt,2018,Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling,,conf/iclr/ShenZL0Z18,DBLP
+ICLR,pre_gpt,2018,Black-box Attacks on Deep Neural Networks via Gradient Estimation,,conf/iclr/BhagojiH0S18,DBLP
+ICLR,pre_gpt,2018,Boosting Dilated Convolutional Networks with Mixed Tensor Decompositions,,conf/iclr/CohenTS18,DBLP
+ICLR,pre_gpt,2018,Boosting the Actor with Dual Critic,,conf/iclr/DaiSH0S18,DBLP
+ICLR,pre_gpt,2018,Boundary Seeking GANs,,conf/iclr/HjelmJTCCB18,DBLP
+ICLR,pre_gpt,2018,Breaking the Softmax Bottleneck: A High-Rank RNN Language Model,,conf/iclr/YangDSC18,DBLP
+ICLR,pre_gpt,2018,Building Generalizable Agents with a Realistic and Rich 3D Environment,,conf/iclr/WuWGT18,DBLP
+ICLR,pre_gpt,2018,Can Deep Reinforcement Learning solve Erdos-Selfridge-Spencer Games?,,conf/iclr/RaghuIAKLK18,DBLP
+ICLR,pre_gpt,2018,Can Neural Networks Understand Logical Entailment?,,conf/iclr/EvansSAKG18,DBLP
+ICLR,pre_gpt,2018,Can recurrent neural networks warp time?,,conf/iclr/TallecO18a,DBLP
+ICLR,pre_gpt,2018,Capturing Human Category Representations by Sampling in Deep Feature Spaces,,conf/iclr/PetersonASKG18,DBLP
+ICLR,pre_gpt,2018,Cascade Adversarial Machine Learning Regularized with a Unified Embedding,,conf/iclr/NaKM18,DBLP
+ICLR,pre_gpt,2018,Causal Discovery Using Proxy Variables,,conf/iclr/Rojas-CarullaBL18,DBLP
+ICLR,pre_gpt,2018,CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training,,conf/iclr/KocaogluSDV18,DBLP
+ICLR,pre_gpt,2018,Censoring Representations with Multiple-Adversaries over Random Subspaces,,conf/iclr/IwasawaNM18,DBLP
+ICLR,pre_gpt,2018,Certified Defenses against Adversarial Examples,,conf/iclr/RaghunathanSL18,DBLP
+ICLR,pre_gpt,2018,Certifying Some Distributional Robustness with Principled Adversarial Training,,conf/iclr/SinhaND18,DBLP
+ICLR,pre_gpt,2018,Challenges in Disentangling Independent Factors of Variation,,conf/iclr/SzaboHPZF18,DBLP
+ICLR,pre_gpt,2018,Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality,,conf/iclr/Ma0WEWSSHB18,DBLP
+ICLR,pre_gpt,2018,ChatPainter: Improving Text to Image Generation using Dialogue,,conf/iclr/SharmaSMKB18,DBLP
+ICLR,pre_gpt,2018,Clustering Meets Implicit Generative Models,,conf/iclr/LocatelloVTRGS18,DBLP
+ICLR,pre_gpt,2018,Cold fusion: Training Seq2seq Models Together with Language Models,,conf/iclr/SriramJSC18,DBLP
+ICLR,pre_gpt,2018,Combating Adversarial Attacks Using Sparse Representations,,conf/iclr/GopalakrishnanM18,DBLP
+ICLR,pre_gpt,2018,Combining Symbolic Expressions and Black-box Function Evaluations in Neural Programs,,conf/iclr/ArabshahiSA18,DBLP
+ICLR,pre_gpt,2018,ComboGAN: Unrestricted Scalability for Image Domain Translation,,conf/iclr/AnooshehAT18,DBLP
+ICLR,pre_gpt,2018,Communication Algorithms via Deep Learning,,conf/iclr/KimJRKOV18,DBLP
+ICLR,pre_gpt,2018,Comparing Fixed and Adaptive Computation Time for Recurrent Neural Networks,,conf/iclr/FojoCN18,DBLP
+ICLR,pre_gpt,2018,Compositional Attention Networks for Machine Reasoning,,conf/iclr/HudsonM18,DBLP
+ICLR,pre_gpt,2018,Compositional Obverter Communication Learning from Raw Visual Input,,conf/iclr/ChoiLF18,DBLP
+ICLR,pre_gpt,2018,Compressing Word Embeddings via Deep Compositional Code Learning,,conf/iclr/ShuN18,DBLP
+ICLR,pre_gpt,2018,Compression by the signs: distributed learning is a two-way street,,conf/iclr/BernsteinWAA18,DBLP
+ICLR,pre_gpt,2018,Concept Learning with Energy-Based Models,,conf/iclr/Mordatch18,DBLP
+ICLR,pre_gpt,2018,Conditional Networks for Few-Shot Semantic Segmentation,,conf/iclr/RakellySDEL18,DBLP
+ICLR,pre_gpt,2018,Consequentialist conditional cooperation in social dilemmas with imperfect information,,conf/iclr/PeysakhovichL18,DBLP
+ICLR,pre_gpt,2018,Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments,,conf/iclr/Al-ShedivatBBSM18,DBLP
+ICLR,pre_gpt,2018,Convolutional Sequence Modeling Revisited,,conf/iclr/BaiKK18,DBLP
+ICLR,pre_gpt,2018,Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields,,conf/iclr/UnterthinerNSKH18,DBLP
+ICLR,pre_gpt,2018,Countering Adversarial Images using Input Transformations,,conf/iclr/GuoRCM18,DBLP
+ICLR,pre_gpt,2018,Coupled Ensembles of Neural Networks,,conf/iclr/DuttPQ18,DBLP
+ICLR,pre_gpt,2018,Covariant Compositional Networks For Learning Graphs,,conf/iclr/KondorSPAT18,DBLP
+ICLR,pre_gpt,2018,Critical Percolation as a Framework to Analyze the Training of Deep Networks,,conf/iclr/RingelB18,DBLP
+ICLR,pre_gpt,2018,Critical Points of Linear Neural Networks: Analytical Forms and Landscape Properties,,conf/iclr/ZhouL18,DBLP
+ICLR,pre_gpt,2018,DCN+: Mixed Objective And Deep Residual Coattention for Question Answering,,conf/iclr/XiongZS18,DBLP
+ICLR,pre_gpt,2018,DLVM: A modern compiler infrastructure for deep learning systems,,conf/iclr/WeiSA18,DBLP
+ICLR,pre_gpt,2018,DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images,,conf/iclr/XiaoHM18,DBLP
+ICLR,pre_gpt,2018,DORA The Explorer: Directed Outreaching Reinforcement Action-Selection,,conf/iclr/FoxCL18,DBLP
+ICLR,pre_gpt,2018,Debiasing Evidence Approximations: On Importance-weighted Autoencoders and Jackknife Variational Inference,,conf/iclr/Nowozin18,DBLP
+ICLR,pre_gpt,2018,Decision Boundary Analysis of Adversarial Examples,,conf/iclr/He0S18,DBLP
+ICLR,pre_gpt,2018,Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models,,conf/iclr/BrendelRB18,DBLP
+ICLR,pre_gpt,2018,Decoding Decoders: Finding Optimal Representation Spaces for Unsupervised Similarity Tasks,,conf/iclr/ZhelezniakBSSH18,DBLP
+ICLR,pre_gpt,2018,Decoupling Dynamics and Reward for Transfer Learning,,conf/iclr/ZhangSP18,DBLP
+ICLR,pre_gpt,2018,Decoupling the Layers in Residual Networks,,conf/iclr/FokARW18,DBLP
+ICLR,pre_gpt,2018,Deep Active Learning for Named Entity Recognition,,conf/iclr/ShenYLKA18,DBLP
+ICLR,pre_gpt,2018,Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection,,conf/iclr/ZongSMCLCC18,DBLP
+ICLR,pre_gpt,2018,Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling,,conf/iclr/RiquelmeTS18,DBLP
+ICLR,pre_gpt,2018,Deep Complex Networks,,conf/iclr/TrabelsiBZSSSMR18,DBLP
+ICLR,pre_gpt,2018,Deep Convolutional Malware Classifiers Can Learn from Raw Executables and Labels Only,,conf/iclr/KrcalSBJ18,DBLP
+ICLR,pre_gpt,2018,Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking,,conf/iclr/BojchevskiG18,DBLP
+ICLR,pre_gpt,2018,Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training,,conf/iclr/LinHM0D18,DBLP
+ICLR,pre_gpt,2018,Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design,,conf/iclr/LevineYCS18,DBLP
+ICLR,pre_gpt,2018,Deep Learning as a Mixed Convex-Combinatorial Optimization Problem,,conf/iclr/FriesenD18,DBLP
+ICLR,pre_gpt,2018,Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge,,conf/iclr/BezenacPG18,DBLP
+ICLR,pre_gpt,2018,Deep Learning with Logged Bandit Feedback,,conf/iclr/JoachimsSR18,DBLP
+ICLR,pre_gpt,2018,Deep Neural Maps,,conf/iclr/PesteieAR18,DBLP
+ICLR,pre_gpt,2018,Deep Neural Networks as Gaussian Processes,,conf/iclr/LeeBNSPS18,DBLP
+ICLR,pre_gpt,2018,Deep Rewiring: Training very sparse deep networks,,conf/iclr/BellecK0L18,DBLP
+ICLR,pre_gpt,2018,Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks,,conf/iclr/YoonZS18,DBLP
+ICLR,pre_gpt,2018,Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning,,conf/iclr/PingPGAKNRM18,DBLP
+ICLR,pre_gpt,2018,Deep learning mutation prediction enables early stage lung cancer detection in liquid biopsy,,conf/iclr/Kothen-HillZSDG18,DBLP
+ICLR,pre_gpt,2018,DeepNCM: Deep Nearest Class Mean Classifiers,,conf/iclr/GuerrieroCM18,DBLP
+ICLR,pre_gpt,2018,Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models,,conf/iclr/SamangoueiKC18,DBLP
+ICLR,pre_gpt,2018,Demystifying MMD GANs,,conf/iclr/BinkowskiSAG18,DBLP
+ICLR,pre_gpt,2018,Depth separation and weight-width trade-offs for sigmoidal neural networks,,conf/iclr/0001GK18,DBLP
+ICLR,pre_gpt,2018,Depthwise Separable Convolutions for Neural Machine Translation,,conf/iclr/KaiserGC18,DBLP
+ICLR,pre_gpt,2018,Designing Efficient Neural Attention Systems Towards Achieving Human-level Sharp Vision,,conf/iclr/GhaniKSINM18,DBLP
+ICLR,pre_gpt,2018,Detecting Statistical Interactions from Neural Network Weights,,conf/iclr/TsangC018,DBLP
+ICLR,pre_gpt,2018,DiCE: The Infinitely Differentiable Monte-Carlo Estimator,,conf/iclr/FoersterFARXW18,DBLP
+ICLR,pre_gpt,2018,Differentiable Neural Network Architecture Search,,conf/iclr/ShinPS18,DBLP
+ICLR,pre_gpt,2018,Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting,,conf/iclr/LiYS018,DBLP
+ICLR,pre_gpt,2018,Distributed Distributional Deterministic Policy Gradients,,conf/iclr/Barth-MaronHBDH18,DBLP
+ICLR,pre_gpt,2018,Distributed Fine-tuning of Language Models on Private Data,,conf/iclr/PopovKPVN18,DBLP
+ICLR,pre_gpt,2018,Distributed Prioritized Experience Replay,,conf/iclr/HorganQBBHHS18,DBLP
+ICLR,pre_gpt,2018,Distributional Adversarial Networks,,conf/iclr/LiAXJS18,DBLP
+ICLR,pre_gpt,2018,Diversity-Driven Exploration Strategy for Deep Reinforcement Learning,,conf/iclr/HongSSCL18,DBLP
+ICLR,pre_gpt,2018,Divide and Conquer Networks,,conf/iclr/NowakFB18,DBLP
+ICLR,pre_gpt,2018,Divide-and-Conquer Reinforcement Learning,,conf/iclr/GhoshSRKL18,DBLP
+ICLR,pre_gpt,2018,Do GANs learn the distribution? Some Theory and Empirics,,conf/iclr/AroraRZ18,DBLP
+ICLR,pre_gpt,2018,"Don't Decay the Learning Rate, Increase the Batch Size",,conf/iclr/SmithKYL18,DBLP
+ICLR,pre_gpt,2018,Dynamic Neural Program Embeddings for Program Repair,,conf/iclr/WangSS18,DBLP
+ICLR,pre_gpt,2018,Easing non-convex optimization with neural networks,,conf/iclr/Lopez-PazS18,DBLP
+ICLR,pre_gpt,2018,Efficient Entropy For Policy Gradient with Multi-Dimensional Action Space,,conf/iclr/ZhangVSGR18,DBLP
+ICLR,pre_gpt,2018,Efficient Recurrent Neural Networks using Structured Matrices in FPGAs,,conf/iclr/0001WDQW018,DBLP
+ICLR,pre_gpt,2018,Efficient Sparse-Winograd Convolutional Neural Networks,,conf/iclr/LiuPHD18,DBLP
+ICLR,pre_gpt,2018,Eigenoption Discovery through the Deep Successor Representation,,conf/iclr/MachadoRGLTC18,DBLP
+ICLR,pre_gpt,2018,Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input,,conf/iclr/LazaridouHTC18,DBLP
+ICLR,pre_gpt,2018,Emergence of grid-like representations by training recurrent neural networks to perform spatial localization,,conf/iclr/CuevaW18,DBLP
+ICLR,pre_gpt,2018,"Emergent Communication in a Multi-Modal, Multi-Step Referential Game",,conf/iclr/EvtimovaDKC18,DBLP
+ICLR,pre_gpt,2018,Emergent Communication through Negotiation,,conf/iclr/CaoLLLTC18,DBLP
+ICLR,pre_gpt,2018,Emergent Complexity via Multi-Agent Competition,,conf/iclr/BansalPSSM18,DBLP
+ICLR,pre_gpt,2018,Emergent Translation in Multi-Agent Communication,,conf/iclr/LeeCWK18,DBLP
+ICLR,pre_gpt,2018,Empirical Analysis of the Hessian of Over-Parametrized Neural Networks,,conf/iclr/SagunEGDB18,DBLP
+ICLR,pre_gpt,2018,Empirical Risk Landscape Analysis for Understanding Deep Neural Networks,,conf/iclr/ZhouF18,DBLP
+ICLR,pre_gpt,2018,Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks,,conf/iclr/LiangLS18,DBLP
+ICLR,pre_gpt,2018,Ensemble Adversarial Training: Attacks and Defenses,,conf/iclr/TramerKPGBM18,DBLP
+ICLR,pre_gpt,2018,Ensemble Robustness and Generalization of Stochastic Deep Learning Algorithms,,conf/iclr/ZahavyKSFXM18,DBLP
+ICLR,pre_gpt,2018,Espresso: Efficient Forward Propagation for Binary Deep Neural Networks,,conf/iclr/PedersoliTT18,DBLP
+ICLR,pre_gpt,2018,Evaluating the Robustness of Neural Networks: An Extreme Value Theory Approach,,conf/iclr/WengZCYSGHD18,DBLP
+ICLR,pre_gpt,2018,"Evaluating visual ""common sense"" using fine-grained classification and captioning tasks",,conf/iclr/GoyalMBGBM18,DBLP
+ICLR,pre_gpt,2018,Evidence Aggregation for Answer Re-Ranking in Open-Domain Question Answering,,conf/iclr/WangY0ZGCWKTC18,DBLP
+ICLR,pre_gpt,2018,Expert-based reward function training: the novel method to train sequence generators,,conf/iclr/ToyamaINM18,DBLP
+ICLR,pre_gpt,2018,Exploring Deep Recurrent Models with Reinforcement Learning for Molecule Design,,conf/iclr/NeilSGAPSB18,DBLP
+ICLR,pre_gpt,2018,Exponentially vanishing sub-optimal local minima in multilayer neural networks,,conf/iclr/SoudryH18,DBLP
+ICLR,pre_gpt,2018,Expressive power of recurrent neural networks,,conf/iclr/KhrulkovNO18,DBLP
+ICLR,pre_gpt,2018,Extending Robust Adversarial Reinforcement Learning Considering Adaptation and Diversity,,conf/iclr/ShioyaIM18,DBLP
+ICLR,pre_gpt,2018,Extending the Framework of Equilibrium Propagation to General Dynamics,,conf/iclr/ScellierGBMB18,DBLP
+ICLR,pre_gpt,2018,Fast Node Embeddings: Learning Ego-Centric Representations,,conf/iclr/PimentelVZ18,DBLP
+ICLR,pre_gpt,2018,"Fast and Accurate Text Classification: Skimming, Rereading and Early Stopping",,conf/iclr/Yu0S018,DBLP
+ICLR,pre_gpt,2018,FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling,,conf/iclr/ChenMX18,DBLP
+ICLR,pre_gpt,2018,Faster Discovery of Neural Architectures by Searching for Paths in a Large Model,,conf/iclr/PhamGZLD18,DBLP
+ICLR,pre_gpt,2018,Faster Neural Networks Straight from JPEG,,conf/iclr/GueguenSLY18,DBLP
+ICLR,pre_gpt,2018,FearNet: Brain-Inspired Model for Incremental Learning,,conf/iclr/KemkerK18,DBLP
+ICLR,pre_gpt,2018,Feature Incay for Representation Regularization,,conf/iclr/YuanYGZW18,DBLP
+ICLR,pre_gpt,2018,Feature-Based Metrics for Exploring the Latent Space of Generative Models,,conf/iclr/Laine18,DBLP
+ICLR,pre_gpt,2018,Few-Shot Learning with Graph Neural Networks,,conf/iclr/SatorrasE18,DBLP
+ICLR,pre_gpt,2018,Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions,,conf/iclr/ReedCPOERVF18,DBLP
+ICLR,pre_gpt,2018,Fidelity-Weighted Learning,,conf/iclr/0001MGKS18,DBLP
+ICLR,pre_gpt,2018,FigureQA: An Annotated Figure Dataset for Visual Reasoning,,conf/iclr/KahouMAKTB18,DBLP
+ICLR,pre_gpt,2018,Finding Flatter Minima with SGD,,conf/iclr/JastrzebskiKABF18,DBLP
+ICLR,pre_gpt,2018,Fix your classifier: the marginal value of training the last weight layer,,conf/iclr/HofferHS18,DBLP
+ICLR,pre_gpt,2018,Flipout: Efficient Pseudo-Independent Weight Perturbations on Mini-Batches,,conf/iclr/WenVBTG18,DBLP
+ICLR,pre_gpt,2018,Fraternal Dropout,,conf/iclr/ZolnaASB18,DBLP
+ICLR,pre_gpt,2018,FusionNet: Fusing via Fully-aware Attention with Application to Machine Comprehension,,conf/iclr/HuangZSC18,DBLP
+ICLR,pre_gpt,2018,GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets,,conf/iclr/YoonJS18,DBLP
+ICLR,pre_gpt,2018,GILBO: One Metric to Measure Them All,,conf/iclr/AlemiF18,DBLP
+ICLR,pre_gpt,2018,Gaussian Process Behaviour in Wide Deep Neural Networks,,conf/iclr/MatthewsHRTG18,DBLP
+ICLR,pre_gpt,2018,Generalizing Across Domains via Cross-Gradient Training,,conf/iclr/ShankarPCCJS18,DBLP
+ICLR,pre_gpt,2018,Generalizing Hamiltonian Monte Carlo with Neural Networks,,conf/iclr/LevyHS18,DBLP
+ICLR,pre_gpt,2018,Generating Natural Adversarial Examples,,conf/iclr/ZhaoDS18,DBLP
+ICLR,pre_gpt,2018,Generating Wikipedia by Summarizing Long Sequences,,conf/iclr/LiuSPGSKS18,DBLP
+ICLR,pre_gpt,2018,Generative Modeling for Protein Structures,,conf/iclr/AnandH18,DBLP
+ICLR,pre_gpt,2018,Generative Models of Visually Grounded Imagination,,conf/iclr/VedantamFH018,DBLP
+ICLR,pre_gpt,2018,Generative networks as inverse problems with Scattering transforms,,conf/iclr/AnglesM18,DBLP
+ICLR,pre_gpt,2018,GeoSeq2Seq: Information Geometric Sequence-to-Sequence Networks,,conf/iclr/BayS18,DBLP
+ICLR,pre_gpt,2018,GitGraph - from Computational Subgraphs to Smaller Architecture Search Spaces,,conf/iclr/Bennani-SmiresM18,DBLP
+ICLR,pre_gpt,2018,Global Optimality Conditions for Deep Neural Networks,,conf/iclr/YunSJ18,DBLP
+ICLR,pre_gpt,2018,Go for a Walk and Arrive at the Answer: Reasoning Over Paths in Knowledge Bases using Reinforcement Learning,,conf/iclr/DasDZVDKSM18,DBLP
+ICLR,pre_gpt,2018,Gradient Estimators for Implicit Models,,conf/iclr/LiT18,DBLP
+ICLR,pre_gpt,2018,Gradient-based Optimization of Neural Network Architecture,,conf/iclr/GrathwohlCGZ18,DBLP
+ICLR,pre_gpt,2018,Gradients explode - Deep Networks are shallow - ResNet explained,,conf/iclr/PhilippSC18,DBLP
+ICLR,pre_gpt,2018,Graph Attention Networks,,conf/iclr/VelickovicCCRLB18,DBLP
+ICLR,pre_gpt,2018,Graph Partition Neural Networks for Semi-Supervised Classification,,conf/iclr/LiaoBTGUZ18,DBLP
+ICLR,pre_gpt,2018,Guide Actor-Critic for Continuous Control,,conf/iclr/TangkarattAS18,DBLP
+ICLR,pre_gpt,2018,HexaConv,,conf/iclr/HoogeboomPCW18,DBLP
+ICLR,pre_gpt,2018,Hierarchical Density Order Embeddings,,conf/iclr/AthiwaratkunW18,DBLP
+ICLR,pre_gpt,2018,Hierarchical Representations for Efficient Architecture Search,,conf/iclr/LiuSVFK18,DBLP
+ICLR,pre_gpt,2018,Hierarchical Subtask Discovery with Non-Negative Matrix Factorization,,conf/iclr/EarleSR18,DBLP
+ICLR,pre_gpt,2018,Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning,,conf/iclr/ShuXS18,DBLP
+ICLR,pre_gpt,2018,HoME: a Household Multimodal Environment,,conf/iclr/BrodeurPAGCSRLC18,DBLP
+ICLR,pre_gpt,2018,Hockey-Stick GAN,,conf/iclr/MinasyanP18,DBLP
+ICLR,pre_gpt,2018,Hyperparameter optimization: a spectral approach,,conf/iclr/HazanKY18,DBLP
+ICLR,pre_gpt,2018,IamNN: Iterative and Adaptive Mobile Neural Network for efficient image classification,,conf/iclr/LerouxMSDBK18,DBLP
+ICLR,pre_gpt,2018,Identifying Analogies Across Domains,,conf/iclr/HoshenW18,DBLP
+ICLR,pre_gpt,2018,Imitation Learning from Visual Data with Multiple Intentions,,conf/iclr/TamarRCVGKP18,DBLP
+ICLR,pre_gpt,2018,Implicit Causal Models for Genome-wide Association Studies,,conf/iclr/TranB18,DBLP
+ICLR,pre_gpt,2018,Improving GAN Training via Binarized Representation Entropy (BRE) Regularization,,conf/iclr/CaoDLH18,DBLP
+ICLR,pre_gpt,2018,Improving GANs Using Optimal Transport,,conf/iclr/SalimansZRM18,DBLP
+ICLR,pre_gpt,2018,Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect,,conf/iclr/WeiGL0W18,DBLP
+ICLR,pre_gpt,2018,Improving the Universality and Learnability of Neural Programmer-Interpreters with Combinator Abstraction,,conf/iclr/XiaoLY18,DBLP
+ICLR,pre_gpt,2018,"In reinforcement learning, all objective functions are not equal",,conf/iclr/LarocheS18,DBLP
+ICLR,pre_gpt,2018,Inference in probabilistic graphical models by Graph Neural Networks,,conf/iclr/YoonLXZFUZP18,DBLP
+ICLR,pre_gpt,2018,Initialization matters: Orthogonal Predictive State Recurrent Neural Networks,,conf/iclr/ChoromanskiDB18,DBLP
+ICLR,pre_gpt,2018,Interactive Grounded Language Acquisition and Generalization in a 2D World,,conf/iclr/YuZX18,DBLP
+ICLR,pre_gpt,2018,Interpretable Counting for Visual Question Answering,,conf/iclr/TrottXS18,DBLP
+ICLR,pre_gpt,2018,Intriguing Properties of Adversarial Examples,,conf/iclr/CubukZSL18,DBLP
+ICLR,pre_gpt,2018,Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play,,conf/iclr/SukhbaatarLKSSF18,DBLP
+ICLR,pre_gpt,2018,Investigating Human Priors for Playing Video Games,,conf/iclr/DubeyAPEG18,DBLP
+ICLR,pre_gpt,2018,Isolating Sources of Disentanglement in Variational Autoencoders,,conf/iclr/ChenLGD18,DBLP
+ICLR,pre_gpt,2018,Iterative GANs for Rotating Visual Objects,,conf/iclr/GalamaM18,DBLP
+ICLR,pre_gpt,2018,"Jointly Learning ""What"" and ""How"" from Instructions and Goal-States",,conf/iclr/BahdanauHLHKG18,DBLP
+ICLR,pre_gpt,2018,Kernel Implicit Variational Inference,,conf/iclr/ShiS018,DBLP
+ICLR,pre_gpt,2018,Kronecker Recurrent Units,,conf/iclr/JoseCF18,DBLP
+ICLR,pre_gpt,2018,Kronecker-factored Curvature Approximations for Recurrent Neural Networks,,conf/iclr/MartensBJ18,DBLP
+ICLR,pre_gpt,2018,LSTM Iteration Networks: An Exploration of Differentiable Path Finding,,conf/iclr/LeePCS18,DBLP
+ICLR,pre_gpt,2018,Large Scale Optimal Transport and Mapping Estimation,,conf/iclr/SeguyDFCRB18,DBLP
+ICLR,pre_gpt,2018,Large scale distributed neural network training through online distillation,,conf/iclr/AnilPPODH18,DBLP
+ICLR,pre_gpt,2018,Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models,,conf/iclr/EngelHR18,DBLP
+ICLR,pre_gpt,2018,Latent Space Oddity: on the Curvature of Deep Generative Models,,conf/iclr/ArvanitidisHH18,DBLP
+ICLR,pre_gpt,2018,Learn to Pay Attention,,conf/iclr/JetleyLLT18,DBLP
+ICLR,pre_gpt,2018,Learning Approximate Inference Networks for Structured Prediction,,conf/iclr/TuG18,DBLP
+ICLR,pre_gpt,2018,Learning Awareness Models,,conf/iclr/AmosDCRCMETFD18,DBLP
+ICLR,pre_gpt,2018,Learning Deep Mean Field Games for Modeling Large Population Behavior,,conf/iclr/YangYTXZ18,DBLP
+ICLR,pre_gpt,2018,Learning Deep Models: Critical Points and Local Openness,,conf/iclr/NouiehedR18,DBLP
+ICLR,pre_gpt,2018,Learning Differentially Private Recurrent Language Models,,conf/iclr/McMahanRT018,DBLP
+ICLR,pre_gpt,2018,Learning Discrete Weights Using the Local Reparameterization Trick,,conf/iclr/ShayerLF18,DBLP
+ICLR,pre_gpt,2018,Learning Disentangled Representations with Wasserstein Auto-Encoders,,conf/iclr/RubensteinST18,DBLP
+ICLR,pre_gpt,2018,Learning Efficient Tensor Representations with Ring Structure Networks,,conf/iclr/ZhaoSYC18,DBLP
+ICLR,pre_gpt,2018,Learning From Noisy Singly-labeled Data,,conf/iclr/KhetanLA18,DBLP
+ICLR,pre_gpt,2018,Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning,,conf/iclr/SubramanianTBP18,DBLP
+ICLR,pre_gpt,2018,Learning How Not to Act in Text-based Games,,conf/iclr/HaroushZMM18,DBLP
+ICLR,pre_gpt,2018,Learning Intrinsic Sparse Structures within Long Short-Term Memory,,conf/iclr/WenHRZWLHC018,DBLP
+ICLR,pre_gpt,2018,Learning Invariance with Compact Transforms,,conf/iclr/ThomasGDRR18,DBLP
+ICLR,pre_gpt,2018,Learning Invariances for Policy Generalization,,conf/iclr/CombesBS18,DBLP
+ICLR,pre_gpt,2018,Learning Latent Permutations with Gumbel-Sinkhorn Networks,,conf/iclr/MenaBLS18,DBLP
+ICLR,pre_gpt,2018,Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization,,conf/iclr/KilincU18,DBLP
+ICLR,pre_gpt,2018,Learning Longer-term Dependencies in RNNs with Auxiliary Losses,,conf/iclr/TrinhDLL18,DBLP
+ICLR,pre_gpt,2018,Learning One-hidden-layer Neural Networks with Landscape Design,,conf/iclr/0001LM18,DBLP
+ICLR,pre_gpt,2018,Learning Parametric Closed-Loop Policies for Markov Potential Games,,conf/iclr/MacuaZZ18,DBLP
+ICLR,pre_gpt,2018,Learning Representations and Generative Models for 3D Point Clouds,,conf/iclr/AchlioptasDMG18,DBLP
+ICLR,pre_gpt,2018,Learning Rich Image Representation with Deep Layer Aggregation,,conf/iclr/YuWSD18,DBLP
+ICLR,pre_gpt,2018,Learning Robust Rewards with Adverserial Inverse Reinforcement Learning,,conf/iclr/FuLL18,DBLP
+ICLR,pre_gpt,2018,Learning Sparse Latent Representations with the Deep Copula Information Bottleneck,,conf/iclr/WieczorekWM018,DBLP
+ICLR,pre_gpt,2018,Learning Sparse Neural Networks through L_0 Regularization,,conf/iclr/LouizosWK18,DBLP
+ICLR,pre_gpt,2018,Learning Wasserstein Embeddings,,conf/iclr/CourtyFD18,DBLP
+ICLR,pre_gpt,2018,Learning a Generative Model for Validity in Complex Discrete Structures,,conf/iclr/JanzWPKH18,DBLP
+ICLR,pre_gpt,2018,Learning a neural response metric for retinal prosthesis,,conf/iclr/ShahMCSS18,DBLP
+ICLR,pre_gpt,2018,Learning an Embedding Space for Transferable Robot Skills,,conf/iclr/HausmanS0HR18,DBLP
+ICLR,pre_gpt,2018,Learning and Analyzing Vector Encoding of Symbolic Representation,,conf/iclr/FernandezCSS18,DBLP
+ICLR,pre_gpt,2018,Learning and Memorization,,conf/iclr/Chatterjee18,DBLP
+ICLR,pre_gpt,2018,Learning from Between-class Examples for Deep Sound Recognition,,conf/iclr/TokozumeUH18,DBLP
+ICLR,pre_gpt,2018,Learning how to explain neural networks: PatternNet and PatternAttribution,,conf/iclr/KindermansSAMEK18,DBLP
+ICLR,pre_gpt,2018,Learning to Count Objects in Natural Images for Visual Question Answering,,conf/iclr/ZhangHP18,DBLP
+ICLR,pre_gpt,2018,Learning to Infer,,conf/iclr/MarinoYM18,DBLP
+ICLR,pre_gpt,2018,Learning to Learn Without Labels,,conf/iclr/MetzMCS18,DBLP
+ICLR,pre_gpt,2018,Learning to Multi-Task by Active Sampling,,conf/iclr/SharmaJHR18,DBLP
+ICLR,pre_gpt,2018,Learning to Organize Knowledge with N-Gram Machines,,conf/iclr/YangNCL18,DBLP
+ICLR,pre_gpt,2018,Learning to Represent Programs with Graphs,,conf/iclr/AllamanisBK18,DBLP
+ICLR,pre_gpt,2018,Learning to Share: simultaneous parameter tying and Sparsification in Deep Learning,,conf/iclr/ZhangWFB18,DBLP
+ICLR,pre_gpt,2018,Learning to Teach,,conf/iclr/FanTQ0L18,DBLP
+ICLR,pre_gpt,2018,Learning to cluster in order to transfer across domains and tasks,,conf/iclr/HsuLK18,DBLP
+ICLR,pre_gpt,2018,Learning via social awareness: improving sketch representations with facial feedback,,conf/iclr/JaquesEHBPE18,DBLP
+ICLR,pre_gpt,2018,Leave no Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning,,conf/iclr/EysenbachGIL18,DBLP
+ICLR,pre_gpt,2018,Leveraging Constraint Logic Programming for Neural Guided Program Synthesis,,conf/iclr/ZhangRFLBUZ18,DBLP
+ICLR,pre_gpt,2018,Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis,,conf/iclr/BunelHDSK18,DBLP
+ICLR,pre_gpt,2018,Lifelong Learning with Dynamically Expandable Networks,,conf/iclr/YoonYLH18,DBLP
+ICLR,pre_gpt,2018,Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values,,conf/iclr/AdebayoGGK18,DBLP
+ICLR,pre_gpt,2018,Loss-aware Weight Quantization of Deep Networks,,conf/iclr/HouK18,DBLP
+ICLR,pre_gpt,2018,Lsh-Sampling breaks the Computational chicken-and-egg Loop in adaptive stochastic Gradient estimation,,conf/iclr/ChenXS18,DBLP
+ICLR,pre_gpt,2018,MGAN: Training Generative Adversarial Nets with Multiple Generators,,conf/iclr/HoangNLP18,DBLP
+ICLR,pre_gpt,2018,Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step,,conf/iclr/FedusRLDMG18,DBLP
+ICLR,pre_gpt,2018,MaskGAN: Better Text Generation via Filling in the _______,,conf/iclr/FedusGD18,DBLP
+ICLR,pre_gpt,2018,Mastering the Dungeon: Grounded Language Learning by Mechanical Turker Descent,,conf/iclr/YangZUFMSKW18,DBLP
+ICLR,pre_gpt,2018,Matrix capsules with EM routing,,conf/iclr/HintonSF18,DBLP
+ICLR,pre_gpt,2018,Maximum a Posteriori Policy Optimisation,,conf/iclr/AbdolmalekiSTMH18,DBLP
+ICLR,pre_gpt,2018,Measuring the Intrinsic Dimension of Objective Landscapes,,conf/iclr/LiFLY18,DBLP
+ICLR,pre_gpt,2018,MemCNN: a Framework for Developing Memory Efficient Deep Invertible Networks,,conf/iclr/LeemputTM18,DBLP
+ICLR,pre_gpt,2018,Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks,,conf/iclr/KimKK18,DBLP
+ICLR,pre_gpt,2018,Memory Architectures in Recurrent Neural Network Language Models,,conf/iclr/YogatamaMMLKDB18,DBLP
+ICLR,pre_gpt,2018,Memory Augmented Control Networks,,conf/iclr/KhanZAK0L18,DBLP
+ICLR,pre_gpt,2018,Memory-based Parameter Adaptation,,conf/iclr/SprechmannJRPBU18,DBLP
+ICLR,pre_gpt,2018,Meta Learning Shared Hierarchies,,conf/iclr/FransH0AS18,DBLP
+ICLR,pre_gpt,2018,Meta-Learning a Dynamical Language Model,,conf/iclr/WolfCD18,DBLP
+ICLR,pre_gpt,2018,Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm,,conf/iclr/FinnL18,DBLP
+ICLR,pre_gpt,2018,Meta-Learning for Batch Mode Active Learning,,conf/iclr/RaviL18,DBLP
+ICLR,pre_gpt,2018,Meta-Learning for Semi-Supervised Few-Shot Classification,,conf/iclr/RenTRSSTLZ18,DBLP
+ICLR,pre_gpt,2018,Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation,,conf/iclr/MorerioCM18,DBLP
+ICLR,pre_gpt,2018,Minimally Redundant Laplacian Eigenmaps,,conf/iclr/PfauB18,DBLP
+ICLR,pre_gpt,2018,Minimax Curriculum Learning: Machine Teaching with Desirable Difficulties and Scheduled Diversity,,conf/iclr/ZhouB18,DBLP
+ICLR,pre_gpt,2018,Mitigating Adversarial Effects Through Randomization,,conf/iclr/XieWZRY18,DBLP
+ICLR,pre_gpt,2018,Mixed Precision Training,,conf/iclr/MicikeviciusNAD18,DBLP
+ICLR,pre_gpt,2018,Mixed Precision Training of Convolutional Neural Networks using Integer Operations,,conf/iclr/0002MMKAB0VKGHD18,DBLP
+ICLR,pre_gpt,2018,Model compression via distillation and quantization,,conf/iclr/PolinoPA18,DBLP
+ICLR,pre_gpt,2018,Model-Ensemble Trust-Region Policy Optimization,,conf/iclr/KurutachCDTA18,DBLP
+ICLR,pre_gpt,2018,Modular Continual Learning in a Unified Visual Environment,,conf/iclr/FeigelisSY18,DBLP
+ICLR,pre_gpt,2018,Monotonic Chunkwise Attention,,conf/iclr/ChiuR18,DBLP
+ICLR,pre_gpt,2018,Monotonic models for real-time dynamic malware detection,,conf/iclr/ChistyakovLSR18,DBLP
+ICLR,pre_gpt,2018,Multi-Agent Generative Adversarial Imitation Learning,,conf/iclr/SongRSE18,DBLP
+ICLR,pre_gpt,2018,Multi-Mention Learning for Reading Comprehension with Neural Cascades,,conf/iclr/SwayamdiptaPK18,DBLP
+ICLR,pre_gpt,2018,Multi-Scale Dense Networks for Resource Efficient Image Classification,,conf/iclr/HuangCLWMW18,DBLP
+ICLR,pre_gpt,2018,Multi-Task Learning for Document Ranking and Query Suggestion,,conf/iclr/AhmadCW18,DBLP
+ICLR,pre_gpt,2018,Multi-View Data Generation Without View Supervision,,conf/iclr/ChenDA18,DBLP
+ICLR,pre_gpt,2018,Multi-level Residual Networks from Dynamical Systems View,,conf/iclr/ChangMHTB18,DBLP
+ICLR,pre_gpt,2018,Multiple Source Domain Adaptation with Adversarial Learning,,conf/iclr/0002ZWCMG18,DBLP
+ICLR,pre_gpt,2018,N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning,,conf/iclr/AshokRBK18,DBLP
+ICLR,pre_gpt,2018,NAM - Unsupervised Cross-Domain Image Mapping without Cycles or GANs,,conf/iclr/HoshenW18a,DBLP
+ICLR,pre_gpt,2018,Natural Language Inference over Interaction Space,,conf/iclr/GongLZ18,DBLP
+ICLR,pre_gpt,2018,Negative eigenvalues of the Hessian in deep neural networks,,conf/iclr/AlainRM18,DBLP
+ICLR,pre_gpt,2018,NerveNet: Learning Structured Policy with Graph Neural Networks,,conf/iclr/WangLBF18,DBLP
+ICLR,pre_gpt,2018,Neumann Optimizer: A Practical Optimization Algorithm for Deep Neural Networks,,conf/iclr/KrishnanXS18,DBLP
+ICLR,pre_gpt,2018,Neural Language Modeling by Jointly Learning Syntax and Lexicon,,conf/iclr/ShenLHC18,DBLP
+ICLR,pre_gpt,2018,Neural Map: Structured Memory for Deep Reinforcement Learning,,conf/iclr/ParisottoS18,DBLP
+ICLR,pre_gpt,2018,Neural Program Search: Solving Programming Tasks from Description and Examples,,conf/iclr/PolosukhinS18,DBLP
+ICLR,pre_gpt,2018,Neural Sketch Learning for Conditional Program Generation,,conf/iclr/MuraliQCJ18,DBLP
+ICLR,pre_gpt,2018,Neural Speed Reading via Skim-RNN,,conf/iclr/SeoMFH18,DBLP
+ICLR,pre_gpt,2018,Neural network parameter regression for lattice quantum chromodynamics simulations in nuclear and particle physics,,conf/iclr/ShanahanTD18,DBLP
+ICLR,pre_gpt,2018,Neural-Guided Deductive Search for Real-Time Program Synthesis from Examples,,conf/iclr/KalyanMPBJG18,DBLP
+ICLR,pre_gpt,2018,Neuron as an Agent,,conf/iclr/OhsawaAMBIKTM18,DBLP
+ICLR,pre_gpt,2018,No Spurious Local Minima in a Two Hidden Unit ReLU Network,,conf/iclr/WuLL18,DBLP
+ICLR,pre_gpt,2018,Noisy Networks For Exploration,,conf/iclr/FortunatoAPMHOG18,DBLP
+ICLR,pre_gpt,2018,Non-Autoregressive Neural Machine Translation,,conf/iclr/Gu0XLS18,DBLP
+ICLR,pre_gpt,2018,Nonlinear Acceleration of CNNs,,conf/iclr/ScieurOdB18,DBLP
+ICLR,pre_gpt,2018,Not-So-Random Features,,conf/iclr/BullinsZZ18,DBLP
+ICLR,pre_gpt,2018,On Unifying Deep Generative Models,,conf/iclr/HuYSX18,DBLP
+ICLR,pre_gpt,2018,On the Convergence of Adam and Beyond,,conf/iclr/ReddiKK18,DBLP
+ICLR,pre_gpt,2018,On the Discrimination-Generalization Tradeoff in GANs,,conf/iclr/Zhang0ZX018,DBLP
+ICLR,pre_gpt,2018,On the Expressive Power of Overlapping Architectures of Deep Learning,,conf/iclr/SharirS18,DBLP
+ICLR,pre_gpt,2018,On the Information Bottleneck Theory of Deep Learning,,conf/iclr/SaxeBDAKTC18,DBLP
+ICLR,pre_gpt,2018,On the Limitation of Local Intrinsic Dimensionality for Characterizing the Subspaces of Adversarial Examples,,conf/iclr/LuCY18,DBLP
+ICLR,pre_gpt,2018,On the State of the Art of Evaluation in Neural Language Models,,conf/iclr/MelisDB18,DBLP
+ICLR,pre_gpt,2018,On the importance of single directions for generalization,,conf/iclr/MorcosBRB18,DBLP
+ICLR,pre_gpt,2018,On the insufficiency of existing momentum schemes for Stochastic Optimization,,conf/iclr/KidambiN0K18,DBLP
+ICLR,pre_gpt,2018,On the regularization of Wasserstein GANs,,conf/iclr/PetzkaFL18,DBLP
+ICLR,pre_gpt,2018,One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning,,conf/iclr/YuFXDZAL18,DBLP
+ICLR,pre_gpt,2018,Online Learning Rate Adaptation with Hypergradient Descent,,conf/iclr/BaydinCMSW18,DBLP
+ICLR,pre_gpt,2018,Online variance-reducing optimization,,conf/iclr/RouxBM18,DBLP
+ICLR,pre_gpt,2018,Overcoming Catastrophic Interference using Conceptor-Aided Backpropagation,,conf/iclr/HeJ18,DBLP
+ICLR,pre_gpt,2018,PDE-Net: Learning PDEs from Data,,conf/iclr/LongLMD18,DBLP
+ICLR,pre_gpt,2018,PPP-Net: Platform-aware Progressive Search for Pareto-optimal Neural Architectures,,conf/iclr/DongCJWS18,DBLP
+ICLR,pre_gpt,2018,Parallelizing Linear Recurrent Neural Nets Over Sequence Length,,conf/iclr/MartinC18,DBLP
+ICLR,pre_gpt,2018,Parameter Space Noise for Exploration,,conf/iclr/PlappertHDSC0AA18,DBLP
+ICLR,pre_gpt,2018,Parametric Adversarial Divergences are Good Task Losses for Generative Modeling,,conf/iclr/HuangBTGVL18,DBLP
+ICLR,pre_gpt,2018,Parametrized Hierarchical Procedures for Neural Programming,,conf/iclr/FoxSKGSS18,DBLP
+ICLR,pre_gpt,2018,Pelee: A Real-Time Object Detection System on Mobile Devices,,conf/iclr/Wang0AL18,DBLP
+ICLR,pre_gpt,2018,PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples,,conf/iclr/SongKNEK18,DBLP
+ICLR,pre_gpt,2018,PixelNN: Example-based Image Synthesis,,conf/iclr/BansalSR18,DBLP
+ICLR,pre_gpt,2018,PixelSNAIL: An Improved Autoregressive Generative Model,,conf/iclr/0022MRA18,DBLP
+ICLR,pre_gpt,2018,Polar Transformer Networks,,conf/iclr/EstevesAZD18,DBLP
+ICLR,pre_gpt,2018,Policy Optimization by Genetic Distillation,,conf/iclr/GangwaniP18,DBLP
+ICLR,pre_gpt,2018,Policy Optimization with Second-Order Advantage Information,,conf/iclr/LiW18,DBLP
+ICLR,pre_gpt,2018,Practical Hyperparameter Optimization for Deep Learning,,conf/iclr/FalknerKH18,DBLP
+ICLR,pre_gpt,2018,Predict Responsibly: Increasing Fairness by Learning to Defer,,conf/iclr/MadrasPZ18,DBLP
+ICLR,pre_gpt,2018,Predicting Embryo Morphokinetics in Videos with Late Fusion Nets & Dynamic Decoders,,conf/iclr/NgMGDL18,DBLP
+ICLR,pre_gpt,2018,Predicting Floor-Level for 911 Calls with Neural Networks and Smartphone Sensor Data,,conf/iclr/FalconS18,DBLP
+ICLR,pre_gpt,2018,"Progressive Growing of GANs for Improved Quality, Stability, and Variation",,conf/iclr/KarrasALL18,DBLP
+ICLR,pre_gpt,2018,Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control,,conf/iclr/BersethXCP18,DBLP
+ICLR,pre_gpt,2018,Proximal Backpropagation,,conf/iclr/FrerixM0C18,DBLP
+ICLR,pre_gpt,2018,QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension,,conf/iclr/YuDLZ00L18,DBLP
+ICLR,pre_gpt,2018,Quantitatively Evaluating GANs With Divergences Proposed for Training,,conf/iclr/ImMTB18,DBLP
+ICLR,pre_gpt,2018,Realistic Evaluation of Semi-Supervised Learning Algorithms,,conf/iclr/OliverORCG18,DBLP
+ICLR,pre_gpt,2018,Recasting Gradient-Based Meta-Learning as Hierarchical Bayes,,conf/iclr/GrantFLDG18,DBLP
+ICLR,pre_gpt,2018,Reconstructing evolutionary trajectories of mutations in cancer,,conf/iclr/RubanovaSLWDSM18,DBLP
+ICLR,pre_gpt,2018,Regret Minimization for Partially Observable Deep Reinforcement Learning,,conf/iclr/JinLK18,DBLP
+ICLR,pre_gpt,2018,Regularization Neural Networks via Constrained Virtual Movement Field,,conf/iclr/ZhangJ18,DBLP
+ICLR,pre_gpt,2018,Regularizing and Optimizing LSTM Language Models,,conf/iclr/MerityKS18,DBLP
+ICLR,pre_gpt,2018,ReinforceWalk: Learning to Walk in Graph with Monte Carlo Tree Search,,conf/iclr/ShenCHGG18,DBLP
+ICLR,pre_gpt,2018,Reinforcement Learning Algorithm Selection,,conf/iclr/LarocheF18,DBLP
+ICLR,pre_gpt,2018,Reinforcement Learning from Imperfect Demonstrations,,conf/iclr/GaoXLYLD18,DBLP
+ICLR,pre_gpt,2018,Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration,,conf/iclr/LiuGPSL18,DBLP
+ICLR,pre_gpt,2018,Relational Neural Expectation Maximization: Unsupervised Discovery of Objects and their Interactions,,conf/iclr/SteenkisteCGS18,DBLP
+ICLR,pre_gpt,2018,Residual Connections Encourage Iterative Inference,,conf/iclr/JastrzebskiABVC18,DBLP
+ICLR,pre_gpt,2018,Residual Loss Prediction: Reinforcement Learning With No Incremental Feedback,,conf/iclr/Daume0S18,DBLP
+ICLR,pre_gpt,2018,Resilient Backpropagation (Rprop) for Batch-learning in TensorFlow,,conf/iclr/FlorescuI18,DBLP
+ICLR,pre_gpt,2018,Rethinking Style and Content Disentanglement in Variational Autoencoders,,conf/iclr/ShuZK18,DBLP
+ICLR,pre_gpt,2018,Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers,,conf/iclr/YeL0W18,DBLP
+ICLR,pre_gpt,2018,Reward Estimation for Variance Reduction in Deep Reinforcement Learning,,conf/iclr/RomoffP0FP18,DBLP
+ICLR,pre_gpt,2018,Robustness of Classifiers to Universal Perturbations: A Geometric Perspective,,conf/iclr/Moosavi-Dezfooli18,DBLP
+ICLR,pre_gpt,2018,Rotational Unit of Memory,,conf/iclr/DangovskiJS18,DBLP
+ICLR,pre_gpt,2018,Routing Networks: Adaptive Selection of Non-Linear Functions for Multi-Task Learning,,conf/iclr/RosenbaumKR18,DBLP
+ICLR,pre_gpt,2018,SCAN: Learning Hierarchical Compositional Visual Concepts,,conf/iclr/HigginsSMPBBSBH18,DBLP
+ICLR,pre_gpt,2018,SEARNN: Training RNNs with global-local losses,,conf/iclr/LeblondAOL18,DBLP
+ICLR,pre_gpt,2018,SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data,,conf/iclr/BrutzkusGMS18,DBLP
+ICLR,pre_gpt,2018,SGD on Random Mixtures: Private Machine Learning under Data Breach Threats,,conf/iclr/LeeLKSR18,DBLP
+ICLR,pre_gpt,2018,SMASH: One-Shot Model Architecture Search through HyperNetworks,,conf/iclr/BrockLRW18,DBLP
+ICLR,pre_gpt,2018,Scalable Estimation via LSH Samplers (LSS),,conf/iclr/SpringS18,DBLP
+ICLR,pre_gpt,2018,Scalable Private Learning with PATE,,conf/iclr/PapernotSMRTE18,DBLP
+ICLR,pre_gpt,2018,Searching for Activation Functions,,conf/iclr/RamachandranZL18,DBLP
+ICLR,pre_gpt,2018,Selecting the Best in GANs Family: a Post Selection Inference Framework,,conf/iclr/TsaiWYSTF18,DBLP
+ICLR,pre_gpt,2018,Self-ensembling for visual domain adaptation,,conf/iclr/FrenchMF18,DBLP
+ICLR,pre_gpt,2018,Semantic Interpolation in Implicit Models,,conf/iclr/KilcherLH18,DBLP
+ICLR,pre_gpt,2018,Semantically Decomposing the Latent Spaces of Generative Adversarial Networks,,conf/iclr/DonahueLBM18,DBLP
+ICLR,pre_gpt,2018,Semi-Supervised Few-Shot Learning with MAML,,conf/iclr/BoneyI18,DBLP
+ICLR,pre_gpt,2018,Semi-Supervised Learning With GANs: Revisiting Manifold Regularization,,conf/iclr/LecouatFZC18,DBLP
+ICLR,pre_gpt,2018,Semi-parametric topological memory for navigation,,conf/iclr/SavinovDK18,DBLP
+ICLR,pre_gpt,2018,Semiparametric Reinforcement Learning,,conf/iclr/JainL18,DBLP
+ICLR,pre_gpt,2018,Sensitivity and Generalization in Neural Networks: an Empirical Study,,conf/iclr/NovakBAPS18,DBLP
+ICLR,pre_gpt,2018,ShakeDrop regularization,,conf/iclr/YamadaIK18,DBLP
+ICLR,pre_gpt,2018,Shifting Mean Activation Towards Zero with Bipolar Activation Functions,,conf/iclr/EidnesN18,DBLP
+ICLR,pre_gpt,2018,Simple and efficient architecture search for Convolutional Neural Networks,,conf/iclr/ElskenMH18,DBLP
+ICLR,pre_gpt,2018,Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings,,conf/iclr/LeeKS18,DBLP
+ICLR,pre_gpt,2018,Simulating Action Dynamics with Neural Process Networks,,conf/iclr/BosselutLHEFC18,DBLP
+ICLR,pre_gpt,2018,Skip Connections Eliminate Singularities,,conf/iclr/OrhanP18,DBLP
+ICLR,pre_gpt,2018,Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks,,conf/iclr/CamposJNTC18,DBLP
+ICLR,pre_gpt,2018,Smooth Loss Functions for Deep Top-k Classification,,conf/iclr/BerradaZK18,DBLP
+ICLR,pre_gpt,2018,Sobolev GAN,,conf/iclr/MrouehLSRC18,DBLP
+ICLR,pre_gpt,2018,Sparse Persistent RNNs: Squeezing Large Recurrent Networks On-Chip,,conf/iclr/ZhuPAAX18,DBLP
+ICLR,pre_gpt,2018,Spatially Parallel Convolutions,,conf/iclr/JinGK18,DBLP
+ICLR,pre_gpt,2018,Spatially Transformed Adversarial Examples,,conf/iclr/XiaoZ0HLS18,DBLP
+ICLR,pre_gpt,2018,Spectral Normalization for Generative Adversarial Networks,,conf/iclr/MiyatoKKY18,DBLP
+ICLR,pre_gpt,2018,SpectralNet: Spectral Clustering using Deep Neural Networks,,conf/iclr/ShahamSLBNK18,DBLP
+ICLR,pre_gpt,2018,SpectralWords: Spectral Embeddings Approach to Word Similarity Task for Large Vocabularies,,conf/iclr/Lobov18,DBLP
+ICLR,pre_gpt,2018,Spherical CNNs,,conf/iclr/CohenGKW18,DBLP
+ICLR,pre_gpt,2018,Stabilizing Adversarial Nets with Prediction Methods,,conf/iclr/YadavS0JG18,DBLP
+ICLR,pre_gpt,2018,Stable Distribution Alignment Using the Dual of the Adversarial Distance,,conf/iclr/UsmanSK18,DBLP
+ICLR,pre_gpt,2018,Stable and Effective Trainable Greedy Decoding for Sequence to Sequence Learning,,conf/iclr/ChenCBL18,DBLP
+ICLR,pre_gpt,2018,Stacked Filters Stationary Flow For Hardware-Oriented Acceleration Of Deep Convolutional Neural Networks,,conf/iclr/GaoLZ18,DBLP
+ICLR,pre_gpt,2018,Stochastic Activation Pruning for Robust Adversarial Defense,,conf/iclr/DhillonALBKKA18,DBLP
+ICLR,pre_gpt,2018,Stochastic Gradient Langevin dynamics that Exploit Neural Network Structure,,conf/iclr/NadoSGDXM18,DBLP
+ICLR,pre_gpt,2018,Stochastic Variational Video Prediction,,conf/iclr/BabaeizadehFECL18,DBLP
+ICLR,pre_gpt,2018,"Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks",,conf/iclr/ChaudhariS18,DBLP
+ICLR,pre_gpt,2018,SufiSent - Universal Sentence Representations Using Suffix Encodings,,conf/iclr/Brahma18,DBLP
+ICLR,pre_gpt,2018,Syntax-Directed Variational Autoencoder for Structured Data,,conf/iclr/DaiTDSS18,DBLP
+ICLR,pre_gpt,2018,Synthesizing Audio with GANs,,conf/iclr/DonahueMP18,DBLP
+ICLR,pre_gpt,2018,Synthesizing realistic neural population activity patterns using Generative Adversarial Networks,,conf/iclr/Molano-MazonOPP18,DBLP
+ICLR,pre_gpt,2018,Synthetic and Natural Noise Both Break Neural Machine Translation,,conf/iclr/BelinkovB18,DBLP
+ICLR,pre_gpt,2018,Systematic Weight Pruning of DNNs using Alternating Direction Method of Multipliers,,conf/iclr/ZhangYZWF18,DBLP
+ICLR,pre_gpt,2018,TD or not TD: Analyzing the Role of Temporal Differencing in Deep Reinforcement Learning,,conf/iclr/AmiranashviliDK18,DBLP
+ICLR,pre_gpt,2018,Tempered Adversarial Networks,,conf/iclr/SajjadiPMS18,DBLP
+ICLR,pre_gpt,2018,Temporal Difference Models: Model-Free Deep RL for Model-Based Control,,conf/iclr/PongGDL18,DBLP
+ICLR,pre_gpt,2018,Temporally Efficient Deep Learning with Spikes,,conf/iclr/OConnorGRW18,DBLP
+ICLR,pre_gpt,2018,The Effectiveness of a two-Layer Neural Network for Recommendations,,conf/iclr/RybakovMMLJCSYN18,DBLP
+ICLR,pre_gpt,2018,The High-Dimensional Geometry of Binary Neural Networks,,conf/iclr/AndersonB18,DBLP
+ICLR,pre_gpt,2018,The Implicit Bias of Gradient Descent on Separable Data,,conf/iclr/SoudryHNS18,DBLP
+ICLR,pre_gpt,2018,The Kanerva Machine: A Generative Distributed Memory,,conf/iclr/WuWGL18,DBLP
+ICLR,pre_gpt,2018,The Mirage of Action-Dependent Baselines in Reinforcement Learning,,conf/iclr/TuckerBGTGL18,DBLP
+ICLR,pre_gpt,2018,The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning,,conf/iclr/GruslysDAPBM18,DBLP
+ICLR,pre_gpt,2018,The Role of Minimal Complexity Functions in Unsupervised Learning of Semantic Mappings,,conf/iclr/GalantiWB18,DBLP
+ICLR,pre_gpt,2018,The loss surface and expressivity of deep convolutional neural networks,,conf/iclr/Nguyen018,DBLP
+ICLR,pre_gpt,2018,The power of deeper networks for expressing natural functions,,conf/iclr/RolnickT18,DBLP
+ICLR,pre_gpt,2018,Thermometer Encoding: One Hot Way To Resist Adversarial Examples,,conf/iclr/BuckmanRRG18,DBLP
+ICLR,pre_gpt,2018,Time-Dependent Representation for Neural Event Sequence Prediction,,conf/iclr/LiDB18,DBLP
+ICLR,pre_gpt,2018,"To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression",,conf/iclr/ZhuG18,DBLP
+ICLR,pre_gpt,2018,Towards Deep Learning Models Resistant to Adversarial Attacks,,conf/iclr/MadryMSTV18,DBLP
+ICLR,pre_gpt,2018,Towards Image Understanding from Deep Compression Without Decoding,,conf/iclr/TorfasonMATTG18,DBLP
+ICLR,pre_gpt,2018,Towards Mixed-initiative generation of multi-channel sequential structure,,conf/iclr/HuangCNE18,DBLP
+ICLR,pre_gpt,2018,Towards Neural Phrase-based Machine Translation,,conf/iclr/HuangWHZ018,DBLP
+ICLR,pre_gpt,2018,Towards Provable Control for Unknown Linear Dynamical Systems,,conf/iclr/AroraHLSZZ18,DBLP
+ICLR,pre_gpt,2018,Towards Reverse-Engineering Black-Box Neural Networks,,conf/iclr/OhAFS18,DBLP
+ICLR,pre_gpt,2018,Towards Specification-Directed Program Repair,,conf/iclr/ShinPS18a,DBLP
+ICLR,pre_gpt,2018,Towards Synthesizing Complex Programs From Input-Output Examples,,conf/iclr/ChenLS18,DBLP
+ICLR,pre_gpt,2018,Towards Variational Generation of Small Graphs,,conf/iclr/SimonovskyK18,DBLP
+ICLR,pre_gpt,2018,Towards better understanding of gradient-based attribution methods for Deep Neural Networks,,conf/iclr/AnconaCO018,DBLP
+ICLR,pre_gpt,2018,Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples,,conf/iclr/LeeLLS18,DBLP
+ICLR,pre_gpt,2018,Training GANs with Optimism,,conf/iclr/DaskalakisISZ18,DBLP
+ICLR,pre_gpt,2018,Training Generative Adversarial Networks via Primal-Dual subgradient Methods: a Lagrangian Perspective on GaN,,conf/iclr/ChenWG18,DBLP
+ICLR,pre_gpt,2018,Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks,,conf/iclr/0002HH18,DBLP
+ICLR,pre_gpt,2018,Training and Inference with Integers in Deep Neural Networks,,conf/iclr/WuLCS18,DBLP
+ICLR,pre_gpt,2018,Training wide residual networks for deployment using a single bit for each weight,,conf/iclr/McDonnell18,DBLP
+ICLR,pre_gpt,2018,TransNets for Review Generation,,conf/iclr/CatherineC18,DBLP
+ICLR,pre_gpt,2018,Tree-to-tree Neural Networks for Program Translation,,conf/iclr/ChenLS18a,DBLP
+ICLR,pre_gpt,2018,TreeQN and ATreeC: Differentiable Tree-Structured Models for Deep Reinforcement Learning,,conf/iclr/FarquharRIW18,DBLP
+ICLR,pre_gpt,2018,Truncated horizon Policy Search: Combining Reinforcement Learning & Imitation Learning,,conf/iclr/0002BB18,DBLP
+ICLR,pre_gpt,2018,Trust-PCL: An Off-Policy Trust Region Method for Continuous Control,,conf/iclr/Nachum0XS18,DBLP
+ICLR,pre_gpt,2018,Twin Networks: Matching the Future for Sequence Generation,,conf/iclr/SerdyukKSTPB18,DBLP
+ICLR,pre_gpt,2018,Unbiased Online Recurrent Optimization,,conf/iclr/TallecO18,DBLP
+ICLR,pre_gpt,2018,Uncertainty Estimation via Stochastic Batch Normalization,,conf/iclr/AtanovAMNV18,DBLP
+ICLR,pre_gpt,2018,Understanding Deep Neural Networks with Rectified Linear Units,,conf/iclr/AroraBMM18,DBLP
+ICLR,pre_gpt,2018,Understanding Short-Horizon Bias in Stochastic Meta-Optimization,,conf/iclr/WuRLG18,DBLP
+ICLR,pre_gpt,2018,Understanding image motion with group representations,,conf/iclr/JaeglePID18,DBLP
+ICLR,pre_gpt,2018,Understanding the Loss Surface of Single-Layered Neural Networks for Binary Classification,,conf/iclr/LiangSLS18,DBLP
+ICLR,pre_gpt,2018,Universal Agent for Disentangling Environments and Tasks,,conf/iclr/MaoDL18,DBLP
+ICLR,pre_gpt,2018,Universal Successor Representations for Transfer Reinforcement Learning,,conf/iclr/MaWB18,DBLP
+ICLR,pre_gpt,2018,Unsupervised Cipher Cracking Using Discrete GANs,,conf/iclr/GomezHZLOK18,DBLP
+ICLR,pre_gpt,2018,Unsupervised Learning of Goal Spaces for Intrinsically Motivated Goal Exploration,,conf/iclr/PereFSO18,DBLP
+ICLR,pre_gpt,2018,Unsupervised Machine Translation Using Monolingual Corpora Only,,conf/iclr/LampleCDR18,DBLP
+ICLR,pre_gpt,2018,Unsupervised Neural Machine Translation,,conf/iclr/ArtetxeLAC18,DBLP
+ICLR,pre_gpt,2018,Unsupervised Representation Learning by Predicting Image Rotations,,conf/iclr/GidarisSK18,DBLP
+ICLR,pre_gpt,2018,Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines,,conf/iclr/WuRDKBKMA18,DBLP
+ICLR,pre_gpt,2018,Variance-based Gradient Compression for Efficient Distributed Deep Learning,,conf/iclr/TsuzukuIA18,DBLP
+ICLR,pre_gpt,2018,Variational Continual Learning,,conf/iclr/NguyenLBT18,DBLP
+ICLR,pre_gpt,2018,Variational Inference of Disentangled Latent Concepts from Unlabeled Observations,,conf/iclr/0001SB18,DBLP
+ICLR,pre_gpt,2018,Variational Message Passing with Structured Inference Networks,,conf/iclr/LinHK18,DBLP
+ICLR,pre_gpt,2018,Variational Network Quantization,,conf/iclr/AchterholdKSG18,DBLP
+ICLR,pre_gpt,2018,Variational image compression with a scale hyperprior,,conf/iclr/BalleMSHJ18,DBLP
+ICLR,pre_gpt,2018,Viterbi-based Pruning for Sparse Matrix with Fixed and High Index Compression Ratio,,conf/iclr/LeeAKCK18,DBLP
+ICLR,pre_gpt,2018,VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop,,conf/iclr/TaigmanWPN18,DBLP
+ICLR,pre_gpt,2018,WHAI: Weibull Hybrid Autoencoding Inference for Deep Topic Modeling,,conf/iclr/Zhang0GZ18,DBLP
+ICLR,pre_gpt,2018,WRPN: Wide Reduced-Precision Networks,,conf/iclr/MishraNCM18,DBLP
+ICLR,pre_gpt,2018,Wasserstein Auto-Encoders,,conf/iclr/TolstikhinBGS18,DBLP
+ICLR,pre_gpt,2018,Wasserstein Auto-Encoders: Latent Dimensionality and Random Encoders,,conf/iclr/RubensteinST18a,DBLP
+ICLR,pre_gpt,2018,Wavelet Pooling for Convolutional Neural Networks,,conf/iclr/WilliamsL18,DBLP
+ICLR,pre_gpt,2018,Weighted Geodesic Distance Following Fermat's Principle,,conf/iclr/SapienzaGJ18,DBLP
+ICLR,pre_gpt,2018,Weightless: Lossy weight encoding for deep neural network compression,,conf/iclr/ReagenGAMRW018,DBLP
+ICLR,pre_gpt,2018,When is a Convolutional Filter Easy to Learn?,,conf/iclr/DuLT18,DBLP
+ICLR,pre_gpt,2018,"Winner's Curse? On Pace, Progress, and Empirical Rigor",,conf/iclr/SculleySWR18,DBLP
+ICLR,pre_gpt,2018,Word translation without parallel data,,conf/iclr/LampleCRDJ18,DBLP
+ICLR,pre_gpt,2018,Zero-Shot Visual Imitation,,conf/iclr/PathakMLACSSMED18,DBLP
+ICLR,pre_gpt,2018,cGANs with Projection Discriminator,,conf/iclr/MiyatoK18,DBLP
+ICLR,pre_gpt,2018,eCommerceGAN: A Generative Adversarial Network for e-commerce,,conf/iclr/KumarBS18,DBLP
+ICLR,pre_gpt,2018,i-RevNet: Deep Invertible Networks,,conf/iclr/JacobsenSO18,DBLP
+ICLR,pre_gpt,2018,mixup: Beyond Empirical Risk Minimization,,conf/iclr/ZhangCDL18,DBLP

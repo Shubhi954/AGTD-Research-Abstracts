@@ -1,0 +1,443 @@
+venue,era,year,title,doi,dblp_key,canonical_source
+ICWSM,post_gpt,2023,"""A Special Operation"": A Quantitative Approach to Dissecting and Comparing Different Media Ecosystems' Coverage of the Russo-Ukrainian War",10.1609/icwsm.v17i1.22150,conf/icwsm/Hanley0D23a,DBLP
+ICWSM,post_gpt,2023,"""Dummy Grandpa, Do You Know Anything?"": Identifying and Characterizing Ad Hominem Fallacy Usage in the Wild",10.1609/icwsm.v17i1.22180,conf/icwsm/Patel0M23,DBLP
+ICWSM,post_gpt,2023,"""Learn the Facts about COVID-19"": Analyzing the Use of Warning Labels on TikTok Videos",10.1609/icwsm.v17i1.22168,conf/icwsm/LingGZ23,DBLP
+ICWSM,post_gpt,2023,"""This Is Fake News"": Characterizing the Spontaneous Debunking from Twitter Users to COVID-19 False Information",10.1609/icwsm.v17i1.22176,conf/icwsm/MiyazakiUTAKS23,DBLP
+ICWSM,post_gpt,2023,#RoeOverturned: Twitter Dataset on the Abortion Rights Controversy,10.1609/icwsm.v17i1.22207,conf/icwsm/ChangRZWL23,DBLP
+ICWSM,post_gpt,2023,A Data Fusion Framework for Multi-Domain Morality Learning,10.1609/icwsm.v17i1.22145,conf/icwsm/GuoML23,DBLP
+ICWSM,post_gpt,2023,A Dataset of Coordinated Cryptocurrency-Related Social Media Campaigns,10.1609/icwsm.v17i1.22219,conf/icwsm/ZiliusSM23,DBLP
+ICWSM,post_gpt,2023,A Multi-Platform Collection of Social Media Posts about the 2022 U.S. Midterm Elections,10.1609/icwsm.v17i1.22205,conf/icwsm/AiyappaDPTZAPKK23,DBLP
+ICWSM,post_gpt,2023,A Multi-Task Model for Sentiment Aided Stance Detection of Climate Change Tweets,10.1609/icwsm.v17i1.22194,conf/icwsm/UpadhyayaFN23,DBLP
+ICWSM,post_gpt,2023,An Example of (Too Much) Hyper-Parameter Tuning In Suicide Ideation Detection,10.1609/icwsm.v17i1.22227,conf/icwsm/SchoeneOA023,DBLP
+ICWSM,post_gpt,2023,An Open-Source Cultural Consensus Approach to Name-Based Gender Classification,10.1609/icwsm.v17i1.22195,conf/icwsm/BuskirkCL23,DBLP
+ICWSM,post_gpt,2023,Analyzing the Engagement of Social Relationships during Life Event Shocks in Social Media,10.1609/icwsm.v17i1.22134,conf/icwsm/ChoiJR23,DBLP
+ICWSM,post_gpt,2023,AnnoBERT: Effectively Representing Multiple Annotators' Label Choices to Improve Hate Speech Detection,10.1609/icwsm.v17i1.22198,conf/icwsm/YinAJZS23,DBLP
+ICWSM,post_gpt,2023,Associative Inference Can Increase People's Susceptibility to Misinformation,10.1609/icwsm.v17i1.22166,conf/icwsm/LeeS0X23,DBLP
+ICWSM,post_gpt,2023,Auditing Elon Musk's Impact on Hate Speech and Bots,10.1609/icwsm.v17i1.22222,conf/icwsm/HickeySFSMB23,DBLP
+ICWSM,post_gpt,2023,Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community,10.1609/icwsm.v17i1.22141,conf/icwsm/GiorgiZFM23,DBLP
+ICWSM,post_gpt,2023,Authority without Care: Moral Values behind the Mask Mandate Response,10.1609/icwsm.v17i1.22173,conf/icwsm/MejovaKM23,DBLP
+ICWSM,post_gpt,2023,Beyond Discrete Genres: Mapping News Items onto a Multidimensional Framework of Genre Cues,10.1609/icwsm.v17i1.22167,conf/icwsm/LinWVT23,DBLP
+ICWSM,post_gpt,2023,BotBuster: Multi-Platform Bot Detection Using a Mixture of Experts,10.1609/icwsm.v17i1.22179,conf/icwsm/NgC23,DBLP
+ICWSM,post_gpt,2023,Bridging Nations: Quantifying the Role of Multilinguals in Communication on Social Media,10.1609/icwsm.v17i1.22174,conf/icwsm/MendelsohnGJB23,DBLP
+ICWSM,post_gpt,2023,Capturing the Aftermath of the Dobbs v. Jackson Women's Health Organization Decision in Google Search Results across the U.S,10.1609/icwsm.v17i1.22214,conf/icwsm/PerreaultDWM23,DBLP
+ICWSM,post_gpt,2023,Catch Me If You Can: Deceiving Stance Detection and Geotagging Models to Protect Privacy of Individuals on Twitter,10.1609/icwsm.v17i1.22136,conf/icwsm/DoganAZKE23,DBLP
+ICWSM,post_gpt,2023,Characterizing Coin-Based Voting Governance in DPoS Blockchains,10.1609/icwsm.v17i1.22225,conf/icwsm/LiXD23,DBLP
+ICWSM,post_gpt,2023,Characterizing and Identifying Socially Shared Self-Descriptions in Product Reviews,10.1609/icwsm.v17i1.22190,conf/icwsm/SunHL0P23,DBLP
+ICWSM,post_gpt,2023,"Codes, Patterns and Shapes of Contemporary Online Antisemitism and Conspiracy Narratives - an Annotation Guide and Labeled German-Language Dataset in the Context of COVID-19",10.1609/icwsm.v17i1.22216,conf/icwsm/SteffenMPBVBO23,DBLP
+ICWSM,post_gpt,2023,Comfort Foods and Community Connectedness: Investigating Diet Change during COVID-19 Using YouTube Videos on Twitter,10.1609/icwsm.v17i1.22172,conf/icwsm/MejovaM23,DBLP
+ICWSM,post_gpt,2023,Construction of Evaluation Datasets for Trend Forecasting Studies,10.1609/icwsm.v17i1.22212,conf/icwsm/MatsunoMS23,DBLP
+ICWSM,post_gpt,2023,Contextualizing Online Conversational Networks,10.1609/icwsm.v17i1.22171,conf/icwsm/MagelinskiC23,DBLP
+ICWSM,post_gpt,2023,Conversation Modeling to Predict Derailment,10.1609/icwsm.v17i1.22200,conf/icwsm/YuanS23,DBLP
+ICWSM,post_gpt,2023,Cross-Lingual and Cross-Domain Crisis Classification for Low-Resource Scenarios,10.1609/icwsm.v17i1.22185,conf/icwsm/SanchezSA0P23,DBLP
+ICWSM,post_gpt,2023,Cybersecurity Misinformation Detection on Social Media: Case Studies on Phishing Reports and Zoom's Threat,10.1609/icwsm.v17i1.22189,conf/icwsm/SinghalKKN23,DBLP
+ICWSM,post_gpt,2023,Detecting Anti-vaccine Users on Twitter,10.1609/icwsm.v17i1.22188,conf/icwsm/SchmitzMB23,DBLP
+ICWSM,post_gpt,2023,DiPPS: Differentially Private Propensity Scores for Bias Correction,10.1609/icwsm.v17i1.22131,conf/icwsm/ChenH023,DBLP
+ICWSM,post_gpt,2023,Different Affordances on Facebook and SMS Text Messaging Do Not Impede Generalization of Language-Based Predictive Models,10.1609/icwsm.v17i1.22226,conf/icwsm/LiuGTGBCU23,DBLP
+ICWSM,post_gpt,2023,Divergences in Following Patterns between Influential Twitter Users and Their Audiences across Dimensions of Identity,10.1609/icwsm.v17i1.22220,conf/icwsm/FulayGR23,DBLP
+ICWSM,post_gpt,2023,Echo Tunnels: Polarized News Sharing Online Runs Narrow but Deep,10.1609/icwsm.v17i1.22177,conf/icwsm/MokIA23,DBLP
+ICWSM,post_gpt,2023,Effect of Feedback on Drug Consumption Disclosures on Social Media,10.1609/icwsm.v17i1.22158,conf/icwsm/JangraSK23,DBLP
+ICWSM,post_gpt,2023,Effects of Algorithmic Trend Promotion: Evidence from Coordinated Campaigns in Twitter's Trending Topics,10.1609/icwsm.v17i1.22187,conf/icwsm/SchlessingerGJE23,DBLP
+ICWSM,post_gpt,2023,Exposure to Marginally Abusive Content on Twitter,10.1609/icwsm.v17i1.22123,conf/icwsm/BandyL23,DBLP
+ICWSM,post_gpt,2023,Finding Qs: Profiling QAnon Supporters on Parler,10.1609/icwsm.v17i1.22124,conf/icwsm/BarPF23,DBLP
+ICWSM,post_gpt,2023,Firearms on Twitter: A Novel Object Detection Pipeline,10.1609/icwsm.v17i1.22221,conf/icwsm/HarveyLMAD23,DBLP
+ICWSM,post_gpt,2023,"Followback Clusters, Satellite Audiences, and Bridge Nodes: Coengagement Networks for the 2020 US Election",10.1609/icwsm.v17i1.22126,conf/icwsm/BeersSKWSS23,DBLP
+ICWSM,post_gpt,2023,Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data,10.1609/icwsm.v17i1.22132,conf/icwsm/ChenXH0023,DBLP
+ICWSM,post_gpt,2023,Google the Gatekeeper: How Search Components Affect Clicks and Attention,10.1609/icwsm.v17i1.22142,conf/icwsm/GleasonHRW23,DBLP
+ICWSM,post_gpt,2023,Happenstance: Utilizing Semantic Search to Track Russian State Media Narratives about the Russo-Ukrainian War on Reddit,10.1609/icwsm.v17i1.22149,conf/icwsm/Hanley0D23,DBLP
+ICWSM,post_gpt,2023,HateMM: A Multi-Modal Dataset for Hate Video Classification,10.1609/icwsm.v17i1.22209,conf/icwsm/DasRSMG023,DBLP
+ICWSM,post_gpt,2023,HealthE: Recognizing Health Advice & Entities in Online Health Communities,10.1609/icwsm.v17i1.22210,conf/icwsm/GattoSJBP23,DBLP
+ICWSM,post_gpt,2023,Host-Centric Social Connectedness of Migrants in Europe on Facebook,10.1609/icwsm.v17i1.22224,conf/icwsm/KhatuaZW23,DBLP
+ICWSM,post_gpt,2023,How Circadian Rhythms Extracted from Social Media Relate to Physical Activity and Sleep,10.1609/icwsm.v17i1.22202,conf/icwsm/0003CQS23,DBLP
+ICWSM,post_gpt,2023,How Do US Congress Members Advertise Climate Change: An Analysis of Ads Run on Meta's Platforms,10.1609/icwsm.v17i1.22121,conf/icwsm/AisenpreisGS23,DBLP
+ICWSM,post_gpt,2023,How Much User Context Do We Need? Privacy by Design in Mental Health NLP Applications,10.1609/icwsm.v17i1.22186,conf/icwsm/SawhneyNHF23,DBLP
+ICWSM,post_gpt,2023,Identifying Influential Brokers on Social Media from Social Network Structure,10.1609/icwsm.v17i1.22193,conf/icwsm/TsugawaW23,DBLP
+ICWSM,post_gpt,2023,Identifying and Characterizing Behavioral Classes of Radicalization within the QAnon Conspiracy on Twitter,10.1609/icwsm.v17i1.22197,conf/icwsm/WangL0F23,DBLP
+ICWSM,post_gpt,2023,"Images, Emotions, and Credibility: Effect of Emotional Facial Expressions on Perceptions of News Content Bias and Source Credibility in Social Media",10.1609/icwsm.v17i1.22161,conf/icwsm/KarduniWMD23,DBLP
+ICWSM,post_gpt,2023,Improving Mental Health Classifier Generalization with Pre-diagnosis Data,10.1609/icwsm.v17i1.22169,conf/icwsm/LiuBM23,DBLP
+ICWSM,post_gpt,2023,InfluencerRank: Discovering Effective Influencers via Graph Convolutional Attentive Recurrent Neural Networks,10.1609/icwsm.v17i1.22162,conf/icwsm/KimJH023,DBLP
+ICWSM,post_gpt,2023,Information Operations in Turkey: Manufacturing Resilience with Free Twitter Accounts,10.1609/icwsm.v17i1.22175,conf/icwsm/MerhiR023,DBLP
+ICWSM,post_gpt,2023,Information Retention in the Multi-Platform Sharing of Science,10.1609/icwsm.v17i1.22153,conf/icwsm/HwangHR23,DBLP
+ICWSM,post_gpt,2023,Invasion@Ukraine: Providing and Describing a Twitter Streaming Dataset That Captures the Outbreak of War between Russia and Ukraine in 2022,10.1609/icwsm.v17i1.22217,conf/icwsm/PohlMAG23,DBLP
+ICWSM,post_gpt,2023,Just Another Day on Twitter: A Complete 24 Hours of Twitter Data,10.1609/icwsm.v17i1.22215,conf/icwsm/PfefferMJVMLAWY23,DBLP
+ICWSM,post_gpt,2023,Lady and the Tramp Nextdoor: Online Manifestations of Real-World Inequalities in the Nextdoor Social Network,10.1609/icwsm.v17i1.22155,conf/icwsm/IqbalGTSC23,DBLP
+ICWSM,post_gpt,2023,Large-Scale Demographic Inference of Social Media Users in a Low-Resource Scenario,10.1609/icwsm.v17i1.22165,conf/icwsm/LasriTNMFOF23,DBLP
+ICWSM,post_gpt,2023,Measuring Belief Dynamics on Twitter,10.1609/icwsm.v17i1.22154,conf/icwsm/Introne23,DBLP
+ICWSM,post_gpt,2023,Measuring the Ideology of Audiences for Web Links and Domains Using Differentially Private Engagement Data,10.1609/icwsm.v17i1.22127,conf/icwsm/BuntainBNT23,DBLP
+ICWSM,post_gpt,2023,Minority Stress Experienced by LGBTQ Online Communities during the COVID-19 Pandemic,10.1609/icwsm.v17i1.22201,conf/icwsm/YuanVKA23,DBLP
+ICWSM,post_gpt,2023,Misleading Repurposing on Twitter,10.1609/icwsm.v17i1.22139,conf/icwsm/ElmasOA23,DBLP
+ICWSM,post_gpt,2023,Motif-Based Exploratory Data Analysis for State-Backed Platform Manipulation on Twitter,10.1609/icwsm.v17i1.22148,conf/icwsm/HameedJYTW23,DBLP
+ICWSM,post_gpt,2023,Non-polar Opposites: Analyzing the Relationship between Echo Chambers and Hostile Intergroup Interactions on Reddit,10.1609/icwsm.v17i1.22138,conf/icwsm/EfstratiouBCSZC23,DBLP
+ICWSM,post_gpt,2023,On the Relation between Opinion Change and Information Consumption on Reddit,10.1609/icwsm.v17i1.22181,conf/icwsm/PetruzzellisBMM23,DBLP
+ICWSM,post_gpt,2023,Online Emotions during the Storming of the U.S. Capitol: Evidence from the Social Media Network Parler,10.1609/icwsm.v17i1.22157,conf/icwsm/JakubikVPBF23,DBLP
+ICWSM,post_gpt,2023,Partisan US News Media Representations of Syrian Refugees,10.1609/icwsm.v17i1.22130,conf/icwsm/ChenBSJSWDCH0KB23,DBLP
+ICWSM,post_gpt,2023,Personal History Affects Reference Points: A Case Study of Codeforces,10.1609/icwsm.v17i1.22164,conf/icwsm/KurashimaITYTT23,DBLP
+ICWSM,post_gpt,2023,Popular Support for Balancing Equity and Efficiency in Resource Allocation: A Case Study in Online Advertising to Increase Welfare Program Awareness,10.1609/icwsm.v17i1.22163,conf/icwsm/KoeneckeGWG23,DBLP
+ICWSM,post_gpt,2023,Predicting Future Location Categories of Users in a Large Social Platform,10.1609/icwsm.v17i1.22125,conf/icwsm/BatenLPBSNB23,DBLP
+ICWSM,post_gpt,2023,"Proceedings of the Seventeenth International AAAI Conference on Web and Social Media, ICWSM 2023, Limassol, Cyprus, June 5-8, 2023",,conf/icwsm/2023,DBLP
+ICWSM,post_gpt,2023,Quotatives Indicate Decline in Objectivity in U.S. Political News,10.1609/icwsm.v17i1.22152,conf/icwsm/HuR0S23,DBLP
+ICWSM,post_gpt,2023,RTANet: Recommendation Target-Aware Network Embedding,10.1609/icwsm.v17i1.22128,conf/icwsm/CaoYS0CX023,DBLP
+ICWSM,post_gpt,2023,Recipe Networks and the Principles of Healthy Food on the Web,10.1609/icwsm.v17i1.22129,conf/icwsm/ChelmisG23,DBLP
+ICWSM,post_gpt,2023,Reddit in the Time of COVID,10.1609/icwsm.v17i1.22196,conf/icwsm/VeselovskyA23,DBLP
+ICWSM,post_gpt,2023,Representing and Determining Argumentative Relevance in Online Discussions: A General Approach,10.1609/icwsm.v17i1.22146,conf/icwsm/GuoS23,DBLP
+ICWSM,post_gpt,2023,Retweet-BERT: Political Leaning Detection Using Language Features and Information Diffusion on Social Networks,10.1609/icwsm.v17i1.22160,conf/icwsm/JiangRF23,DBLP
+ICWSM,post_gpt,2023,"Same Words, Different Meanings: Semantic Polarization in Broadcast Media Language Forecasts Polarity in Online Public Discourse",10.1609/icwsm.v17i1.22135,conf/icwsm/DingHR23,DBLP
+ICWSM,post_gpt,2023,SciLander: Mapping the Scientific News Landscape,10.1609/icwsm.v17i1.22144,conf/icwsm/GruppiSA0A23,DBLP
+ICWSM,post_gpt,2023,Scope of Pre-trained Language Models for Detecting Conflicting Health Information,10.1609/icwsm.v17i1.22140,conf/icwsm/GattoBP23,DBLP
+ICWSM,post_gpt,2023,SexWEs: Domain-Aware Word Embeddings via Cross-Lingual Semantic Specialisation for Chinese Sexism Detection in Social Media,10.1609/icwsm.v17i1.22159,conf/icwsm/JiangZ23,DBLP
+ICWSM,post_gpt,2023,Social Influence-Maximizing Group Recommendation,10.1609/icwsm.v17i1.22191,conf/icwsm/SunCM23,DBLP
+ICWSM,post_gpt,2023,Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning,10.1609/icwsm.v17i1.22184,conf/icwsm/RussoVRC23,DBLP
+ICWSM,post_gpt,2023,Team Resilience under Shock: An Empirical Analysis of GitHub Repositories during Early COVID-19 Pandemic,10.1609/icwsm.v17i1.22170,conf/icwsm/LuAWM23,DBLP
+ICWSM,post_gpt,2023,The Amplification Paradox in Recommender Systems,10.1609/icwsm.v17i1.22223,conf/icwsm/RibeiroV023,DBLP
+ICWSM,post_gpt,2023,The Chance of Winning Election Impacts on Social Media Strategy,10.1609/icwsm.v17i1.22178,conf/icwsm/MurayamaMMMS23,DBLP
+ICWSM,post_gpt,2023,The Geography of Facebook Groups in the United States,10.1609/icwsm.v17i1.22151,conf/icwsm/HerdagdelenAS23,DBLP
+ICWSM,post_gpt,2023,The Geometry of Misinformation: Embedding Twitter Networks of Users Who Spread Fake News in Geometrical Opinion Spaces,10.1609/icwsm.v17i1.22183,conf/icwsm/MoralesBC23,DBLP
+ICWSM,post_gpt,2023,The Half-Life of a Tweet,10.1609/icwsm.v17i1.22228,conf/icwsm/PfefferMS23,DBLP
+ICWSM,post_gpt,2023,The Morbid Realities of Social Media: An Investigation into the Narratives Shared by the Deceased Victims of COVID-19,10.1609/icwsm.v17i1.22147,conf/icwsm/HabibN23,DBLP
+ICWSM,post_gpt,2023,The Pursuit of Peer Support for Opioid Use Recovery on Reddit,10.1609/icwsm.v17i1.22122,conf/icwsm/BalsamoBMMS23,DBLP
+ICWSM,post_gpt,2023,This Sample Seems to Be Good Enough! Assessing Coverage and Temporal Reliability of Twitter's Academic API,10.1609/icwsm.v17i1.22182,conf/icwsm/PfefferMLHS023,DBLP
+ICWSM,post_gpt,2023,Top-Down Influence? Predicting CEO Personality and Risk Impact from Speech Transcripts,10.1609/icwsm.v17i1.22192,conf/icwsm/TheilHS23,DBLP
+ICWSM,post_gpt,2023,Towards Generalization of Machine Learning Models: A Case Study of Arabic Sentiment Analysis,10.1609/icwsm.v17i1.22204,conf/icwsm/AbdaljalilHMA23,DBLP
+ICWSM,post_gpt,2023,Truth Social Dataset,10.1609/icwsm.v17i1.22211,conf/icwsm/GerardBW23,DBLP
+ICWSM,post_gpt,2023,Tweets in Time of Conflict: A Public Dataset Tracking the Twitter Discourse on the War between Ukraine and Russia,10.1609/icwsm.v17i1.22208,conf/icwsm/ChenF23,DBLP
+ICWSM,post_gpt,2023,Understanding and Detecting Hateful Content Using Contrastive Learning,10.1609/icwsm.v17i1.22143,conf/icwsm/Gonzalez-Pizarro23,DBLP
+ICWSM,post_gpt,2023,Unique in What Sense? Heterogeneous Relationships between Multiple Types of Uniqueness and Popularity in Music,10.1609/icwsm.v17i1.22199,conf/icwsm/YuCAD23,DBLP
+ICWSM,post_gpt,2023,VaxxHesitancy: A Dataset for Studying Hesitancy towards COVID-19 Vaccination on Twitter,10.1609/icwsm.v17i1.22213,conf/icwsm/MuJGSBS23,DBLP
+ICWSM,post_gpt,2023,We Are in This Together: Quantifying Community Subjective Wellbeing and Resilience,10.1609/icwsm.v17i1.22137,conf/icwsm/DongSBM23,DBLP
+ICWSM,post_gpt,2023,Weakly Supervised Learning for Analyzing Political Campaigns on Facebook,10.1609/icwsm.v17i1.22156,conf/icwsm/IslamRG23,DBLP
+ICWSM,post_gpt,2023,What Are You Anxious About? Examining Subjects of Anxiety during the COVID-19 Pandemic,10.1609/icwsm.v17i1.22133,conf/icwsm/Chen0LN23,DBLP
+ICWSM,post_gpt,2023,Who Is behind a Trend? Temporal Analysis of Interactions among Trend Participants on Twitter,10.1609/icwsm.v17i1.22203,conf/icwsm/Ziegler023,DBLP
+ICWSM,post_gpt,2023,Wiki-Based Communities of Interest: Demographics and Outliers,10.1609/icwsm.v17i1.22206,conf/icwsm/ArnaoutRP23,DBLP
+ICWSM,post_gpt,2023,YouNICon: YouTube's CommuNIty of Conspiracy Videos,10.1609/icwsm.v17i1.22218,conf/icwsm/LiawHBKA23,DBLP
+ICWSM,post_gpt,2024,"""I Am 30F and Need Advice!"": A Mixed-Method Analysis of the Effects of Advice-Seekers' Self-Disclosure on Received Replies",10.1609/icwsm.v18i1.31313,conf/icwsm/ChenHH24,DBLP
+ICWSM,post_gpt,2024,#LetsTalk: Understanding Social Media Usage of Self-Harm Users in India,10.1609/icwsm.v18i1.31314,conf/icwsm/ChhikaraC24,DBLP
+ICWSM,post_gpt,2024,#TeamFollowBack: Detection & Analysis of Follow Back Accounts on Social Media,10.1609/icwsm.v18i1.31321,conf/icwsm/ElmasRA24,DBLP
+ICWSM,post_gpt,2024,280 Characters to Employment: Using Twitter to Quantify Job Vacancies,10.1609/icwsm.v18i1.31403,conf/icwsm/SobolTFLG24,DBLP
+ICWSM,post_gpt,2024,A Crisis of Civility? Modeling Incivility and Its Effects in Political Discourse Online,10.1609/icwsm.v18i1.31323,conf/icwsm/GaoQMEZBWY24,DBLP
+ICWSM,post_gpt,2024,A Cross-Platform Topic Analysis of the Nazi Narrative on Twitter and Telegram during the 2022 Russian Invasion of Ukraine,10.1609/icwsm.v18i1.31356,conf/icwsm/KlooCC24,DBLP
+ICWSM,post_gpt,2024,"A Dataset to Assess Microsoft Copilot Answers in the Context of Swiss, Bavarian and Hessian Elections",10.1609/icwsm.v18i1.31446,conf/icwsm/RomanoAKBAK24,DBLP
+ICWSM,post_gpt,2024,A Deep Dive into the Disparity of Word Error Rates across Thousands of NPTEL MOOC Videos,10.1609/icwsm.v18i1.31390,conf/icwsm/RaiJ024,DBLP
+ICWSM,post_gpt,2024,A Domain Adaptive Graph Learning Framework to Early Detection of Emergent Healthcare Misinformation on Social Media,10.1609/icwsm.v18i1.31398,conf/icwsm/Shang0YCZ024,DBLP
+ICWSM,post_gpt,2024,A Multi-modal Prompt Learning Framework for Early Detection of Fake News,10.1609/icwsm.v18i1.31341,conf/icwsm/HuWJ0024,DBLP
+ICWSM,post_gpt,2024,A Multilingual Similarity Dataset for News Article Frame,10.1609/icwsm.v18i1.31435,conf/icwsm/ChenSHJG24,DBLP
+ICWSM,post_gpt,2024,A Semantic Interpreter for Social Media Handles,10.1609/icwsm.v18i1.31343,conf/icwsm/IslamF24,DBLP
+ICWSM,post_gpt,2024,A Study of Partisan News Sharing in the Russian Invasion of Ukraine,10.1609/icwsm.v18i1.31430,conf/icwsm/ZhuHTL0024,DBLP
+ICWSM,post_gpt,2024,A Visual Approach to Tracking Emotional Sentiment Dynamics in Social Network Commentaries,10.1609/icwsm.v18i1.31337,conf/icwsm/HossainP0TT24,DBLP
+ICWSM,post_gpt,2024,AiGen-FoodReview: A Multimodal Dataset of Machine-Generated Restaurant Reviews and Images on Social Media,10.1609/icwsm.v18i1.31437,conf/icwsm/GambettiH24,DBLP
+ICWSM,post_gpt,2024,Analyzing Mentions of Death in COVID-19 Tweets,10.1609/icwsm.v18i1.31449,conf/icwsm/AdhikariIQW24,DBLP
+ICWSM,post_gpt,2024,Analyzing the Stance of Facebook Posts on Abortion Considering State-Level Health and Social Compositions,10.1609/icwsm.v18i1.31294,conf/icwsm/AleksandricADWN24,DBLP
+ICWSM,post_gpt,2024,ArguSense: Argument-Centric Analysis of Online Discourse,10.1609/icwsm.v18i1.31342,conf/icwsm/IraniFE24,DBLP
+ICWSM,post_gpt,2024,Assessing the Impact of Online Harassment on Youth Mental Health in Private Networked Spaces,10.1609/icwsm.v18i1.31355,conf/icwsm/KimRAWC24,DBLP
+ICWSM,post_gpt,2024,Auditing Algorithmic Explanations of Social Media Feeds: A Case Study of TikTok Video Explanations,10.1609/icwsm.v18i1.31376,conf/icwsm/MousaviGZ24,DBLP
+ICWSM,post_gpt,2024,CPL-NoViD: Context-Aware Prompt-Based Learning for Norm Violation Detection in Online Communities,10.1609/icwsm.v18i1.31335,conf/icwsm/HeML24,DBLP
+ICWSM,post_gpt,2024,Calibrate-Extrapolate: Rethinking Prevalence Estimation with Black Box Classifiers,10.1609/icwsm.v18i1.31414,conf/icwsm/WuR24,DBLP
+ICWSM,post_gpt,2024,Cascade-Based Randomization for Inferring Causal Effects under Diffusion Interference,10.1609/icwsm.v18i1.31322,conf/icwsm/FatemiPZ24,DBLP
+ICWSM,post_gpt,2024,Characterizing Fake News Targeting Corporations,10.1609/icwsm.v18i1.31428,conf/icwsm/0003SQ24,DBLP
+ICWSM,post_gpt,2024,Characterizing Information Propagation in Fringe Communities on Telegram,10.1609/icwsm.v18i1.31336,conf/icwsm/HoseiniMBFZ24,DBLP
+ICWSM,post_gpt,2024,Characterizing Online Criticism of Partisan News Media Using Weakly Supervised Learning,10.1609/icwsm.v18i1.31400,conf/icwsm/Shivaram0SC24,DBLP
+ICWSM,post_gpt,2024,Characterizing Political Campaigning with Lexical Mutants on Indian Social Media,10.1609/icwsm.v18i1.31385,conf/icwsm/PhadkeM24,DBLP
+ICWSM,post_gpt,2024,ChatGPT Giving Relationship Advice - How Reliable Is It?,10.1609/icwsm.v18i1.31338,conf/icwsm/HouL024,DBLP
+ICWSM,post_gpt,2024,Classifying Conspiratorial Narratives at Scale: False Alarms and Erroneous Connections,10.1609/icwsm.v18i1.31318,conf/icwsm/DiabNL24,DBLP
+ICWSM,post_gpt,2024,Climbing the Influence Tiers on TikTok: A Multimodal Study,10.1609/icwsm.v18i1.31405,conf/icwsm/TricomiKCS24,DBLP
+ICWSM,post_gpt,2024,Clock against Chaos: Dynamic Assessment and Temporal Intervention in Reducing Misinformation Propagation,10.1609/icwsm.v18i1.31327,conf/icwsm/0002MN24,DBLP
+ICWSM,post_gpt,2024,Community Needs and Assets: A Computational Analysis of Community Conversations,10.1609/icwsm.v18i1.31315,conf/icwsm/ChowdhurySK24,DBLP
+ICWSM,post_gpt,2024,Community Notes vs. Snoping: How the Crowd Selects Fact-Checking Targets on Social Media,10.1609/icwsm.v18i1.31387,conf/icwsm/PilarskiSP24,DBLP
+ICWSM,post_gpt,2024,Computational Assessment of Hyperpartisanship in News Titles,10.1609/icwsm.v18i1.31368,conf/icwsm/LyuPWL24,DBLP
+ICWSM,post_gpt,2024,Consequences of Conflicts in Online Conversations,10.1609/icwsm.v18i1.31297,conf/icwsm/AltenburgerKHDP24,DBLP
+ICWSM,post_gpt,2024,Curated and Asymmetric Exposure: A Case Study of Partisan Talk during COVID on Twitter,10.1609/icwsm.v18i1.31298,conf/icwsm/AnBNSJ24,DBLP
+ICWSM,post_gpt,2024,Curious Rhythms: Temporal Regularities of Wikipedia Consumption,10.1609/icwsm.v18i1.31386,conf/icwsm/PiccardiG024,DBLP
+ICWSM,post_gpt,2024,Decentralised Moderation for Interoperable Social Networks: A Conversation-Based Approach for Pleroma and the Fediverse,10.1609/icwsm.v18i1.31293,conf/icwsm/AgarwalRSATC24,DBLP
+ICWSM,post_gpt,2024,Detection and Categorization of Needs during Crises Based on Twitter Data,10.1609/icwsm.v18i1.31420,conf/icwsm/YangDSD24,DBLP
+ICWSM,post_gpt,2024,Detection and Discovery of Misinformation Sources Using Attributed Webgraphs,10.1609/icwsm.v18i1.31309,conf/icwsm/CarragherWC24,DBLP
+ICWSM,post_gpt,2024,Differences in the Toxic Language of Cross-Platform Communities,10.1609/icwsm.v18i1.31402,conf/icwsm/SinghGSS24,DBLP
+ICWSM,post_gpt,2024,"Disappearing without a Trace: Coverage, Community, Quality, and Temporal Dynamics of Wikipedia Articles on Endangered Brazilian Indigenous Languages",10.1609/icwsm.v18i1.31407,conf/icwsm/VasconcelosMP24,DBLP
+ICWSM,post_gpt,2024,Discovering Collective Narratives Shifts in Online Discussions,10.1609/icwsm.v18i1.31427,conf/icwsm/ZhaoGLA24,DBLP
+ICWSM,post_gpt,2024,Diversity and Inclusion in the Sharing Economy: An Airbnb Case Study,10.1609/icwsm.v18i1.31389,conf/icwsm/QuattroneC24,DBLP
+ICWSM,post_gpt,2024,Does It Matter Who Said It? Exploring the Impact of Deepfake-Enabled Profiles on User Perception towards Disinformation,10.1609/icwsm.v18i1.31392,conf/icwsm/RuffinSX024,DBLP
+ICWSM,post_gpt,2024,Don't Break the Chain: Measuring Message Forwarding on WhatsApp,10.1609/icwsm.v18i1.31372,conf/icwsm/MeloHZB24,DBLP
+ICWSM,post_gpt,2024,DoubleH: Twitter User Stance Detection via Bipartite Graph Neural Networks,10.1609/icwsm.v18i1.31424,conf/icwsm/ZhangZP024,DBLP
+ICWSM,post_gpt,2024,Emergent Influence Networks in Good-Faith Online Discussions,10.1609/icwsm.v18i1.31317,conf/icwsm/DambanemuyaRH24,DBLP
+ICWSM,post_gpt,2024,Emoji Promotes Developer Participation and Issue Resolution on GitHub,10.1609/icwsm.v18i1.31429,conf/icwsm/ZhouLGM024,DBLP
+ICWSM,post_gpt,2024,EnronSR: A Benchmark for Evaluating AI-Generated Email Replies,10.1609/icwsm.v18i1.31448,conf/icwsm/MoranDG24,DBLP
+ICWSM,post_gpt,2024,Evaluating and Improving Value Judgments in AI: A Scenario-Based Study on Large Language Models' Depiction of Social Conventions,10.1609/icwsm.v18i1.31421,conf/icwsm/YouS24,DBLP
+ICWSM,post_gpt,2024,Examining Similar and Ideologically Correlated Imagery in Online Political Communication,10.1609/icwsm.v18i1.31351,conf/icwsm/JoshiB24,DBLP
+ICWSM,post_gpt,2024,Exploring Platform Migration Patterns between Twitter and Mastodon: A User Behavior Study,10.1609/icwsm.v18i1.31348,conf/icwsm/JeongSTAB024,DBLP
+ICWSM,post_gpt,2024,"Facebook Political Ads and Accountability: Outside Groups Are Most Negative, Especially When Hiding Donors",10.1609/icwsm.v18i1.31346,conf/icwsm/JainW24,DBLP
+ICWSM,post_gpt,2024,Fair or Fare? Understanding Automated Transcription Error Bias in Social Media and Videoconferencing Platforms,10.1609/icwsm.v18i1.31320,conf/icwsm/DuboisHWC24,DBLP
+ICWSM,post_gpt,2024,Forecasting Political News Engagement on Social Media,10.1609/icwsm.v18i1.31401,conf/icwsm/Shivaram0SC24a,DBLP
+ICWSM,post_gpt,2024,From Isolation to Desolation: Investigating Self-Harm Discussions in Incel Communities,10.1609/icwsm.v18i1.31296,conf/icwsm/AliZ24,DBLP
+ICWSM,post_gpt,2024,"From Posts to Pavement, or Vice Versa? The Dynamic Interplay between Online Activism and Offline Confrontations",10.1609/icwsm.v18i1.31418,conf/icwsm/YanCL24,DBLP
+ICWSM,post_gpt,2024,GMHP7k: A Corpus of German Misogynistic Hatespeech Posts,10.1609/icwsm.v18i1.31438,conf/icwsm/GlasebachKD024,DBLP
+ICWSM,post_gpt,2024,Games and Beyond: Analyzing the Bullet Chats of Esports Livestreaming,10.1609/icwsm.v18i1.31350,conf/icwsm/JiangS0SCL0024,DBLP
+ICWSM,post_gpt,2024,"Gender Gaps in Online Social Connectivity, Promotion and Relocation Reports on LinkedIn",10.1609/icwsm.v18i1.31353,conf/icwsm/KalhorGWK24,DBLP
+ICWSM,post_gpt,2024,Generative AI in Crowdwork for Web and Social Media Research: A Survey of Workers at Three Platforms,10.1609/icwsm.v18i1.31452,conf/icwsm/ChristoforouDO24,DBLP
+ICWSM,post_gpt,2024,HINENI: Human Identity across the Nations of the Earth Ngram Investigator,10.1609/icwsm.v18i1.31331,conf/icwsm/HandzlikJS24,DBLP
+ICWSM,post_gpt,2024,Hate Cannot Drive Out Hate: Forecasting Conversation Incivility following Replies to Hate Speech,10.1609/icwsm.v18i1.31422,conf/icwsm/Yu0H24,DBLP
+ICWSM,post_gpt,2024,How Audit Methods Impact Our Understanding of YouTube's Recommendation Systems,10.1609/icwsm.v18i1.31311,conf/icwsm/ChandioDN24,DBLP
+ICWSM,post_gpt,2024,How COVID-19 Has Impacted the Anti-vaccine Discourse: A Large-Scale Twitter Study Spanning Pre-COVID and Post-COVID Era,10.1609/icwsm.v18i1.31388,conf/icwsm/PoddarMKG024,DBLP
+ICWSM,post_gpt,2024,How Does Empowering Users with Greater System Control Affect News Filter Bubbles?,10.1609/icwsm.v18i1.31364,conf/icwsm/0002SCS024,DBLP
+ICWSM,post_gpt,2024,How to Improve Representation Alignment and Uniformity in Graph-Based Collaborative Filtering?,10.1609/icwsm.v18i1.31379,conf/icwsm/OuyangZHZ024,DBLP
+ICWSM,post_gpt,2024,How to Train Your YouTube Recommender to Avoid Unwanted Videos,10.1609/icwsm.v18i1.31363,conf/icwsm/LiuWR24,DBLP
+ICWSM,post_gpt,2024,Human vs. LMMs: Exploring the Discrepancy in Emoji Interpretation and Usage in Digital Communication,10.1609/icwsm.v18i1.31453,conf/icwsm/LyuQWL24,DBLP
+ICWSM,post_gpt,2024,HyperGraphDis: Leveraging Hypergraphs for Contextual and Social-Based Disinformation Detection,10.1609/icwsm.v18i1.31396,conf/icwsm/SalamanosLLSAP24,DBLP
+ICWSM,post_gpt,2024,Improving Quantification with Minimal In-Domain Annotations: Beyond Classify and Count,10.1609/icwsm.v18i1.31411,conf/icwsm/DanikenDRC24,DBLP
+ICWSM,post_gpt,2024,Influencer Marketing Augmented Personalized Assortment Planning: A Two-Stage Optimization Problem,10.1609/icwsm.v18i1.31423,conf/icwsm/0002M024,DBLP
+ICWSM,post_gpt,2024,InstaSynth: Opportunities and Challenges in Generating Synthetic Instagram Data with ChatGPT for Sponsored Content Detection,10.1609/icwsm.v18i1.31303,conf/icwsm/BertagliaHKI24,DBLP
+ICWSM,post_gpt,2024,Intermedia Agenda Setting during the 2016 and 2020 U.S. Presidential Elections,10.1609/icwsm.v18i1.31312,conf/icwsm/ChenLSB24,DBLP
+ICWSM,post_gpt,2024,IsamasRed: A Public Dataset Tracking Reddit Discussions on Israel-Hamas Conflict,10.1609/icwsm.v18i1.31434,conf/icwsm/ChenHB0L24,DBLP
+ICWSM,post_gpt,2024,Keeping Up with the Winner! Targeted Advertisement to Communities in Social Networks,10.1609/icwsm.v18i1.31369,conf/icwsm/MallickDE24,DBLP
+ICWSM,post_gpt,2024,"Landscape of Large Language Models in Global English News: Topics, Sentiments, and Spatiotemporal Analysis",10.1609/icwsm.v18i1.31416,conf/icwsm/XianLXZH24,DBLP
+ICWSM,post_gpt,2024,Language-Agnostic Modeling of Wikipedia Articles for Content Quality Assessment across Languages,10.1609/icwsm.v18i1.31436,conf/icwsm/Das0SA24,DBLP
+ICWSM,post_gpt,2024,Leveraging Psychiatric Scale for Suicide Risk Detection on Social Media,10.1609/icwsm.v18i1.31412,conf/icwsm/WangDCZ024,DBLP
+ICWSM,post_gpt,2024,Leveraging Recommender Systems to Reduce Content Gaps on Peer Production Platforms,10.1609/icwsm.v18i1.31339,conf/icwsm/Houtti0WT24,DBLP
+ICWSM,post_gpt,2024,Lived Experience Matters: Automatic Detection of Stigma toward People Who Use Substances on Social Media,10.1609/icwsm.v18i1.31328,conf/icwsm/GiorgiBHSSDHC24,DBLP
+ICWSM,post_gpt,2024,Look Ahead Text Understanding and LLM Stitching,10.1609/icwsm.v18i1.31349,conf/icwsm/JiangL24,DBLP
+ICWSM,post_gpt,2024,Machine-Made Media: Monitoring the Mobilization of Machine-Generated Articles on Misinformation and Mainstream News Websites,10.1609/icwsm.v18i1.31333,conf/icwsm/HanleyD24a,DBLP
+ICWSM,post_gpt,2024,Making Online Communities 'Better': A Taxonomy of Community Values on Reddit,10.1609/icwsm.v18i1.31413,conf/icwsm/WeldZA24,DBLP
+ICWSM,post_gpt,2024,Making the Pick: Understanding Professional Editor Comment Curation in Online News,10.1609/icwsm.v18i1.31334,conf/icwsm/HeGSCT24,DBLP
+ICWSM,post_gpt,2024,Market or Markets? Investigating Google Search's Market Shares under Vertical Segmentation,10.1609/icwsm.v18i1.31340,conf/icwsm/HuGAKGRW24,DBLP
+ICWSM,post_gpt,2024,Measuring Causal Effects of Civil Communication without Randomization,10.1609/icwsm.v18i1.31365,conf/icwsm/0004UKM24,DBLP
+ICWSM,post_gpt,2024,Measuring Moral Dimensions in Social Media with Mformer,10.1609/icwsm.v18i1.31378,conf/icwsm/NguyenCCTKX24,DBLP
+ICWSM,post_gpt,2024,MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection,10.1609/icwsm.v18i1.31445,conf/icwsm/Piot-Perez-Abadin24,DBLP
+ICWSM,post_gpt,2024,Morality in the Mundane: Categorizing Moral Reasoning in Real-Life Social Situations,10.1609/icwsm.v18i1.31415,conf/icwsm/XiS24,DBLP
+ICWSM,post_gpt,2024,MultiFOLD: Multi-source Domain Adaption for Offensive Language Detection,10.1609/icwsm.v18i1.31299,conf/icwsm/ArangoKS0L24,DBLP
+ICWSM,post_gpt,2024,Multilingual Serviceability Model for Detecting and Ranking Help Requests on Social Media during Disasters,10.1609/icwsm.v18i1.31410,conf/icwsm/VitiuginP24,DBLP
+ICWSM,post_gpt,2024,NELA-PS: A Dataset of Pink Slime News Articles for the Study of Local News Ecosystems,10.1609/icwsm.v18i1.31439,conf/icwsm/HorneG24,DBLP
+ICWSM,post_gpt,2024,Narratives of Collective Action in YouTube's Discourse on Veganism,10.1609/icwsm.v18i1.31384,conf/icwsm/PeraA24,DBLP
+ICWSM,post_gpt,2024,News Media and Violence against Women: Understanding Framings of Stigma,10.1609/icwsm.v18i1.31373,conf/icwsm/MittalFHC24,DBLP
+ICWSM,post_gpt,2024,Node Attribute Prediction with Weighted and Directed Edges on Single and Multilayer Networks,10.1609/icwsm.v18i1.31425,conf/icwsm/ZhangAZOH24,DBLP
+ICWSM,post_gpt,2024,On the Role of Large Language Models in Crowdsourcing Misinformation Assessment,10.1609/icwsm.v18i1.31417,conf/icwsm/Xu00D24,DBLP
+ICWSM,post_gpt,2024,Online News Coverage of Critical Race Theory Controversies: A Dataset of Annotated Headlines,10.1609/icwsm.v18i1.31441,conf/icwsm/LiebAM24,DBLP
+ICWSM,post_gpt,2024,Online Social Behavior Enhanced Detection of Political Stances in Tweets,10.1609/icwsm.v18i1.31383,conf/icwsm/PengZZ024,DBLP
+ICWSM,post_gpt,2024,Opinion Market Model: Stemming Far-Right Opinion Spread Using Positive Interventions,10.1609/icwsm.v18i1.31306,conf/icwsm/CalderonRR24,DBLP
+ICWSM,post_gpt,2024,Orphan Articles: The Dark Matter of Wikipedia,10.1609/icwsm.v18i1.31300,conf/icwsm/00010G24,DBLP
+ICWSM,post_gpt,2024,Othering and Low Status Framing of Immigrant Cuisines in US Restaurant Reviews and Large Language Models,10.1609/icwsm.v18i1.31367,conf/icwsm/LuoGJ24,DBLP
+ICWSM,post_gpt,2024,Partial Mobilization: Tracking Multilingual Information Flows amongst Russian Media Outlets and Telegram,10.1609/icwsm.v18i1.31332,conf/icwsm/HanleyD24,DBLP
+ICWSM,post_gpt,2024,Party Prediction for Twitter,10.1609/icwsm.v18i1.31381,conf/icwsm/PelrineIYTLDFAB24,DBLP
+ICWSM,post_gpt,2024,"Proceedings of the Eighteenth International AAAI Conference on Web and Social Media, ICWSM 2024, Buffalo, New York, USA, June 3-6, 2024",,conf/icwsm/2024,DBLP
+ICWSM,post_gpt,2024,ProtoRectifier: A Prototype Rectification Framework for Efficient Cross-Domain Text Classification with Limited Labeled Samples,10.1609/icwsm.v18i1.31426,conf/icwsm/Zhao0YL0024,DBLP
+ICWSM,post_gpt,2024,Put Your Money Where Your Mouth Is: Dataset and Analysis of Real World Habit Building Attempts,10.1609/icwsm.v18i1.31440,conf/icwsm/JangraSK24,DBLP
+ICWSM,post_gpt,2024,"Rank, Pack, or Approve: Voting Methods in Participatory Budgeting",10.1609/icwsm.v18i1.31326,conf/icwsm/GelauffG24,DBLP
+ICWSM,post_gpt,2024,Reliability Analysis of Psychological Concept Extraction and Classification in User-Penned Text,10.1609/icwsm.v18i1.31324,conf/icwsm/GargSRCS24,DBLP
+ICWSM,post_gpt,2024,Reliability Matters: Exploring the Effect of AI Explanations on Misinformation Detection with a Warning,10.1609/icwsm.v18i1.31397,conf/icwsm/SeoL0X24,DBLP
+ICWSM,post_gpt,2024,Reviewing War: Unconventional User Reviews as a Side Channel to Circumvent Information Controls,10.1609/icwsm.v18i1.31374,conf/icwsm/MorenoPRVZ0SHVT24,DBLP
+ICWSM,post_gpt,2024,SLaNT: A Semi-supervised Label Noise-Tolerant Framework for Text Sentiment Analysis,10.1609/icwsm.v18i1.31307,conf/icwsm/0004JF24,DBLP
+ICWSM,post_gpt,2024,Scientific Appearance in Telegram,10.1609/icwsm.v18i1.31451,conf/icwsm/ChoiSY24,DBLP
+ICWSM,post_gpt,2024,Search Engine Revenue from Navigational and Brand Advertising,10.1609/icwsm.v18i1.31329,conf/icwsm/GleasonKHTBKRW24,DBLP
+ICWSM,post_gpt,2024,Sensemaking about Contraceptive Methods across Online Platforms,10.1609/icwsm.v18i1.31371,conf/icwsm/McDowallAM24,DBLP
+ICWSM,post_gpt,2024,SensitivAlert: Image Sensitivity Prediction in Online Social Networks Using Transformer-Based Deep Learning Models,10.1609/icwsm.v18i1.31357,conf/icwsm/KqikuR24,DBLP
+ICWSM,post_gpt,2024,Sentibank: A Unified Resource of Sentiment Lexicons and Dictionaries,10.1609/icwsm.v18i1.31443,conf/icwsm/Oh24,DBLP
+ICWSM,post_gpt,2024,SocialDrought: A Social and News Media Driven Dataset and Analytical Platform towards Understanding Societal Impact of Drought,10.1609/icwsm.v18i1.31447,conf/icwsm/ShangCV0C024,DBLP
+ICWSM,post_gpt,2024,Socially-Motivated Music Recommendation,10.1609/icwsm.v18i1.31359,conf/icwsm/LackerW24,DBLP
+ICWSM,post_gpt,2024,Socio-Linguistic Characteristics of Coordinated Inauthentic Accounts,10.1609/icwsm.v18i1.31305,conf/icwsm/BurghardtRCBGHR24,DBLP
+ICWSM,post_gpt,2024,Stance Detection with Collaborative Role-Infused LLM-Based Agents,10.1609/icwsm.v18i1.31360,conf/icwsm/LanGJ024,DBLP
+ICWSM,post_gpt,2024,Stories That Heal: Characterizing and Supporting Narrative for Suicide Bereavement,10.1609/icwsm.v18i1.31319,conf/icwsm/DoyleGSKVB24,DBLP
+ICWSM,post_gpt,2024,Stranger Danger! Cross-Community Interactions with Fringe Users Increase the Growth of Fringe Communities on Reddit,10.1609/icwsm.v18i1.31393,conf/icwsm/RussoR024,DBLP
+ICWSM,post_gpt,2024,Strategies and Attacks of Digital Militias in WhatsApp Political Groups,10.1609/icwsm.v18i1.31354,conf/icwsm/KansaonMZFB24,DBLP
+ICWSM,post_gpt,2024,Submodular Optimization beyond Nonnegativity: Adaptive Seed Selection in Incentivized Social Advertising,10.1609/icwsm.v18i1.31404,conf/icwsm/0001024,DBLP
+ICWSM,post_gpt,2024,TUBERAIDER: Attributing Coordinated Hate Attacks on YouTube Videos to Their Source Communities,10.1609/icwsm.v18i1.31394,conf/icwsm/SaeedPBCS24,DBLP
+ICWSM,post_gpt,2024,TeC: A Novel Method for Text Clustering with Large Language Models Guidance and Weakly-Supervised Contrastive Learning,10.1609/icwsm.v18i1.31419,conf/icwsm/Yang0F24,DBLP
+ICWSM,post_gpt,2024,Temporal Network Analysis of Email Communication Patterns in a Long Standing Hierarchy,10.1609/icwsm.v18i1.31302,conf/icwsm/BarnesKMPTPCC24,DBLP
+ICWSM,post_gpt,2024,The Diffusion of Causal Language in Social Networks,10.1609/icwsm.v18i1.31399,conf/icwsm/ShiM24,DBLP
+ICWSM,post_gpt,2024,The Effects of Group Sanctions on Participation and Toxicity: Quasi-experimental Evidence from the Fediverse,10.1609/icwsm.v18i1.31316,conf/icwsm/ColglazierTS24,DBLP
+ICWSM,post_gpt,2024,The Evolution of Occupational Identity in Twitter Biographies,10.1609/icwsm.v18i1.31330,conf/icwsm/GuoHJS24,DBLP
+ICWSM,post_gpt,2024,The Geography of Information Diffusion in Online Discourse on Europe and Migration,10.1609/icwsm.v18i1.31361,conf/icwsm/LeonardelliT24,DBLP
+ICWSM,post_gpt,2024,The Koo Dataset: An Indian Microblogging Platform with Global Ambitions,10.1609/icwsm.v18i1.31442,conf/icwsm/MekacherFB24,DBLP
+ICWSM,post_gpt,2024,The LGBTQ+ Minority Stress on Social Media (MiSSoM) Dataset: A Labeled Dataset for Natural Language Processing and Machine Learning,10.1609/icwsm.v18i1.31433,conf/icwsm/CascalheiraCFKL24,DBLP
+ICWSM,post_gpt,2024,The Manifestation of Affective Polarization on Social Media: A Cross-Platform Supervised Machine Learning Approach,10.1609/icwsm.v18i1.31380,conf/icwsm/OvergaardLS24,DBLP
+ICWSM,post_gpt,2024,The Persuasive Power of Large Language Models,10.1609/icwsm.v18i1.31304,conf/icwsm/BreumEMMA24,DBLP
+ICWSM,post_gpt,2024,The Quiet Power of Social Media: Impact on Fish-Oil Purchases in Iceland during COVID-19,10.1609/icwsm.v18i1.31308,conf/icwsm/CarpinelliIO24,DBLP
+ICWSM,post_gpt,2024,The Strange Case of Jekyll and Hyde: Analysis of R/ToastMe and R/RoastMe Users on Reddit,10.1609/icwsm.v18i1.31352,conf/icwsm/JungADLX024,DBLP
+ICWSM,post_gpt,2024,Theme-Driven Keyphrase Extraction to Analyze Social Media Discourse,10.1609/icwsm.v18i1.31391,conf/icwsm/RomanoSBGP24,DBLP
+ICWSM,post_gpt,2024,Throw Your Hat in the Ring (of Wikipedia): Exploring Urban-Rural Disparities in Local Politicians' Information Supply,10.1609/icwsm.v18i1.31370,conf/icwsm/MatsuiMM24,DBLP
+ICWSM,post_gpt,2024,Tight Sampling in Unbounded Networks,10.1609/icwsm.v18i1.31345,conf/icwsm/JaglanCSSGKB24,DBLP
+ICWSM,post_gpt,2024,Topic Shifts as a Proxy for Assessing Politicization in Social Media,10.1609/icwsm.v18i1.31366,conf/icwsm/LocatelliCMJMM024,DBLP
+ICWSM,post_gpt,2024,Tracking Fringe and Coordinated Activity on Twitter Leading Up to the US Capitol Attack,10.1609/icwsm.v18i1.31409,conf/icwsm/VishnuprasadNCC24,DBLP
+ICWSM,post_gpt,2024,Tube2Vec: Social and Semantic Embeddings of YouTube Channels,10.1609/icwsm.v18i1.31450,conf/icwsm/BoesingerRV024,DBLP
+ICWSM,post_gpt,2024,TweetIntent@Crisis: A Dataset Revealing Narratives of Both Sides in the Russia-Ukraine Crisis,10.1609/icwsm.v18i1.31432,conf/icwsm/AiGOHLH24,DBLP
+ICWSM,post_gpt,2024,Understanding Community Resilience: Quantifying the Effects of Sudden Popularity via Algorithmic Curation,10.1609/icwsm.v18i1.31310,conf/icwsm/ChanLCCC24,DBLP
+ICWSM,post_gpt,2024,Understanding Coordinated Communities through the Lens of Protest-Centric Narratives: A Case Study on #CAA Protest,10.1609/icwsm.v18i1.31377,conf/icwsm/0001AC0BK24,DBLP
+ICWSM,post_gpt,2024,Understanding and Improving Content Moderation in Web3 Platforms,10.1609/icwsm.v18i1.31431,conf/icwsm/ZuoMRT24,DBLP
+ICWSM,post_gpt,2024,Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities,10.1609/icwsm.v18i1.31362,conf/icwsm/LiWLZGP24,DBLP
+ICWSM,post_gpt,2024,Unraveling User Coordination on Telegram: A Comprehensive Analysis of Political Mobilization during the 2022 Brazilian Presidential Election,10.1609/icwsm.v18i1.31408,conf/icwsm/Venancio0AS24,DBLP
+ICWSM,post_gpt,2024,Unraveling the Dynamics of Television Debates and Social Media Engagement: Insights from an Indian News Show,10.1609/icwsm.v18i1.31325,conf/icwsm/GarimellaD24,DBLP
+ICWSM,post_gpt,2024,Unveiling the Risks of NFT Promotion Scams,10.1609/icwsm.v18i1.31395,conf/icwsm/Roy0BKVN24,DBLP
+ICWSM,post_gpt,2024,Users' Behavioral and Emotional Response to Toxicity in Twitter Conversations,10.1609/icwsm.v18i1.31295,conf/icwsm/AleksandricRPWN24,DBLP
+ICWSM,post_gpt,2024,Watch Your Language: Investigating Content Moderation with Large Language Models,10.1609/icwsm.v18i1.31358,conf/icwsm/0006AD24,DBLP
+ICWSM,post_gpt,2024,Where Did the President Visit Last Week? Detecting Celebrity Trips from News Articles,10.1609/icwsm.v18i1.31382,conf/icwsm/PengZLKZ24,DBLP
+ICWSM,post_gpt,2024,"Which Came First, Price or Activity? A Vicious Circle of a Blockchain-Based Social Media in the Bear Market (Extended Abstract)",10.1609/icwsm.v18i1.31347,conf/icwsm/JeongJS24,DBLP
+ICWSM,post_gpt,2024,Wildlife Product Trading in Online Social Networks: A Case Study on Ivory-Related Product Sales Promotion Posts,10.1609/icwsm.v18i1.31375,conf/icwsm/MouYLZ24,DBLP
+ICWSM,post_gpt,2024,With Flying Colors: Predicting Community Success in Large-Scale Collaborative Campaigns,10.1609/icwsm.v18i1.31344,conf/icwsm/IsraeliT24,DBLP
+ICWSM,post_gpt,2024,Xenophobia Meter: Defining and Measuring Online Sentiment toward Foreigners on Twitter,10.1609/icwsm.v18i1.31406,conf/icwsm/UmarovaOLSXZOLL24,DBLP
+ICWSM,post_gpt,2024,You Are a Bot! - Studying the Development of Bot Accusations on Twitter,10.1609/icwsm.v18i1.31301,conf/icwsm/AssenmacherF024,DBLP
+ICWSM,post_gpt,2024,iDRAMA-Scored-2024: A Dataset of the Scored Social Media Platform from 2020 to 2023,10.1609/icwsm.v18i1.31444,conf/icwsm/PatelPCSB24,DBLP
+ICWSM,post_gpt,2025,"""I Don't Think TikTok Really Cares About the Truth: "" Experiences of Users Who Are Low Vision or Blind with Misinformation on TikTok",10.1609/icwsm.v19i1.35901,conf/icwsm/SharevskiZ25,DBLP
+ICWSM,post_gpt,2025,"""I'm Not for Sale"" - Perceptions and Limited Awareness of Privacy Risks by Digital Natives About Location Data",10.1609/icwsm.v19i1.35816,conf/icwsm/BoutetM25,DBLP
+ICWSM,post_gpt,2025,"""Reasoning"" with Rhetoric: On the Style-Evidence Tradeoff in LLM-Generated Counter-Arguments",10.1609/icwsm.v19i1.35913,conf/icwsm/VermaJC25,DBLP
+ICWSM,post_gpt,2025,A Benchmark for Cross-Domain Argumentative Stance Classification on Social Media,10.1609/icwsm.v19i1.35927,conf/icwsm/YuanXS25,DBLP
+ICWSM,post_gpt,2025,A Dataset for Analysing News Framing in Chinese Media,10.1609/icwsm.v19i1.35943,conf/icwsm/CookMYSB25,DBLP
+ICWSM,post_gpt,2025,A Growing Sense of Alienation: Spirals of Silence and Suppression of Structural Circumstances of Suicide in News,10.1609/icwsm.v19i1.35830,conf/icwsm/ForiestJHC25,DBLP
+ICWSM,post_gpt,2025,A Multimodal Prompt-based Framework for Analyzing Code-Mixed and Low-Resource Memes,10.1609/icwsm.v19i1.35909,conf/icwsm/ThapaVHZWN25,DBLP
+ICWSM,post_gpt,2025,A Sticker is Worth a Thousand Words: Characterizing the Use and Abuse of Stickers on WhatsApp Political Groups in Brazil,10.1609/icwsm.v19i1.35869,conf/icwsm/MeloKCRB25,DBLP
+ICWSM,post_gpt,2025,A Study of Training Strategies on Enhancing Human Detection of AI-Synthesized Faces,10.1609/icwsm.v19i1.35821,conf/icwsm/ChenSR00X25,DBLP
+ICWSM,post_gpt,2025,A Telegram Dataset of Propaganda and its Moderation,10.1609/icwsm.v19i1.35952,conf/icwsm/KireevMTO25,DBLP
+ICWSM,post_gpt,2025,AOTree: Aspect Order Tree-Based Model for Explainable Recommendation,10.1609/icwsm.v19i1.35933,conf/icwsm/ZhaoZG0LG25,DBLP
+ICWSM,post_gpt,2025,Adopting Beliefs or Superficial Mimicry? Investigating Nuanced Ideological Manipulation of LLMs,10.1609/icwsm.v19i1.35885,conf/icwsm/Paschalides0D25,DBLP
+ICWSM,post_gpt,2025,Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation Between the United States and South Africa,10.1609/icwsm.v19i1.35854,conf/icwsm/JungJM25,DBLP
+ICWSM,post_gpt,2025,Analyzing Digital Polarization on Hijab: A Dataset of Annotated YouTube Comments,10.1609/icwsm.v19i1.35938,conf/icwsm/HerakiZ25,DBLP
+ICWSM,post_gpt,2025,Analyzing Offensive Content and Emotional Dynamics in Black Lives Matter Discourse on Twitter,10.1609/icwsm.v19i1.35878,conf/icwsm/Okpala0E25,DBLP
+ICWSM,post_gpt,2025,"Analyzing Reddit Stories of Sexual Violence: Incidents, Effects, and Requests for Advice",10.1609/icwsm.v19i1.35832,conf/icwsm/GargJYXS25,DBLP
+ICWSM,post_gpt,2025,ArDia: Improving Arabic Dialectal Language Classification Using a Novel Dataset,10.1609/icwsm.v19i1.35944,conf/icwsm/ElsaftyADPBS25,DBLP
+ICWSM,post_gpt,2025,Auditing Yelp's Business Ranking and Review Recommendation Through the Lens of Fairness,10.1609/icwsm.v19i1.35902,conf/icwsm/SinghalPKDA0N25,DBLP
+ICWSM,post_gpt,2025,Avatar Communication Provides More Efficient Online Social Support Than Text Communication,10.1609/icwsm.v19i1.35906,conf/icwsm/TakanoYKAT25,DBLP
+ICWSM,post_gpt,2025,Balancing Producer Fairness and Efficiency via Prior-Weighted Rating System Design,10.1609/icwsm.v19i1.35865,conf/icwsm/MaBJ025,DBLP
+ICWSM,post_gpt,2025,Bike Frames: Understanding the Implicit Portrayal of Cyclists in the News,10.1609/icwsm.v19i1.35934,conf/icwsm/ZhaoSNSWR25,DBLP
+ICWSM,post_gpt,2025,Bootstrapping Social Networks: Lessons from Bluesky Starter Packs,10.1609/icwsm.v19i1.35810,conf/icwsm/BaldufSBCKTP0A25,DBLP
+ICWSM,post_gpt,2025,Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains,10.1609/icwsm.v19i1.35917,conf/icwsm/WilliamsCC25,DBLP
+ICWSM,post_gpt,2025,Can't Stop Scrolling: Understanding the Online Behavioral Factors and Trends of Short-Video Addiction,10.1609/icwsm.v19i1.35915,conf/icwsm/WangSPPGL25,DBLP
+ICWSM,post_gpt,2025,Can-PolNews: A Multi-Platform Dataset of Political Discourse in Canada,10.1609/icwsm.v19i1.35956,conf/icwsm/PehlivanPADSB25,DBLP
+ICWSM,post_gpt,2025,Cannabis Use During Pregnancy: Insights from Online Discourse and Socioeconomic Indicators Across the USA and Canada,10.1609/icwsm.v19i1.35828,conf/icwsm/Espin-NoboaFKC25,DBLP
+ICWSM,post_gpt,2025,Capturing Dynamics in Online Public Discourse: A Case Study of Universal Basic Income Discussions on Reddit,10.1609/icwsm.v19i1.35858,conf/icwsm/KimVA25,DBLP
+ICWSM,post_gpt,2025,Changes in YouTube's Content Moderation Policy Had Little Detectable Impact on Election Denial Content,10.1609/icwsm.v19i1.35887,conf/icwsm/PisharodyNGS25,DBLP
+ICWSM,post_gpt,2025,Characterizing Knowledge Manipulation in a Russian Wikipedia Fork,10.1609/icwsm.v19i1.35910,conf/icwsm/TrokhymovychKFA25,DBLP
+ICWSM,post_gpt,2025,ClipMind: A Framework for Auditing Short-Format Video Recommendations Using Multimodal AI Models,10.1609/icwsm.v19i1.35838,conf/icwsm/GongMXZ25,DBLP
+ICWSM,post_gpt,2025,Clustering Internet Memes Through Template Matching and Multi-Dimensional Similarity,10.1609/icwsm.v19i1.35815,conf/icwsm/BloemI25,DBLP
+ICWSM,post_gpt,2025,Contrastive Instruction Fine-Tuning Large Multimodal Model for Hateful Meme Classification,10.1609/icwsm.v19i1.35844,conf/icwsm/HeeGWCLQ25,DBLP
+ICWSM,post_gpt,2025,Conversation Kernels: A Flexible Mechanism to Learn Relevant Context for Online Conversation Understanding,10.1609/icwsm.v19i1.35800,conf/icwsm/AgarwalGDS25,DBLP
+ICWSM,post_gpt,2025,Coordinated Reply Attacks in Influence Operations: Characterization and Detection,10.1609/icwsm.v19i1.35889,conf/icwsm/PoteEFM25,DBLP
+ICWSM,post_gpt,2025,Cross-Partisan Interactions on Twitter,10.1609/icwsm.v19i1.35819,conf/icwsm/CetinkayaGSSE25,DBLP
+ICWSM,post_gpt,2025,Cyber Food Swamps: Investigating the Impacts of Online-to-Offline Food Delivery Platforms on Healthy Food Choices,10.1609/icwsm.v19i1.35932,conf/icwsm/ZhangFLXL25,DBLP
+ICWSM,post_gpt,2025,Deceptive Sound Therapy on Online Platforms: Do Mental Wellbeing Tracks Conform to User Expectations?,10.1609/icwsm.v19i1.35806,conf/icwsm/ArunasalamTFOSC25,DBLP
+ICWSM,post_gpt,2025,Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions,10.1609/icwsm.v19i1.35845,conf/icwsm/HeeL25,DBLP
+ICWSM,post_gpt,2025,Detecting Harassment and Defamation in Cyberbullying with Emotion-Adaptive Training,10.1609/icwsm.v19i1.35925,conf/icwsm/YiZL25,DBLP
+ICWSM,post_gpt,2025,Differentiating Emigration from Return Migration of Scholars Using Name-Based Nationality Detection Models,10.1609/icwsm.v19i1.35836,conf/icwsm/GhorbanpourMA25,DBLP
+ICWSM,post_gpt,2025,Discovering Latent Themes in Social Media Messaging: A Machine-in-the-Loop Approach Integrating LLMs,10.1609/icwsm.v19i1.35850,conf/icwsm/IslamG25,DBLP
+ICWSM,post_gpt,2025,Disruptions in Music Listening Behaviors During Lockdowns,10.1609/icwsm.v19i1.35831,conf/icwsm/SafarGL25,DBLP
+ICWSM,post_gpt,2025,Do Bots Do It Better? Analyzing the Effectiveness of Automated Agents in State-Sponsored Information Operations,10.1609/icwsm.v19i1.35888,conf/icwsm/PolychronisK25,DBLP
+ICWSM,post_gpt,2025,Does Content Moderation Lead Users Away from Fringe Movements? Evidence from a Recovery Community,10.1609/icwsm.v19i1.35897,conf/icwsm/RussoSR025,DBLP
+ICWSM,post_gpt,2025,Does the Source of a Warning Matter? Examining the Effectiveness of Veracity Warning Labels Across Warners,10.1609/icwsm.v19i1.35848,conf/icwsm/Horne25,DBLP
+ICWSM,post_gpt,2025,Dynamics of Language Change: A Mixed-Methods Analysis of Language in an Online Transgender Community,10.1609/icwsm.v19i1.35817,conf/icwsm/BrownZT25,DBLP
+ICWSM,post_gpt,2025,Effects of Research Paper Promotion via ArXiv and X,10.1609/icwsm.v19i1.35809,conf/icwsm/BagchiMG25,DBLP
+ICWSM,post_gpt,2025,"Election Polls on Social Media: Prevalence, Biases, and Voter Fraud Beliefs",10.1609/icwsm.v19i1.35900,conf/icwsm/ScaranoVSYYG25,DBLP
+ICWSM,post_gpt,2025,Elephant in the Room: Dissecting and Reflecting on the Evolution of Online Social Network Research,10.1609/icwsm.v19i1.35881,conf/icwsm/PajolaSTCA25,DBLP
+ICWSM,post_gpt,2025,Emojis Decoded: Leveraging ChatGPT for Enhanced Understanding in Social Media Communications,10.1609/icwsm.v19i1.35935,conf/icwsm/ZhouXWLG025,DBLP
+ICWSM,post_gpt,2025,Empowering LLMs to Synthesize AI and Human Intelligence for Explainable Public Health Misinformation Detection on Social Media,10.1609/icwsm.v19i1.35937,conf/icwsm/ZongZW25,DBLP
+ICWSM,post_gpt,2025,Ethnic Diversity and Spatial Dynamics in Google Maps Reviews: Insights from a German Border City,10.1609/icwsm.v19i1.35964,conf/icwsm/MensahCW25,DBLP
+ICWSM,post_gpt,2025,Examining the Influence of Political Bias on Large Language Model Performance in Stance Classification,10.1609/icwsm.v19i1.35874,conf/icwsm/NgCL25,DBLP
+ICWSM,post_gpt,2025,Examining the Makeup of Media Trigger Warnings Online,10.1609/icwsm.v19i1.35929,conf/icwsm/ZhangHHT25,DBLP
+ICWSM,post_gpt,2025,Experiences of Censorship on TikTok Across Marginalised Identities,10.1609/icwsm.v19i1.35912,conf/icwsm/UnglessMR25,DBLP
+ICWSM,post_gpt,2025,Exploiting Explainability to Design Adversarial Attacks and Evaluate Attack Resilience in Hate-Speech Detection Models,10.1609/icwsm.v19i1.35859,conf/icwsm/KumbamSTHPD25,DBLP
+ICWSM,post_gpt,2025,"Exploring Disparity-Accuracy Trade-offs in Face Recognition Systems: The Role of Datasets, Architectures, and Loss Functions",10.1609/icwsm.v19i1.35852,conf/icwsm/JaiswalBS025,DBLP
+ICWSM,post_gpt,2025,Exploring Unknown Social Networks for Discovering Hidden Nodes,10.1609/icwsm.v19i1.35911,conf/icwsm/TsugawaO25,DBLP
+ICWSM,post_gpt,2025,Exploring the Limits of Zero Shot Vision Language Models for Hate Meme Detection: The Vulnerabilities and their Interpretations,10.1609/icwsm.v19i1.35894,conf/icwsm/RizwanBDMS025,DBLP
+ICWSM,post_gpt,2025,Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models,10.1609/icwsm.v19i1.35801,conf/icwsm/AhnertP0S25,DBLP
+ICWSM,post_gpt,2025,Extracting Participation in Collective Action from Social Media,10.1609/icwsm.v19i1.35886,conf/icwsm/PeraA25,DBLP
+ICWSM,post_gpt,2025,Fear and Loathing on the Frontline: Decoding the Language of Othering by Russia-Ukraine War Bloggers,10.1609/icwsm.v19i1.35835,conf/icwsm/GerardWL25,DBLP
+ICWSM,post_gpt,2025,From Fake News to Real Protests: WhatsApp's Role in Brazilian Political Coordination,10.1609/icwsm.v19i1.35857,conf/icwsm/KansaonMZB25,DBLP
+ICWSM,post_gpt,2025,GNN and LLM Insights: Multimodal Cues and Gender Disparities in Video Conversations,10.1609/icwsm.v19i1.35903,conf/icwsm/Stefanidis0DN25,DBLP
+ICWSM,post_gpt,2025,Global Patterns of Viral Content on WhatsApp,10.1609/icwsm.v19i1.35833,conf/icwsm/GarimellaCRNV25,DBLP
+ICWSM,post_gpt,2025,Going /k/ommando: Gun Culture in Fringe Online Communities,10.1609/icwsm.v19i1.35905,conf/icwsm/TahmasbiCBB25,DBLP
+ICWSM,post_gpt,2025,Hate Speech Campaigns in the 2016 Philippine Elections on Facebook,10.1609/icwsm.v19i1.35849,conf/icwsm/HosamaneG25,DBLP
+ICWSM,post_gpt,2025,Hatred Stems from Ignorance! Distillation of the Persuasion Modes in Countering Conversational Hate Speech,10.1609/icwsm.v19i1.35803,conf/icwsm/AlyahyaA25,DBLP
+ICWSM,post_gpt,2025,Hot Tweets and Cold Posts: Variation in US Congresspeople's Ideological Presentation on Twitter and Facebook Over Time,10.1609/icwsm.v19i1.35841,conf/icwsm/GreeneDTB25,DBLP
+ICWSM,post_gpt,2025,How (Un)ethical Are Instruction-Centric Responses of LLMs? Unveiling the Vulnerabilities of Safety Guardrails to Harmful Queries,10.1609/icwsm.v19i1.35811,conf/icwsm/0002LH025,DBLP
+ICWSM,post_gpt,2025,How Influencers and Multipliers Drive Polarization and Issue Alignment on Twitter/X,10.1609/icwsm.v19i1.35890,conf/icwsm/Pournaki0O25,DBLP
+ICWSM,post_gpt,2025,How Polarized are Online Conversations About Childhood?,10.1609/icwsm.v19i1.35840,conf/icwsm/GreenH25,DBLP
+ICWSM,post_gpt,2025,Human and LLM Biases in Hate Speech Annotations: A Socio-Demographic Analysis of Annotators and Targets,10.1609/icwsm.v19i1.35837,conf/icwsm/GiorgiCFAC25,DBLP
+ICWSM,post_gpt,2025,ID-XCB: Data-Independent Debiasing for Fair and Accurate Transformer-Based Cyberbullying Detection,10.1609/icwsm.v19i1.35924,conf/icwsm/YiZ25,DBLP
+ICWSM,post_gpt,2025,Identifying and Investigating Global News Coverage of Critical Events Such as Disasters and Terrorist Attacks,10.1609/icwsm.v19i1.35818,conf/icwsm/CaiCKZ0G25,DBLP
+ICWSM,post_gpt,2025,Influence Maximization in Temporal Social Networks with a Cold-Start Problem: A Supervised Approach,10.1609/icwsm.v19i1.35919,conf/icwsm/XieZWLGXWZL25,DBLP
+ICWSM,post_gpt,2025,Integrated or Segregated? User Behavior Change After Cross-Party Interactions on Reddit,10.1609/icwsm.v19i1.35918,conf/icwsm/XiaMKK25,DBLP
+ICWSM,post_gpt,2025,Is Fact-Checking Politically Neutral? Asymmetries in How U.S. Fact-Checking Organizations Pick Up False Statements Mentioning Political Elites,10.1609/icwsm.v19i1.35823,conf/icwsm/ChuaiZPL25,DBLP
+ICWSM,post_gpt,2025,Join the Chat: How Curiosity Sparks Participation in Telegram Groups,10.1609/icwsm.v19i1.35884,conf/icwsm/PaolettiAVGM25,DBLP
+ICWSM,post_gpt,2025,KeepA(n)I: Social Stereotypes in and Social Norms for Computer Vision,10.1609/icwsm.v19i1.35969,conf/icwsm/ChristoforouNSO25,DBLP
+ICWSM,post_gpt,2025,Keeping Humans in the Loop: Human-Centered Automated Annotation with Generative AI,10.1609/icwsm.v19i1.35883,conf/icwsm/PangakisW25,DBLP
+ICWSM,post_gpt,2025,Knowledge-Augmented Intelligent Bot Framework for Enabling Accessible Design,10.1609/icwsm.v19i1.35966,conf/icwsm/SahaDSAVJ25,DBLP
+ICWSM,post_gpt,2025,LIN: Latent Influence Network for Discovering Hidden Directed Influence Links on Social Media,10.1609/icwsm.v19i1.35842,conf/icwsm/GuZ0K25,DBLP
+ICWSM,post_gpt,2025,LLM-Based Semantic Augmentation for Harmful Content Detection,10.1609/icwsm.v19i1.35868,conf/icwsm/MeguellatiZSD25,DBLP
+ICWSM,post_gpt,2025,LLMs Generate Structurally Realistic Social Networks but Overestimate Political Homophily,10.1609/icwsm.v19i1.35820,conf/icwsm/ChangCWJPL25,DBLP
+ICWSM,post_gpt,2025,Labeled Datasets for Research on Information Operations,10.1609/icwsm.v19i1.35958,conf/icwsm/SeckinPNYLFM25,DBLP
+ICWSM,post_gpt,2025,Large Engagement Networks for Classifying Coordinated Campaigns and Organic Twitter Trends,10.1609/icwsm.v19i1.35839,conf/icwsm/GopalakrishnanH25,DBLP
+ICWSM,post_gpt,2025,Large Language Model Annotation Bias in Hate Speech Detection,10.1609/icwsm.v19i1.35879,conf/icwsm/Okpala025,DBLP
+ICWSM,post_gpt,2025,Large-Scale Analysis of Online Questions Related to Opioid Use Disorder on Reddit,10.1609/icwsm.v19i1.35861,conf/icwsm/LaudKSKLSCE25,DBLP
+ICWSM,post_gpt,2025,Leveraging Large Language Models for Automated Definition Extraction with TaxoMatic - a Case Study on Media Bias,10.1609/icwsm.v19i1.35968,conf/icwsm/SpindeLHE25,DBLP
+ICWSM,post_gpt,2025,Leveraging Large Language Models for Review Classification and Rating Estimation of Mental Health Applications,10.1609/icwsm.v19i1.35916,conf/icwsm/WangEKKACALNM25,DBLP
+ICWSM,post_gpt,2025,Linguistic Landscape of Generative AI Perception: A Global Twitter Analysis Across 14 Languages,10.1609/icwsm.v19i1.35872,conf/icwsm/MurayamaMMS25,DBLP
+ICWSM,post_gpt,2025,Link Me Baby One More Time: Social Music Discovery on Spotify,10.1609/icwsm.v19i1.35808,conf/icwsm/BabulHLLB25,DBLP
+ICWSM,post_gpt,2025,MagnetDB: A Longitudinal Torrent Discovery Dataset with IMDb-Matched Movies and TV Shows,10.1609/icwsm.v19i1.35959,conf/icwsm/SeidenbergerPM25,DBLP
+ICWSM,post_gpt,2025,Mapping the Climate Change Landscape on TikTok,10.1609/icwsm.v19i1.35962,conf/icwsm/GaldemanA25,DBLP
+ICWSM,post_gpt,2025,Masculine Defaults via Gendered Discourse in Podcasts and Large Language Models,10.1609/icwsm.v19i1.35908,conf/icwsm/TelekiDLC25,DBLP
+ICWSM,post_gpt,2025,Measuring Dimensions of Self-Presentation in Twitter Bios and their Links to Misinformation Sharing,10.1609/icwsm.v19i1.35866,conf/icwsm/MadaniBYMSJ25,DBLP
+ICWSM,post_gpt,2025,Measuring and Forecasting Conversation Incivility: the Role of Antisocial and Prosocial Behaviors,10.1609/icwsm.v19i1.35926,conf/icwsm/YuAS025,DBLP
+ICWSM,post_gpt,2025,Mental Health Impact of the COVID-19 Pandemic on College Students: A Quasi-Experimental Study on Social Media,10.1609/icwsm.v19i1.35899,conf/icwsm/SahaKC25,DBLP
+ICWSM,post_gpt,2025,"MetaHarm: Harmful YouTube Video Dataset Annotated by Domain Experts, GPT-4-Turbo, and Crowdworkers",10.1609/icwsm.v19i1.35951,conf/icwsm/JoW25,DBLP
+ICWSM,post_gpt,2025,Mobility Networked Time-Series Forecasting Benchmark Datasets,10.1609/icwsm.v19i1.35955,conf/icwsm/NaNYS0025,DBLP
+ICWSM,post_gpt,2025,"Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation",10.1609/icwsm.v19i1.35855,conf/icwsm/KadasiKCSSSSMJS25,DBLP
+ICWSM,post_gpt,2025,Modeling Information Narrative Evolution on Telegram During the Russia-Ukraine War,10.1609/icwsm.v19i1.35834,conf/icwsm/GerardVPLW25,DBLP
+ICWSM,post_gpt,2025,More than Memes: A Multimodal Topic Modeling Approach to Conspiracy Theories on Telegram,10.1609/icwsm.v19i1.35904,conf/icwsm/Steffen25,DBLP
+ICWSM,post_gpt,2025,Multi-Platform Aggregated Dataset of Online Communities (MADOC),10.1609/icwsm.v19i1.35954,conf/icwsm/DankulovTMAVCSV25,DBLP
+ICWSM,post_gpt,2025,News Source Credibility Assessment: A Reddit Case Study,10.1609/icwsm.v19i1.35804,conf/icwsm/AminiB0MT25,DBLP
+ICWSM,post_gpt,2025,News on TikTok: An Annotated Dataset of TikTok Videos from German-Speaking News Outlets in 2023,10.1609/icwsm.v19i1.35953,conf/icwsm/MayerWBHBISO25,DBLP
+ICWSM,post_gpt,2025,NewsUnfold: Creating a News-Reading Application That Indicates Linguistic Media Bias and Collects Feedback,10.1609/icwsm.v19i1.35847,conf/icwsm/HinterreiterWSE25,DBLP
+ICWSM,post_gpt,2025,Nicer than Humans: How Do Large Language Models Behave in the Prisoner's Dilemma?,10.1609/icwsm.v19i1.35829,conf/icwsm/Fontana0A25,DBLP
+ICWSM,post_gpt,2025,Niche Dynamics in Complex Online Community Ecosystems,10.1609/icwsm.v19i1.35907,conf/icwsm/TeBlunthuis25,DBLP
+ICWSM,post_gpt,2025,NoisyHate: Mining Online Human-Written Perturbations for Realistic Robustness Benchmarking of Content Moderation Models,10.1609/icwsm.v19i1.35961,conf/icwsm/YeL025,DBLP
+ICWSM,post_gpt,2025,OCanada-TVNews: A Two-Year Dataset for Gender and Topic Diversity in Canadian TV News Broadcasts,10.1609/icwsm.v19i1.35957,conf/icwsm/Pehlivan25,DBLP
+ICWSM,post_gpt,2025,Online Myths on Opioid Use Disorder: A Comparison of Reddit and Large Language Model,10.1609/icwsm.v19i1.35870,conf/icwsm/MittalJEMC25,DBLP
+ICWSM,post_gpt,2025,Opposites Attract? Ambivalence in Distinguishing Real and Fake News and Predicting their Spread,10.1609/icwsm.v19i1.35967,conf/icwsm/SakibSH25,DBLP
+ICWSM,post_gpt,2025,PHAnToM: Persona-Based Prompting Has an Effect on Theory-of-Mind Reasoning in Large Language Models,10.1609/icwsm.v19i1.35923,conf/icwsm/YeoTJFWXJC0N25,DBLP
+ICWSM,post_gpt,2025,Partisan Fact-Checkers' Warnings Can Effectively Correct Individuals' Misbeliefs About Political Misinformation,10.1609/icwsm.v19i1.35862,conf/icwsm/LeeSX025,DBLP
+ICWSM,post_gpt,2025,Paths of A Million People: Extracting Life Trajectories from Wikipedia,10.1609/icwsm.v19i1.35930,conf/icwsm/ZhangLLZ25,DBLP
+ICWSM,post_gpt,2025,Pathways to Conspiracy Theorizing on YouTube in Japan,10.1609/icwsm.v19i1.35965,conf/icwsm/OtaCT25,DBLP
+ICWSM,post_gpt,2025,Perception of Visual Content: Differences Between Humans and Foundation Models,10.1609/icwsm.v19i1.35891,conf/icwsm/PratamaFD25,DBLP
+ICWSM,post_gpt,2025,"Please Say ""Shibboleth"": Socialization Through Language Adoption in Virtual Citizen Science",10.1609/icwsm.v19i1.35851,conf/icwsm/Jackson25,DBLP
+ICWSM,post_gpt,2025,Polarized Online Discourse on Abortion: Frames and Hostile Expressions Among Liberals and Conservatives,10.1609/icwsm.v19i1.35893,conf/icwsm/RaoCZLW25,DBLP
+ICWSM,post_gpt,2025,Political Elites in the Attention Economy: Visibility Over Civility and Credibility?,10.1609/icwsm.v19i1.35814,conf/icwsm/BiswasLTD25,DBLP
+ICWSM,post_gpt,2025,Post-GPT Policy: Risk and Regulation in EU AI Discourse,10.1609/icwsm.v19i1.35856,conf/icwsm/KajavaOTWV25,DBLP
+ICWSM,post_gpt,2025,Practical Datasets for Analyzing LLM Corpora Derived from Common Crawl,10.1609/icwsm.v19i1.35948,conf/icwsm/HagarB25,DBLP
+ICWSM,post_gpt,2025,Practical Guidelines for Ideology Detection Pipelines and Psychosocial Applications,10.1609/icwsm.v19i1.35892,conf/icwsm/RamTKR25,DBLP
+ICWSM,post_gpt,2025,"Prevalence, Substance and Responses to Hate Speech Against LGBTQ Communities on TikTok",10.1609/icwsm.v19i1.35824,conf/icwsm/TibauVPP25,DBLP
+ICWSM,post_gpt,2025,"Proceedings of the Nineteenth International AAAI Conference on Web and Social Media, June 23-26, 2025, Copenhagen, Denmark",,conf/icwsm/2025,DBLP
+ICWSM,post_gpt,2025,Protection from Evil and Good: The Differential Effects of Page Protection on Wikipedia Article Quality,10.1609/icwsm.v19i1.35896,conf/icwsm/RuprechterR0H25,DBLP
+ICWSM,post_gpt,2025,Quantifying the Spread of Online Incivility in Brazilian Politics,10.1609/icwsm.v19i1.35931,conf/icwsm/ZhangAHEB25,DBLP
+ICWSM,post_gpt,2025,Reddit Rehab: User Migration in Response to Mobile Client Shutdowns,10.1609/icwsm.v19i1.35914,conf/icwsm/WaltenbergerVWP25,DBLP
+ICWSM,post_gpt,2025,Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance Across Thousands of Communities,10.1609/icwsm.v19i1.35863,conf/icwsm/LeibmannWZA25,DBLP
+ICWSM,post_gpt,2025,Responsible RecSys by Design: Approximation Algorithms for Calibrated Recommendations with Sponsored Items,10.1609/icwsm.v19i1.35928,conf/icwsm/00020CW25,DBLP
+ICWSM,post_gpt,2025,Retrieval Augmented Encoder-Decoder with Diffusion for Sequential Hashtag Recommendation in Disaster Events,10.1609/icwsm.v19i1.35812,conf/icwsm/BansalP025,DBLP
+ICWSM,post_gpt,2025,SAID: A Social Media AI-generated Interface Dataset Using Prompt Engineering Methods Focused On Accessibility,10.1609/icwsm.v19i1.35947,conf/icwsm/Gurita25,DBLP
+ICWSM,post_gpt,2025,"Same Vaccine, Different Voices: A Cross-Modality Analysis of HPV Vaccine Discourse on Social Media",10.1609/icwsm.v19i1.35936,conf/icwsm/0001HZSZH25,DBLP
+ICWSM,post_gpt,2025,Scalable Reputation Management: A Multi-Task Prompting Approach Using Fine-Tuned PLMs for Sentiment and Topic Classification,10.1609/icwsm.v19i1.35898,conf/icwsm/CostaUSOMD0MB25,DBLP
+ICWSM,post_gpt,2025,Scaled Supervision is an Implicit Lipschitz Regularizer,10.1609/icwsm.v19i1.35880,conf/icwsm/OuyangZJV25,DBLP
+ICWSM,post_gpt,2025,Social Dynamics and Mobilization Potential of Online Election Narratives,10.1609/icwsm.v19i1.35827,conf/icwsm/EngelMS25,DBLP
+ICWSM,post_gpt,2025,SocialQuotes: Learning Contextual Roles of Social Media Quotes on the Web,10.1609/icwsm.v19i1.35882,conf/icwsm/PalowitchAKAR25,DBLP
+ICWSM,post_gpt,2025,Statewise: Human Identity Investigator for the United States,10.1609/icwsm.v19i1.35949,conf/icwsm/HandzlikJS25,DBLP
+ICWSM,post_gpt,2025,Structural Group Unfairness: Measurement and Mitigation by Means of the Effective Resistance,10.1609/icwsm.v19i1.35805,conf/icwsm/Arnaiz-Rodriguez25,DBLP
+ICWSM,post_gpt,2025,Studying Behavioral Addiction by Combining Surveys and Digital Traces: A Case Study of TikTok,10.1609/icwsm.v19i1.35922,conf/icwsm/YangMDGW25,DBLP
+ICWSM,post_gpt,2025,StyleLink: User Identity Linkage Across Social Media with Stylometric Representations,10.1609/icwsm.v19i1.35920,conf/icwsm/XuF25,DBLP
+ICWSM,post_gpt,2025,Successful Rhetorics: How Do Linguistic Dimensions Affect User Engagement with Different News Categories on Twitter?,10.1609/icwsm.v19i1.35871,conf/icwsm/Mohammadinodooshan25,DBLP
+ICWSM,post_gpt,2025,Supporters and Skeptics: LLM-Based Analysis of Engagement with Mental Health (Mis)Information Content on Video-Sharing Platforms,10.1609/icwsm.v19i1.35875,conf/icwsm/NguyenJCSLLBTKC25,DBLP
+ICWSM,post_gpt,2025,Susceptibility of Communities Against Low-Credibility Content in Social News Websites,10.1609/icwsm.v19i1.35813,conf/icwsm/BayizAMT25,DBLP
+ICWSM,post_gpt,2025,TeleScope A Longitudinal Dataset for Investigating Online Discourse and Information Interaction on Telegram,10.1609/icwsm.v19i1.35945,conf/icwsm/GangopadhyayD0D25,DBLP
+ICWSM,post_gpt,2025,Telegram as a Battlefield: Kremlin-Related Communications During the Russia-Ukraine Conflict,10.1609/icwsm.v19i1.35939,conf/icwsm/BawaKAS0A25,DBLP
+ICWSM,post_gpt,2025,ThatiAR: Subjectivity Detection in Arabic News Sentences,10.1609/icwsm.v19i1.35960,conf/icwsm/SuwailehHHZA25,DBLP
+ICWSM,post_gpt,2025,The Emerging Generative Artificial Intelligence Divide in the United States,10.1609/icwsm.v19i1.35825,conf/icwsm/DaeppC25,DBLP
+ICWSM,post_gpt,2025,The Peripatetic Hater: Predicting Movement Among Hate Subreddits,10.1609/icwsm.v19i1.35846,conf/icwsm/HickeyFSLB25,DBLP
+ICWSM,post_gpt,2025,The Suisse Romande Local News Dataset,10.1609/icwsm.v19i1.35942,conf/icwsm/BrosG25,DBLP
+ICWSM,post_gpt,2025,The Susceptibility Paradox in Online Social Influence,10.1609/icwsm.v19i1.35864,conf/icwsm/LuceriYJF25,DBLP
+ICWSM,post_gpt,2025,Timeliness Matters: Leveraging Reinforcement Learning on Social Media Data to Prioritize High-Risk Conversations for Promoting Youth Online Safety,10.1609/icwsm.v19i1.35802,conf/icwsm/AlsoubaiPSMCW25,DBLP
+ICWSM,post_gpt,2025,Towards Characterizing and Detecting Incentivized Reviews on eCommerce Platforms,10.1609/icwsm.v19i1.35877,conf/icwsm/OakS25,DBLP
+ICWSM,post_gpt,2025,Toxic Bias: Perspective API Misreads German as More Toxic,10.1609/icwsm.v19i1.35876,conf/icwsm/Nogara0CLTG25,DBLP
+ICWSM,post_gpt,2025,UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections,10.1609/icwsm.v19i1.35950,conf/icwsm/HaouariSF0KFLB25,DBLP
+ICWSM,post_gpt,2025,UKTwitNewsCor: A Dataset of Online Local News Articles for the Study of Local News Provision,10.1609/icwsm.v19i1.35940,conf/icwsm/BisianiGWH25,DBLP
+ICWSM,post_gpt,2025,Understanding Online Polarization Through Human-Agent Interaction in a Synthetic LLM-Based Social Network,10.1609/icwsm.v19i1.35826,conf/icwsm/Donkers025,DBLP
+ICWSM,post_gpt,2025,Unifying the Extremes: Developing a Unified Model for Detecting and Predicting Extremist Traits and Radicalization,10.1609/icwsm.v19i1.35860,conf/icwsm/LahnalaVFSB25,DBLP
+ICWSM,post_gpt,2025,Using Causality to Infer Coordinated Attacks in Social Media,10.1609/icwsm.v19i1.35867,conf/icwsm/ManchanayakaZKL25,DBLP
+ICWSM,post_gpt,2025,Variational Inference of Parameters in Opinion Dynamics Models,10.1609/icwsm.v19i1.35963,conf/icwsm/LentiSM25,DBLP
+ICWSM,post_gpt,2025,What Do You Learn About Hard News from Soft News Outlets - A Case Study from People Magazine Online,10.1609/icwsm.v19i1.35921,conf/icwsm/YanMKT25,DBLP
+ICWSM,post_gpt,2025,What Do You Meme? - Identifying Characteristics and User Perceptions of Suicide Memes in Social Media,10.1609/icwsm.v19i1.35822,conf/icwsm/ChenRC25,DBLP
+ICWSM,post_gpt,2025,What Makes a Meme a Meme? Identifying Memes for Memetics-Aware Dataset Creation,10.1609/icwsm.v19i1.35843,conf/icwsm/HazmanMG25,DBLP
+ICWSM,post_gpt,2025,What's in a Label? Propaganda Labels and User Sharing Behavior on Social Media Platforms,10.1609/icwsm.v19i1.35853,conf/icwsm/JoseGMMG25,DBLP
+ICWSM,post_gpt,2025,What's in a Prompt?: A Large-Scale Experiment to Assess the Impact of Prompt Design on the Compliance and Accuracy of LLM-Generated Text Annotations,10.1609/icwsm.v19i1.35807,conf/icwsm/AtrejaALMH25,DBLP
+ICWSM,post_gpt,2025,WikiReddit: Tracing Information and Attention Flows Between Online Platforms,10.1609/icwsm.v19i1.35946,conf/icwsm/GildersleveBIOT25,DBLP
+ICWSM,post_gpt,2025,Words and Action: Modeling Linguistic Leadership in #BlackLivesMatter Communities,10.1609/icwsm.v19i1.35895,conf/icwsm/RoytburgOSK25,DBLP
+ICWSM,post_gpt,2025,Written for Lawyers or Users? Mapping the Complexity of Community Guidelines,10.1609/icwsm.v19i1.35873,conf/icwsm/NahrgangWQNTR25,DBLP
+ICWSM,post_gpt,2025,You Have the Floor: A Speaker-Aligned Corpus Derived from the Congressional Record,10.1609/icwsm.v19i1.35941,conf/icwsm/BochenekW25,DBLP
