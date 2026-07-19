@@ -1,0 +1,3 @@
+venue,era,canonical_papers,abstracts_found,usable_50plus,missing_or_short,abstract_coverage,usable_coverage
+ICLR,pre_gpt,1163,656,650,513,0.5641,0.5589
+ICLR,post_gpt,7955,3627,3627,4328,0.4559,0.4559
