@@ -1,0 +1,10 @@
+output_era,abstract_source,paper_count
+post_gpt,Semantic Scholar DBLP identifier,5731
+post_gpt,Semantic Scholar exact title,3988
+post_gpt,Semantic Scholar fuzzy title,64
+post_gpt,,1571
+pre_gpt,Semantic Scholar DBLP identifier,1390
+pre_gpt,Semantic Scholar DOI,1
+pre_gpt,Semantic Scholar exact title,791
+pre_gpt,Semantic Scholar fuzzy title,7
+pre_gpt,,6138
