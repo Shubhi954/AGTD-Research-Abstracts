@@ -1,0 +1,3 @@
+venue,era,canonical_papers,abstracts_found,usable_50plus,missing_or_short,abstract_coverage,usable_coverage
+ICML,pre_gpt,4950,1525,1512,3438,0.3081,0.3055
+ICML,post_gpt,7783,5238,5237,2546,0.673,0.6729
