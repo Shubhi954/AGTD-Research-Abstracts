@@ -1,0 +1,3 @@
+venue,era,canonical_papers,abstracts_found,usable_50plus,missing_or_short,abstract_coverage,usable_coverage
+ICWSM,pre_gpt,1144,891,883,261,0.7788,0.7719
+ICWSM,post_gpt,442,344,344,98,0.7783,0.7783
