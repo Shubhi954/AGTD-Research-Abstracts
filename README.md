@@ -10,17 +10,16 @@ The present task is gathering high-quality, formal text datasets—specifically 
 * Models Being Used for detection
 
 <!-- PAPER-COUNT-START -->
-## Current count of **papers**
+## Current count of **Abstracts**
 
-| Conference | Pre-GPT papers | Post-GPT papers |
+| Conference | Pre-GPT Abstracts | Post-GPT Abstracts |
 |---|---:|---:|
-| AAAI | 10,675 | 8,418 |
-| CSCW | 2,668 | 1,546 |
-| ICLR | 1,163 | 7,955 |
-| ICML | 4,950 | 7,783 |
-| ICWSM | 1,144 | 442 |
-| NeurIPS | 8,327 | 11,354 |
-| **Total** | **29,927** | **36,498** |
+| AAAI | 4805 | 6537 |
+| CSCW | 704 | 1364 |
+| ICLR | 650 | 3627 |
+| ICML | 1512 | 5237 |
+| ICWSM | 883 | 344 |
+| NeurIPS | 2183 | 9756 |
 
 Pre-GPT papers include publications up to and including 2018.  
 Post-GPT papers include publications from 2023 through 2025.
