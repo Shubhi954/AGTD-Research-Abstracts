@@ -1,0 +1,3 @@
+Conference,Era,Sample Size,Valid Predictions,% Flagged as AI (strict),% Flagged as AI (broad: AI+Mixed)
+AAAI,Pre-GPT,4805,4805,0.0,0.0
+AAAI,Post-GPT,4805,4805,1.62,1.81
