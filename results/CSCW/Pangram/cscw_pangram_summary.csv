@@ -1,0 +1,3 @@
+Conference,Era,Sample Size,Valid Predictions,% Flagged as AI (strict),% Flagged as AI (broad: AI+Mixed)
+CSCW,Pre-GPT,704,704,0.0,0.0
+CSCW,Post-GPT,704,704,5.68,5.97
