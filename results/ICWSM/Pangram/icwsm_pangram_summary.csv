@@ -1,0 +1,3 @@
+Conference,Era,Sample Size,Valid Predictions,% Flagged as AI (strict),% Flagged as AI (broad: AI+Mixed)
+ICWSM,Pre-GPT,344,344,0.0,0.0
+ICWSM,Post-GPT,344,344,6.1,8.43
