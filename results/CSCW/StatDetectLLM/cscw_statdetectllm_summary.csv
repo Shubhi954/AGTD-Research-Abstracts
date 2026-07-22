@@ -1,0 +1,3 @@
+conference,era,sample_size,valid_predictions,pct_flagged_as_ai
+CSCW,pre_gpt,704,704,18.039772727272727
+CSCW,post_gpt,704,704,55.82386363636363
