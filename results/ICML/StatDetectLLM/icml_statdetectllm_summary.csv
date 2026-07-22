@@ -1,0 +1,3 @@
+conference,era,sample_size,valid_predictions,pct_flagged_as_ai
+ICML,pre_gpt,1512,1512,26.58730158730159
+ICML,post_gpt,1512,1512,66.66666666666666
