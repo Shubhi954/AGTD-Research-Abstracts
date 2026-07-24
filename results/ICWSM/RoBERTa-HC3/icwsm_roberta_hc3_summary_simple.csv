@@ -1,0 +1,3 @@
+conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
+ICWSM,RoBERTa-HC3,pre_gpt,344,344,46,13.3721
+ICWSM,RoBERTa-HC3,post_gpt,344,344,44,12.7907

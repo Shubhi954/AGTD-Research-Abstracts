@@ -1,0 +1,3 @@
+conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
+ICWSM,Fakespot AI Detector,pre_gpt,344,344,100,29.0698
+ICWSM,Fakespot AI Detector,post_gpt,344,344,201,58.4302
