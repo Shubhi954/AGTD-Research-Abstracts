@@ -1,0 +1,3 @@
+conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
+ICLR,Fakespot AI Detector,pre_gpt,650,650,180,27.6923
+ICLR,Fakespot AI Detector,post_gpt,650,650,264,40.6154

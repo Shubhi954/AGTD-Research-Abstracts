@@ -1,0 +1,3 @@
+conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
+ICLR,RoBERTa-HC3,pre_gpt,650,650,10,1.5385
+ICLR,RoBERTa-HC3,post_gpt,650,650,4,0.6154

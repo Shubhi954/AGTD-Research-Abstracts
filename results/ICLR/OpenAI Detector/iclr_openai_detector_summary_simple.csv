@@ -1,0 +1,3 @@
+conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
+ICLR,OpenAI Detector,pre_gpt,650,650,24,3.6923
+ICLR,OpenAI Detector,post_gpt,650,650,5,0.7692

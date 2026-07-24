@@ -1,0 +1,3 @@
+conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
+CSCW,Fakespot AI Detector,pre_gpt,704,704,269,38.2102
+CSCW,Fakespot AI Detector,post_gpt,704,704,408,57.9545
