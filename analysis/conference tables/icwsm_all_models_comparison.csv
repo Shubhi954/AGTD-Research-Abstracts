@@ -1,0 +1,6 @@
+Conference,Model,Pre-GPT (%),Post-GPT (%),Δ Post − Pre (pp)
+ICWSM,Pangram,0.0,8.43,8.43
+ICWSM,StatDetectLLM,18.6,58.14,39.54
+ICWSM,RoBERTa-HC3,13.37,12.79,-0.58
+ICWSM,OpenAI Detector,3.2,0.29,-2.91
+ICWSM,Fakespot AI Detector,29.07,58.43,29.36

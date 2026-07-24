@@ -1,0 +1,6 @@
+Model,Weighted Pre-GPT (%),Weighted Post-GPT (%),Weighted Δ (pp),Mean Pre-GPT across conferences (%),Mean Post-GPT across conferences (%),Mean Δ across conferences (pp),Total Pre-GPT predictions,Total Post-GPT predictions
+Pangram,0.0,2.89,2.89,0.0,4.17,4.17,10198,10198
+StatDetectLLM,21.07,66.14,45.07,21.36,64.76,43.4,10198,10198
+RoBERTa-HC3,3.22,2.66,-0.56,5.97,5.78,-0.19,10198,10198
+OpenAI Detector,4.0,1.33,-2.67,4.35,1.26,-3.1,10198,10198
+Fakespot AI Detector,20.13,40.72,20.59,25.11,45.17,20.06,10198,10198

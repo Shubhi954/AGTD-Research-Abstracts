@@ -1,0 +1,6 @@
+Conference,Model,Pre-GPT (%),Post-GPT (%),Δ Post − Pre (pp)
+ICLR,Pangram,0.0,2.46,2.46
+ICLR,StatDetectLLM,22.15,71.85,49.7
+ICLR,RoBERTa-HC3,1.54,0.62,-0.92
+ICLR,OpenAI Detector,3.69,0.77,-2.92
+ICLR,Fakespot AI Detector,27.69,40.62,12.93
