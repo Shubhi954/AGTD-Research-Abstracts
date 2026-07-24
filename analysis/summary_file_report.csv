@@ -1,0 +1,31 @@
+conference,model,summary_path,rows_loaded
+AAAI,Pangram,results/AAAI/Pangram/aaai_pangram_summary.csv,2
+AAAI,StatDetectLLM,results/AAAI/StatDetectLLM/aaai_statdetectllm_summary.csv,2
+AAAI,RoBERTa-HC3,results/AAAI/RoBERTa-HC3/aaai_roberta_hc3_summary_simple.csv,2
+AAAI,OpenAI Detector,results/AAAI/OpenAI Detector/aaai_openai_detector_summary_simple.csv,2
+AAAI,Fakespot AI Detector,results/AAAI/Fakespot AI Detector/aaai_fakespot_ai_detector_summary_simple.csv,2
+CSCW,Pangram,results/CSCW/Pangram/cscw_pangram_summary.csv,2
+CSCW,StatDetectLLM,results/CSCW/StatDetectLLM/cscw_statdetectllm_summary.csv,2
+CSCW,RoBERTa-HC3,results/CSCW/RoBERTa-HC3/cscw_roberta_hc3_summary_simple.csv,2
+CSCW,OpenAI Detector,results/CSCW/OpenAI Detector/cscw_openai_detector_summary_simple.csv,2
+CSCW,Fakespot AI Detector,results/CSCW/Fakespot AI Detector/cscw_fakespot_ai_detector_summary_simple.csv,2
+ICLR,Pangram,results/ICLR/Pangram/iclr_pangram_summary.csv,2
+ICLR,StatDetectLLM,results/ICLR/StatDetectLLM/iclr_statdetectllm_summary.csv,2
+ICLR,RoBERTa-HC3,results/ICLR/RoBERTa-HC3/iclr_roberta_hc3_summary_simple.csv,2
+ICLR,OpenAI Detector,results/ICLR/OpenAI Detector/iclr_openai_detector_summary_simple.csv,2
+ICLR,Fakespot AI Detector,results/ICLR/Fakespot AI Detector/iclr_fakespot_ai_detector_summary_simple.csv,2
+ICML,Pangram,results/ICML/Pangram/icml_pangram_summary.csv,2
+ICML,StatDetectLLM,results/ICML/StatDetectLLM/icml_statdetectllm_summary.csv,2
+ICML,RoBERTa-HC3,results/ICML/RoBERTa-HC3/icml_roberta_hc3_summary_simple.csv,2
+ICML,OpenAI Detector,results/ICML/OpenAI Detector/icml_openai_detector_summary_simple.csv,2
+ICML,Fakespot AI Detector,results/ICML/Fakespot AI Detector/icml_fakespot_ai_detector_summary_simple.csv,2
+ICWSM,Pangram,results/ICWSM/Pangram/icwsm_pangram_summary.csv,2
+ICWSM,StatDetectLLM,results/ICWSM/StatDetectLLM/icwsm_statdetectllm_summary.csv,2
+ICWSM,RoBERTa-HC3,results/ICWSM/RoBERTa-HC3/icwsm_roberta_hc3_summary_simple.csv,2
+ICWSM,OpenAI Detector,results/ICWSM/OpenAI Detector/icwsm_openai_detector_summary_simple.csv,2
+ICWSM,Fakespot AI Detector,results/ICWSM/Fakespot AI Detector/icwsm_fakespot_ai_detector_summary_simple.csv,2
+NeurIPS,Pangram,results/NeurIPS/Pangram/neurips_pangram_summary.csv,2
+NeurIPS,StatDetectLLM,results/NeurIPS/StatDetectLLM/neurips_statdetectllm_summary.csv,2
+NeurIPS,RoBERTa-HC3,results/NeurIPS/RoBERTa-HC3/neurips_roberta_hc3_summary_simple.csv,2
+NeurIPS,OpenAI Detector,results/NeurIPS/OpenAI Detector/neurips_openai_detector_summary_simple.csv,2
+NeurIPS,Fakespot AI Detector,results/NeurIPS/Fakespot AI Detector/neurips_fakespot_ai_detector_summary_simple.csv,2
