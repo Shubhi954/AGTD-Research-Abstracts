@@ -1,3 +1,0 @@
-conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
-AAAI,OpenAI Detector,pre_gpt,4805,4805,179,3.7253
-AAAI,OpenAI Detector,post_gpt,4805,4805,70,1.4568

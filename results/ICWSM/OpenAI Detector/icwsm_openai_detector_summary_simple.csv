@@ -1,3 +1,0 @@
-conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
-ICWSM,OpenAI Detector,pre_gpt,344,344,11,3.1977
-ICWSM,OpenAI Detector,post_gpt,344,344,1,0.2907
