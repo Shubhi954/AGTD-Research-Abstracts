@@ -2,5 +2,4 @@ Conference,Model,Pre-GPT (%),Post-GPT (%),Δ Post − Pre (pp)
 AAAI,Pangram,0.0,1.81,1.81
 AAAI,StatDetectLLM,18.23,65.06,46.83
 AAAI,RoBERTa-HC3,2.48,1.48,-1.0
-AAAI,OpenAI Detector,3.73,1.46,-2.27
 AAAI,Fakespot AI Detector,16.36,39.25,22.89

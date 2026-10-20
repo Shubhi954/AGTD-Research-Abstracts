@@ -2,5 +2,4 @@ Conference,Model,Pre-GPT (%),Post-GPT (%),Δ Post − Pre (pp)
 ICML,Pangram,0.0,2.58,2.58
 ICML,StatDetectLLM,26.59,66.67,40.08
 ICML,RoBERTa-HC3,1.12,0.46,-0.66
-ICML,OpenAI Detector,3.37,0.79,-2.58
 ICML,Fakespot AI Detector,21.03,35.52,14.49

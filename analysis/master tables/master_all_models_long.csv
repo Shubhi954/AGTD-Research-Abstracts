@@ -5,8 +5,6 @@ AAAI,StatDetectLLM,pre_gpt,4805,4805,876,18.231
 AAAI,StatDetectLLM,post_gpt,4805,4805,3126,65.0572
 AAAI,RoBERTa-HC3,pre_gpt,4805,4805,119,2.4766
 AAAI,RoBERTa-HC3,post_gpt,4805,4805,71,1.4776
-AAAI,OpenAI Detector,pre_gpt,4805,4805,179,3.7253
-AAAI,OpenAI Detector,post_gpt,4805,4805,70,1.4568
 AAAI,Fakespot AI Detector,pre_gpt,4805,4805,786,16.358
 AAAI,Fakespot AI Detector,post_gpt,4805,4805,1886,39.2508
 CSCW,Pangram,pre_gpt,704,704,0,0.0
@@ -15,8 +13,6 @@ CSCW,StatDetectLLM,pre_gpt,704,704,127,18.0398
 CSCW,StatDetectLLM,post_gpt,704,704,393,55.8239
 CSCW,RoBERTa-HC3,pre_gpt,704,704,115,16.3352
 CSCW,RoBERTa-HC3,post_gpt,704,704,132,18.75
-CSCW,OpenAI Detector,pre_gpt,704,704,58,8.2386
-CSCW,OpenAI Detector,post_gpt,704,704,21,2.983
 CSCW,Fakespot AI Detector,pre_gpt,704,704,269,38.2102
 CSCW,Fakespot AI Detector,post_gpt,704,704,408,57.9545
 ICLR,Pangram,pre_gpt,650,650,0,0.0
@@ -25,8 +21,6 @@ ICLR,StatDetectLLM,pre_gpt,650,650,144,22.1538
 ICLR,StatDetectLLM,post_gpt,650,650,467,71.8462
 ICLR,RoBERTa-HC3,pre_gpt,650,650,10,1.5385
 ICLR,RoBERTa-HC3,post_gpt,650,650,4,0.6154
-ICLR,OpenAI Detector,pre_gpt,650,650,24,3.6923
-ICLR,OpenAI Detector,post_gpt,650,650,5,0.7692
 ICLR,Fakespot AI Detector,pre_gpt,650,650,180,27.6923
 ICLR,Fakespot AI Detector,post_gpt,650,650,264,40.6154
 ICML,Pangram,pre_gpt,1512,1512,0,0.0
@@ -35,8 +29,6 @@ ICML,StatDetectLLM,pre_gpt,1512,1512,402,26.5873
 ICML,StatDetectLLM,post_gpt,1512,1512,1008,66.6667
 ICML,RoBERTa-HC3,pre_gpt,1512,1512,17,1.1243
 ICML,RoBERTa-HC3,post_gpt,1512,1512,7,0.463
-ICML,OpenAI Detector,pre_gpt,1512,1512,51,3.373
-ICML,OpenAI Detector,post_gpt,1512,1512,12,0.7937
 ICML,Fakespot AI Detector,pre_gpt,1512,1512,318,21.0317
 ICML,Fakespot AI Detector,post_gpt,1512,1512,537,35.5159
 ICWSM,Pangram,pre_gpt,344,344,0,0.0
@@ -45,8 +37,6 @@ ICWSM,StatDetectLLM,pre_gpt,344,344,64,18.6047
 ICWSM,StatDetectLLM,post_gpt,344,344,200,58.1395
 ICWSM,RoBERTa-HC3,pre_gpt,344,344,46,13.3721
 ICWSM,RoBERTa-HC3,post_gpt,344,344,44,12.7907
-ICWSM,OpenAI Detector,pre_gpt,344,344,11,3.1977
-ICWSM,OpenAI Detector,post_gpt,344,344,1,0.2907
 ICWSM,Fakespot AI Detector,pre_gpt,344,344,100,29.0698
 ICWSM,Fakespot AI Detector,post_gpt,344,344,201,58.4302
 NeurIPS,Pangram,pre_gpt,2183,2183,0,0.0
@@ -55,7 +45,5 @@ NeurIPS,StatDetectLLM,pre_gpt,2183,2183,536,24.5534
 NeurIPS,StatDetectLLM,post_gpt,2183,2183,1551,71.049
 NeurIPS,RoBERTa-HC3,pre_gpt,2183,2183,21,0.962
 NeurIPS,RoBERTa-HC3,post_gpt,2183,2183,13,0.5955
-NeurIPS,OpenAI Detector,pre_gpt,2183,2183,85,3.8937
-NeurIPS,OpenAI Detector,post_gpt,2183,2183,27,1.2368
 NeurIPS,Fakespot AI Detector,pre_gpt,2183,2183,400,18.3234
 NeurIPS,Fakespot AI Detector,post_gpt,2183,2183,857,39.2579

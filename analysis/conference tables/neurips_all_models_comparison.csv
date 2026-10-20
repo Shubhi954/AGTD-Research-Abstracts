@@ -2,5 +2,4 @@ Conference,Model,Pre-GPT (%),Post-GPT (%),Δ Post − Pre (pp)
 NeurIPS,Pangram,0.0,3.76,3.76
 NeurIPS,StatDetectLLM,24.55,71.05,46.5
 NeurIPS,RoBERTa-HC3,0.96,0.6,-0.36
-NeurIPS,OpenAI Detector,3.89,1.24,-2.65
 NeurIPS,Fakespot AI Detector,18.32,39.26,20.94
