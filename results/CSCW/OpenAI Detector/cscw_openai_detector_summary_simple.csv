@@ -1,3 +1,0 @@
-conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
-CSCW,OpenAI Detector,pre_gpt,704,704,58,8.2386
-CSCW,OpenAI Detector,post_gpt,704,704,21,2.983

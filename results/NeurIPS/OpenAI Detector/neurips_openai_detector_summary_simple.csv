@@ -1,3 +1,0 @@
-conference,model,era,sample_size,valid_predictions,ai_flagged,pct_flagged_as_ai
-NeurIPS,OpenAI Detector,pre_gpt,2183,2183,85,3.8937
-NeurIPS,OpenAI Detector,post_gpt,2183,2183,27,1.2368
