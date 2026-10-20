@@ -2,5 +2,4 @@ Conference,Model,Pre-GPT (%),Post-GPT (%),Δ Post − Pre (pp)
 CSCW,Pangram,0.0,5.97,5.97
 CSCW,StatDetectLLM,18.04,55.82,37.78
 CSCW,RoBERTa-HC3,16.34,18.75,2.41
-CSCW,OpenAI Detector,8.24,2.98,-5.26
 CSCW,Fakespot AI Detector,38.21,57.95,19.74
